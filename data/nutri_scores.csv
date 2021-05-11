@@ -1,0 +1,767 @@
+,food_id,food_name,food_group,food_subgroup,source_name,nutri_score,nutri_score_category,hasQuality
+0,4,Kiwi,Fruits,Tropical fruits,Fat,-1,A,"['high_vitaminK1', 'high_vitaminB5']"
+1,6,Garden onion,Vegetables,Onion-family vegetables,Fat,-4,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB6']"
+2,9,Chives,Herbs and Spices,Herbs,Fat,-3,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+3,11,Cashew nut,Nuts,Nuts,Fat,14,D,"['high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+4,12,Pineapple,Fruits,Tropical fruits,Fat,2,B,"['high_vitaminB5', 'high_vitaminB8']"
+5,13,Dill,Herbs and Spices,Herbs,Fat,7,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8', 'high_vitaminB11']"
+6,14,Custard apple,Fruits,Tropical fruits,Fat,3,C,['high_vitaminB5']
+7,15,Wild celery,Herbs and Spices,Spices,Fat,-1,A,"['high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+8,16,Peanut,Nuts,Nuts,Fat,7,C,"['high_potassium', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+9,17,Burdock,Vegetables,Root vegetables,Fat,0,B,['high_vitaminB5']
+10,18,Horseradish,Herbs and Spices,Spices,Fat,-7,A,['high_vitaminB5']
+11,19,Tarragon,Herbs and Spices,Herbs,Fat,9,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB6', 'high_vitaminB11']"
+12,20,Mugwort,Herbs and Spices,Herbs,Fat,-5,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminB2', 'high_vitaminB3']"
+13,21,Asparagus,Vegetables,Shoot vegetables,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+14,22,Oat,Cereals and cereal products,Cereals,Fat,10,C,"['high_phosphorus', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+15,23,Star fruit,Fruits,Tropical fruits,Fat,-2,A,['high_vitaminB5']
+16,24,Brazil nut,Nuts,Nuts,Fat,8,C,"['high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+17,26,Borage,Herbs and Spices,Oilseed crops,Fat,-1,A,['high_vitaminB5']
+18,27,Chinese mustard,Vegetables,Cabbages,Fat,-4,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+19,32,Brussel sprouts,Vegetables,Cabbages,Fat,-6,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+20,33,Kohlrabi,Vegetables,Root vegetables,Fat,-4,A,['high_vitaminB5']
+21,37,Pigeon pea,Pulses,Peas,Fat,-3,A,"['high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+22,38,Tea,Teas,Teas,Fat,-7,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+23,39,Capers,Herbs and Spices,Spices,Fat,6,C,"['high_sodium', 'high_vitaminK1', 'high_vitaminB5']"
+24,40,Pepper,Vegetables,Fruit vegetables,Fat,9,C,"['high_sodium', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+25,41,Papaya,Fruits,Tropical fruits,Fat,-1,A,['high_vitaminB5']
+26,42,Safflower,Herbs and Spices,Oilseed crops,Fat,-5,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+27,43,Caraway,Herbs and Spices,Spices,Fat,6,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1']"
+28,46,Roman camomile,Herbs and Spices,Herbs,Fat,-3,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB2']"
+29,47,Chickpea,Pulses,Peas,Fat,8,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+30,48,Endive,Vegetables,Leaf vegetables,Fat,-3,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+31,49,Chicory,Vegetables,Root vegetables,Fat,0,B,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+32,50,Chinese cinnamon,Herbs and Spices,Spices,Fat,3,C,"['high_calcium', 'high_iron', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5']"
+33,51,Ceylon cinnamon,Herbs and Spices,Spices,Fat,-2,A,"['high_calcium', 'high_iron']"
+34,52,Watermelon,Gourds,Gourds,Fat,1,B,['high_vitaminB5']
+35,53,Lime,Fruits,Citrus,Fat,-1,A,['high_vitaminB5']
+36,54,Lemon,Fruits,Citrus,Fat,-5,A,"['high_vitaminB5', 'high_vitaminB8']"
+37,56,"Mandarin orange (Clementine, Tangerine)",Fruits,Citrus,Fat,2,B,"['high_vitaminB5', 'high_vitaminB8']"
+38,57,Sweet orange,Fruits,Citrus,Fat,12,D,"['high_vitaminB5', 'high_vitaminB8']"
+39,59,Arabica coffee,Coffee and coffee products,Coffee,Fat,14,D,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminB3', 'high_vitaminB5']"
+40,61,Coriander,Herbs and Spices,Herbs,Fat,4,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+41,62,Common hazelnut,Nuts,Nuts,Fat,-5,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+42,63,Saffron,Herbs and Spices,Spices,Fat,10,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB6', 'high_vitaminB11']"
+43,64,Muskmelon,Gourds,Gourds,Fat,1,B,['high_vitaminB5']
+44,65,Cucumber,Gourds,Gourds,Fat,6,C,"['high_vitaminB5', 'high_vitaminB8']"
+45,66,Cucurbita,Gourds,Gourds,Fat,6,C,"['high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+46,67,Cumin,Herbs and Spices,Spices,Fat,12,D,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB6']"
+47,68,Turmeric,Herbs and Spices,Spices,Fat,13,D,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB3', 'high_vitaminB6']"
+48,69,Quince,Fruits,Pomes,Fat,1,B,['high_vitaminB5']
+49,70,Lemon grass,Herbs and Spices,Herbs,Fat,-1,A,"['high_potassium', 'high_iron', 'high_vitaminB5', 'high_vitaminB11']"
+50,72,Wild carrot,Vegetables,Root vegetables,Fat,0,B,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+51,74,Cardamom,Herbs and Spices,Spices,Fat,8,C,"['high_potassium', 'high_calcium', 'high_iron']"
+52,76,Loquat,Fruits,Tropical fruits,Fat,0,B,[]
+53,79,Common buckwheat,Cereals and cereal products,Cereals,Fat,10,C,"['high_vitaminEGamma', 'high_vitaminB5', 'high_vitaminB8']"
+54,81,Fig,Fruits,Other fruits,Fat,6,C,"['high_potassium', 'high_vitaminB5', 'high_vitaminB8']"
+55,82,Fennel,Herbs and Spices,Herbs,Fat,4,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5']"
+56,85,Soy bean,Soy,Soy,Fat,5,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminEDelta', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+57,86,Sunflower,Herbs and Spices,Oilseed crops,Fat,15,D,"['high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+58,87,Sea-buckthornberry,Fruits,Berries,Fat,0,B,[]
+59,88,Barley,Cereals and cereal products,Cereals,Fat,6,C,"['high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+60,91,Swamp cabbage,Vegetables,Leaf vegetables,Fat,-2,A,['high_vitaminB5']
+61,92,Sweet potato,Vegetables,Tubers,Fat,0,B,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+62,93,Black walnut,Nuts,Nuts,Fat,7,C,"['high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+63,94,Common walnut,Nuts,Nuts,Fat,9,C,"['high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+64,95,Lettuce,Vegetables,Leaf vegetables,Fat,-1,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+65,98,Lentils,Pulses,Lentils,Fat,3,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+66,99,Garden cress,Vegetables,Leaf vegetables,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+67,100,Lovage,Herbs and Spices,Herbs,Fat,-5,A,[]
+68,101,Flaxseed,Herbs and Spices,Oilseed crops,Fat,10,C,"['high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+69,105,Apple,Fruits,Pomes,Fat,11,D,"['high_vitaminB5', 'high_vitaminB8']"
+70,106,Mango,Fruits,Tropical fruits,Fat,1,B,"['high_vitaminB5', 'high_vitaminB11']"
+71,108,Lemon balm,Herbs and Spices,Herbs,Fat,-5,A,[]
+72,112,Spearmint,Herbs and Spices,Herbs,Fat,-7,A,"['high_iron', 'high_vitaminB5', 'high_vitaminB11']"
+73,113,Peppermint,Herbs and Spices,Herbs,Fat,-6,A,"['high_calcium', 'high_iron', 'high_vitaminB5', 'high_vitaminB11']"
+74,115,Bitter gourd,Gourds,Gourds,Fat,-4,A,"['high_potassium', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+75,118,Nutmeg,Herbs and Spices,Spices,Fat,9,C,"['high_phosphorus', 'high_vitaminB11']"
+76,119,Sweet basil,Herbs and Spices,Herbs,Fat,-2,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+77,120,Evening primrose,Herbs and Spices,Oilseed crops,Fat,-5,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus']"
+78,121,Olive,Vegetables,Fruit vegetables,Fat,16,D,"['high_vitaminK1', 'high_vitaminB5']"
+79,122,Sweet marjoram,Herbs and Spices,Herbs,Fat,4,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB6', 'high_vitaminB11']"
+80,124,Common oregano,Herbs and Spices,Herbs,Fat,2,B,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+81,125,Rice,Cereals and cereal products,Cereals,Fat,5,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+82,128,Passion fruit,Fruits,Tropical fruits,Fat,-5,A,[]
+83,129,Parsnip,Vegetables,Root vegetables,Fat,-4,A,"['high_potassium', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+84,130,Avocado,Vegetables,Fruit vegetables,Fat,6,C,"['high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+85,131,Parsley,Herbs and Spices,Herbs,Fat,-5,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+86,132,Scarlet bean,Pulses,Beans,Fat,-5,A,"['high_potassium', 'high_phosphorus']"
+87,133,Lima bean,Pulses,Beans,Fat,-5,A,['high_vitaminB5']
+88,134,Common bean,Pulses,Beans,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+89,135,Date,Fruits,Other fruits,Fat,8,C,"['high_potassium', 'high_vitaminB5']"
+90,137,Anise,Herbs and Spices,Herbs,Fat,11,D,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6']"
+91,139,Pepper (Spice),Herbs and Spices,Spices,Fat,-1,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5']"
+92,140,Pistachio,Nuts,Nuts,Fat,8,C,"['high_potassium', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+93,141,Common pea,Pulses,Peas,Fat,-6,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+94,142,Purslane,Herbs and Spices,Herbs,Fat,0,B,['high_vitaminB5']
+95,144,Apricot,Fruits,Drupes,Fat,1,B,"['high_vitaminB5', 'high_vitaminB8']"
+96,146,Sour cherry,Fruits,Drupes,Fat,1,B,['high_vitaminB5']
+97,147,European plum,Fruits,Drupes,Fat,0,B,['high_vitaminB5']
+98,148,Almond,Nuts,Nuts,Fat,8,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+99,149,Peach,Fruits,Drupes,Fat,2,B,"['high_vitaminB5', 'high_vitaminB8']"
+100,150,Guava,Fruits,Tropical fruits,Fat,-5,A,['high_vitaminB5']
+101,151,Pomegranate,Fruits,Tropical fruits,Fat,3,C,['high_vitaminB5']
+102,152,Pear,Fruits,Pomes,Fat,0,B,"['high_vitaminB5', 'high_vitaminB8']"
+103,153,Radish,Vegetables,Root vegetables,Fat,-1,A,['high_vitaminB5']
+104,154,Garden rhubarb,Vegetables,Stalk vegetables,Fat,-4,A,"['high_vitaminK1', 'high_vitaminB5']"
+105,155,Blackcurrant,Fruits,Berries,Fat,11,D,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+106,156,Redcurrant,Fruits,Berries,Fat,9,C,"['high_vitaminB5', 'high_vitaminB8']"
+107,157,Gooseberry,Fruits,Berries,Fat,-3,A,"['high_vitaminB5', 'high_vitaminB8']"
+108,158,Watercress,Herbs and Spices,Herbs,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+109,159,Rosemary,Herbs and Spices,Herbs,Fat,10,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+110,162,Red raspberry,Fruits,Berries,Fat,2,B,['high_vitaminB5']
+111,164,Sorrel,Herbs and Spices,Herbs,Fat,-4,A,['high_vitaminB5']
+112,165,Common sage,Herbs and Spices,Herbs,Fat,7,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB6', 'high_vitaminB11']"
+113,166,Black elderberry,Fruits,Berries,Fat,-1,A,[]
+114,167,Summer savory,Herbs and Spices,Herbs,Fat,4,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminB1', 'high_vitaminB6']"
+115,169,Rye,Cereals and cereal products,Cereals,Fat,6,C,"['high_phosphorus', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+116,170,Sesame,Herbs and Spices,Oilseed crops,Fat,10,C,"['high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+117,173,Garden tomato (var.),Vegetables,Fruit vegetables,Fat,-1,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+118,174,Eggplant,Vegetables,Fruit vegetables,Fat,-2,A,['high_vitaminB5']
+119,175,Potato,Vegetables,Tubers,Fat,21,E,"['high_potassium', 'high_vitaminB5', 'high_vitaminB8']"
+120,178,Spinach,Vegetables,Leaf vegetables,Fat,-3,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+121,179,Cloves,Herbs and Spices,Spices,Fat,15,D,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB5']"
+122,180,Tamarind,Fruits,Tropical fruits,Fat,7,C,"['high_potassium', 'high_vitaminB1', 'high_vitaminB5']"
+123,181,Dandelion,Herbs and Spices,Herbs,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB5']"
+124,182,Cocoa bean,Cocoa and cocoa products,Cocoa,Fat,-1,A,"['high_phosphorus', 'high_vitaminB5']"
+125,183,Common thyme,Herbs and Spices,Herbs,Fat,5,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+126,184,Linden,Herbs and Spices,Herbs,Fat,-4,A,[]
+127,186,Fenugreek,Herbs and Spices,Herbs,Fat,7,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB6']"
+128,187,Common wheat,Cereals and cereal products,Cereals,Fat,5,C,"['high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+129,191,Highbush blueberry,Fruits,Berries,Fat,-1,A,"['high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB5']"
+130,192,American cranberry,Fruits,Berries,Fat,-3,A,['high_vitaminB5']
+131,193,Bilberry,Fruits,Berries,Fat,-1,A,['high_vitaminB5']
+132,197,Broad bean,Pulses,Beans,Fat,-6,A,"['high_vitaminB5', 'high_vitaminB11']"
+133,198,Adzuki bean,Pulses,Beans,Fat,-6,A,"['high_potassium', 'high_iron', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+134,199,Gram bean,Pulses,Beans,Fat,4,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB5', 'high_vitaminB11']"
+135,200,Mung bean,Pulses,Beans,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+136,204,Common grape,Fruits,Berries,Fat,6,C,"['high_potassium', 'high_vitaminB5']"
+137,205,Corn,Cereals and cereal products,Cereals,Fat,9,C,"['high_vitaminB5', 'high_vitaminB8']"
+138,206,Ginger,Herbs and Spices,Spices,Fat,1,B,['high_vitaminB5']
+139,264,Red beetroot,Vegetables,Root vegetables,Fat,2,B,['high_vitaminB5']
+140,284,Winter squash,Gourds,Gourds,Fat,0,B,['high_vitaminB5']
+141,288,Allspice,Herbs and Spices,Spices,Fat,13,D,"['high_potassium', 'high_calcium', 'high_iron']"
+142,289,Amaranth,Herbs and Spices,Herbs,Fat,-6,A,"['high_potassium', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+143,291,Arrowroot,Vegetables,Tubers,Fat,-1,A,"['high_vitaminB5', 'high_vitaminB11']"
+144,312,Breadfruit,Fruits,Tropical fruits,Fat,0,B,['high_vitaminB5']
+145,313,Breadnut tree seed,Herbs and Spices,Other seeds,Fat,1,B,"['high_potassium', 'high_vitaminB5', 'high_vitaminB11']"
+146,318,Giant butterbur,Vegetables,Other vegetables,Fat,0,B,"['high_potassium', 'high_vitaminB5']"
+147,320,Butternut,Nuts,Nuts,Fat,9,C,"['high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+148,322,Calabash,Gourds,Gourds,Fat,0,B,['high_vitaminB5']
+149,326,Carob,Vegetables,Other vegetables,Fat,5,C,"['high_potassium', 'high_calcium', 'high_vitaminB2', 'high_vitaminB5']"
+150,328,Cassava,Vegetables,Tubers,Fat,7,C,['high_vitaminB5']
+151,330,Chayote,Gourds,Gourds,Fat,-1,A,"['high_vitaminB5', 'high_vitaminB11']"
+152,331,Cherimoya,Fruits,Tropical fruits,Fat,-1,A,['high_vitaminB5']
+153,332,Chervil,Herbs and Spices,Spices,Fat,-3,A,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+154,337,Chinese water chestnut,Vegetables,Other vegetables,Fat,2,B,['high_vitaminB5']
+155,338,Garland chrysanthemum,Vegetables,Leaf vegetables,Fat,-4,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+156,341,Coconut,Fruits,Tropical fruits,Fat,10,C,"['high_potassium', 'high_vitaminB5', 'high_vitaminB8']"
+157,345,Corn salad,Vegetables,Leaf vegetables,Fat,-1,A,['high_vitaminB5']
+158,346,Cottonseed,Herbs and Spices,Oilseed crops,Fat,20,E,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8', 'high_vitaminB11']"
+159,360,Durian,Fruits,Tropical fruits,Fat,7,C,"['high_vitaminB1', 'high_vitaminB5']"
+160,368,European chestnut,Nuts,Nuts,Fat,6,C,"['high_vitaminB5', 'high_vitaminB11']"
+161,372,Ginkgo nuts,Herbs and Spices,Other seeds,Fat,2,B,"['high_vitaminB3', 'high_vitaminB5']"
+162,384,Horseradish tree,Vegetables,Other vegetables,Fat,-5,A,"['high_vitaminK1', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB6']"
+163,386,Hyacinth bean,Pulses,Beans,Fat,-3,A,"['high_vitaminB5', 'high_vitaminB11']"
+164,387,Irish moss,Aquatic foods,Seaweed,Fat,1,B,"['high_iron', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB11']"
+165,389,Jackfruit,Fruits,Tropical fruits,Fat,3,C,['high_vitaminB5']
+166,391,Java plum,Fruits,Tropical fruits,Fat,0,B,[]
+167,392,Jerusalem artichoke,Vegetables,Tubers,Fat,-2,A,"['high_vitaminB5', 'high_vitaminB8']"
+168,394,Jute,Vegetables,Leaf vegetables,Fat,-4,A,"['high_iron', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+169,399,Lambsquarters,Vegetables,Leaf vegetables,Fat,-6,A,"['high_calcium', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB5']"
+170,401,Wild leek,Vegetables,Onion-family vegetables,Fat,1,B,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+171,407,Sacred lotus,Vegetables,Other vegetables,Fat,-4,A,['high_vitaminB5']
+172,408,White lupine,Pulses,Other pulses,Fat,14,D,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+173,409,Malabar spinach,Vegetables,Leaf vegetables,Fat,-3,A,"['high_vitaminB5', 'high_vitaminB11']"
+174,410,Mammee apple,Fruits,Tropical fruits,Fat,-1,A,['high_vitaminB5']
+175,411,Purple mangosteen,Fruits,Tropical fruits,Fat,2,B,['high_vitaminB5']
+176,416,Moth bean,Pulses,Beans,Fat,-5,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+177,417,Mountain yam,Vegetables,Tubers,Fat,0,B,['high_vitaminB5']
+178,420,White mustard,Herbs and Spices,Spices,Fat,9,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+179,422,New Zealand spinach,Vegetables,Leaf vegetables,Fat,0,B,"['high_vitaminK1', 'high_vitaminB5']"
+180,436,Pepper (C. frutescens),Vegetables,Fruit vegetables,Fat,-5,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+181,437,Common persimmon,Fruits,Tropical fruits,Fat,0,B,[]
+182,441,Colorado pinyon,Nuts,Nuts,Fat,8,C,"['high_potassium', 'high_vitaminB1', 'high_vitaminB5']"
+183,442,Pitanga,Fruits,Tropical fruits,Fat,0,B,[]
+184,445,American pokeweed,Vegetables,Shoot vegetables,Fat,-2,A,"['high_vitaminK1', 'high_vitaminB5']"
+185,447,Opium poppy,Herbs and Spices,Spices,Fat,7,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+186,448,Prairie turnip,Vegetables,Root vegetables,Fat,1,B,['high_vitaminB6']
+187,455,Malabar plum,Fruits,Tropical fruits,Fat,1,B,[]
+188,457,Roselle,Herbs and Spices,Herbs,Fat,0,B,"['high_vitaminEAlpha', 'high_vitaminEGamma']"
+189,467,Common salsify,Vegetables,Root vegetables,Fat,-1,A,['high_vitaminB5']
+190,468,Sapodilla,Fruits,Tropical fruits,Fat,0,B,['high_vitaminB5']
+191,488,Soursop,Fruits,Tropical fruits,Fat,0,B,['high_vitaminB5']
+192,493,Strawberry guava,Fruits,Berries,Fat,-3,A,[]
+193,496,Sugar apple,Fruits,Tropical fruits,Fat,0,B,['high_vitaminB5']
+194,499,Taro,Vegetables,Root vegetables,Fat,6,C,['high_vitaminB5']
+195,502,Mexican groundcherry,Vegetables,Fruit vegetables,Fat,0,B,['high_vitaminB5']
+196,503,Towel gourd,Gourds,Gourds,Fat,-1,A,['high_vitaminB5']
+197,510,Wax gourd,Gourds,Gourds,Fat,-2,A,['high_vitaminB5']
+198,518,Winged bean,Pulses,Beans,Fat,-4,A,"['high_vitaminB5', 'high_vitaminB11']"
+199,519,Yam,Vegetables,Tubers,Fat,1,B,"['high_potassium', 'high_vitaminB5']"
+200,520,Jicama,Vegetables,Root vegetables,Fat,-5,A,['high_vitaminB5']
+201,521,Yautia,Vegetables,Leaf vegetables,Fat,4,C,['high_vitaminB5']
+202,536,Macadamia nut,Nuts,Nuts,Fat,10,C,"['high_vitaminB1', 'high_vitaminB5']"
+203,553,Yardlong bean,Pulses,Peas,Fat,-6,A,"['high_vitaminB5', 'high_vitaminB11']"
+204,558,Feijoa,Fruits,Tropical fruits,Fat,-4,A,['high_vitaminB5']
+205,802,Ucuhuba,Herbs and Spices,Oilseed crops,Fat,0,B,[]
+206,813,Nance,Fruits,Tropical fruits,Fat,0,B,['high_vitaminB5']
+207,880,Soft-necked garlic,Herbs and Spices,Herbs,Fat,-5,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_vitaminB8']"
+208,881,Cabbage,Vegetables,Cabbages,Fat,-3,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+209,2,Savoy cabbage,Vegetables,Cabbages,Proteins,-4,A,"['high_vitaminB5', 'high_vitaminB11']"
+211,5,Allium,Vegetables,Onion-family vegetables,Proteins,0,B,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+213,7,Leek,Vegetables,Onion-family vegetables,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+214,8,Garlic,Herbs and Spices,Herbs,Proteins,4,C,"['high_potassium', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+230,25,Common beet,Vegetables,Leaf vegetables,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB11']"
+233,28,Swede,Vegetables,Root vegetables,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB8']"
+234,30,Common cabbage,Vegetables,Cabbages,Proteins,4,C,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+235,31,Cauliflower,Vegetables,Cabbages,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+238,34,Broccoli,Vegetables,Cabbages,Proteins,-4,A,"['high_vitaminC', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+239,35,Chinese cabbage,Vegetables,Cabbages,Proteins,-1,A,"['high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+240,36,Turnip,Herbs and Spices,Herbs,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB8']"
+248,44,Pecan nut,Nuts,Nuts,Proteins,8,C,"['high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5']"
+249,45,Chestnut,Nuts,Nuts,Proteins,4,C,"['high_vitaminB5', 'high_vitaminB8']"
+259,55,Pummelo,Fruits,Citrus,Proteins,0,B,[]
+262,58,Coffee,Coffee and coffee products,Coffee,Proteins,8,C,"['high_potassium', 'high_vitaminB3', 'high_vitaminB5']"
+274,71,Globe artichoke,Vegetables,Shoot vegetables,Proteins,-7,A,"['high_vitaminB5', 'high_vitaminB11']"
+275,245,Carrot,Vegetables,Root vegetables,Proteins,1,B,"['high_vitaminB5', 'high_vitaminB8']"
+277,73,Japanese persimmon,Fruits,Tropical fruits,Proteins,0,B,[]
+280,77,Rocket salad (ssp.),Vegetables,Leaf vegetables,Proteins,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+284,83,Strawberry,Fruits,Berries,Proteins,11,D,"['high_vitaminB5', 'high_vitaminB8']"
+294,97,Sweet bay,Herbs and Spices,Herbs,Proteins,12,D,"['high_calcium', 'high_iron', 'high_vitaminB2', 'high_vitaminB6', 'high_vitaminB11']"
+299,103,Lichee,Fruits,Tropical fruits,Proteins,2,B,[]
+306,117,Black mulberry,Fruits,Berries,Proteins,0,B,[]
+314,126,Millet,Cereals and cereal products,Cereals,Proteins,10,C,"['high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6']"
+315,127,Poppy,Herbs and Spices,Oilseed crops,Proteins,6,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB6']"
+325,138,Pine nut,Nuts,Nuts,Proteins,11,D,"['high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5']"
+330,143,"Prunus (Cherry, Plum)",Fruits,Drupes,Proteins,11,D,"['high_vitaminB5', 'high_vitaminB8']"
+332,145,Sweet cherry,Fruits,Drupes,Proteins,1,B,['high_vitaminB5']
+347,160,"Rubus (Blackberry, Raspberry)",Fruits,Berries,Proteins,0,B,"['high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB8']"
+348,161,Cloudberry,Fruits,Berries,Proteins,-1,A,['high_potassium']
+356,171,Garden tomato,Vegetables,Fruit vegetables,Proteins,-2,A,"['high_potassium', 'high_vitaminB5', 'high_vitaminB8']"
+360,177,Sorghum,Cereals and cereal products,Cereals,Proteins,7,C,"['high_iron', 'high_phosphorus', 'high_vitaminB5']"
+370,188,"Vaccinium (Blueberry, Cranberry, Huckleberry)",Fruits,Berries,Proteins,1,B,['high_vitaminB5']
+374,194,Lingonberry,Fruits,Berries,Proteins,6,C,"['high_vitaminB5', 'high_vitaminB8']"
+375,195,Vanilla,Herbs and Spices,Spices,Proteins,0,B,['high_vitaminB5']
+380,202,Cowpea,Pulses,Peas,Proteins,-4,A,"['high_vitaminK1', 'high_vitaminB5']"
+381,203,Muscadine grape,Fruits,Berries,Proteins,-2,A,[]
+385,208,Banana,Fruits,Tropical fruits,Proteins,3,C,"['high_vitaminB5', 'high_vitaminB8']"
+386,214,Celeriac,Vegetables,Root vegetables,Proteins,-5,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+387,224,Longan,Fruits,Tropical fruits,Proteins,2,B,[]
+388,229,Nectarine,Fruits,Drupes,Proteins,0,B,['high_vitaminB5']
+389,234,Rambutan,Fruits,Tropical fruits,Proteins,5,C,['high_vitaminB5']
+390,237,Swiss chard,Vegetables,Leaf vegetables,Proteins,0,B,"['high_vitaminK1', 'high_vitaminB5']"
+391,241,Welsh onion,Herbs and Spices,Herbs,Proteins,-3,A,"['high_vitaminK1', 'high_vitaminB5']"
+392,242,Hard wheat,Cereals and cereal products,Cereals,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5']"
+393,243,Shallot,Vegetables,Onion-family vegetables,Proteins,4,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+394,246,Triticale,Cereals and cereal products,Cereals,Proteins,6,C,"['high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+395,247,Black cabbage,Vegetables,Cabbages,Proteins,-4,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+396,249,Celery leaves,Herbs and Spices,Herbs,Proteins,-5,A,['high_calcium']
+397,252,Pak choy,Vegetables,Cabbages,Proteins,-1,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+398,253,Napa cabbage,Vegetables,Cabbages,Proteins,-1,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+399,256,Grapefruit,Fruits,Citrus,Proteins,0,B,"['high_vitaminB5', 'high_vitaminB8']"
+400,261,Daikon radish,Vegetables,Root vegetables,Proteins,0,B,['high_vitaminB5']
+402,268,Beer,Beverages,Fermented beverages,Proteins,0,B,"['high_vitaminB5', 'high_vitaminB8']"
+403,269,Other bread,Cereals and cereal products,Other breads,Proteins,12,D,"['high_vitaminB5', 'high_vitaminB8']"
+404,270,Breakfast cereal,Cereals and cereal products,Cereal products,Proteins,11,D,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+405,272,Other soy product,Soy,Soy products,Proteins,-5,A,"['high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+406,273,Other cereal product,Cereals and cereal products,Cereal products,Proteins,2,B,"['high_iron', 'high_phosphorus']"
+407,274,Pasta,Cereals and cereal products,Cereal products,Proteins,1,B,"['high_vitaminB5', 'high_vitaminB8']"
+408,275,Biscuit,Cereals and cereal products,Cereal products,Proteins,22,E,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+409,280,Abalone,Aquatic foods,Mollusks,Proteins,-2,A,"['high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB5']"
+410,281,Abiyuch,Fruits,Tropical fruits,Proteins,-3,A,[]
+411,282,Acerola,Fruits,Tropical fruits,Proteins,0,B,['high_vitaminB5']
+412,283,Acorn,Nuts,Nuts,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+414,285,Agar,Aquatic foods,Seaweed,Proteins,1,B,"['high_vitaminB5', 'high_vitaminB11']"
+415,286,Red king crab,Aquatic foods,Crustaceans,Proteins,4,C,"['high_sodium', 'high_phosphorus', 'high_vitaminB5']"
+416,287,Alfalfa,Herbs and Spices,Herbs,Proteins,10,C,"['high_iron', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB5']"
+419,290,Arrowhead,Vegetables,Tubers,Proteins,-3,A,"['high_potassium', 'high_vitaminB5']"
+421,292,Asian pear,Fruits,Pomes,Proteins,-2,A,['high_vitaminB5']
+422,293,Atlantic herring,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB5']"
+423,294,Atlantic mackerel,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+424,295,Painted comber,Aquatic foods,Fishes,Proteins,-2,A,"['high_phosphorus', 'high_vitaminB5']"
+425,296,Atlantic pollock,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+426,297,Atlantic wolffish,Aquatic foods,Fishes,Proteins,-4,A,"['high_vitaminB3', 'high_vitaminB5']"
+427,298,Bamboo shoots,Vegetables,Shoot vegetables,Proteins,-1,A,['high_vitaminB5']
+428,299,Striped bass,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+429,301,Beech nut,Nuts,Nuts,Proteins,-3,A,"['high_potassium', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+430,302,Beluga whale,Aquatic foods,Cetaceans,Proteins,-3,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+431,305,Alaska blackfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_iron', 'high_phosphorus']"
+432,306,Blue crab,Aquatic foods,Crustaceans,Proteins,-2,A,"['high_phosphorus', 'high_vitaminB5']"
+433,307,Blue mussel,Aquatic foods,Mollusks,Proteins,-2,A,['high_vitaminB5']
+434,308,Northern bluefin tuna,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+435,309,Bluefish,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5']"
+436,311,Bowhead whale,Aquatic foods,Cetaceans,Proteins,0,B,[]
+439,314,Rapini,Vegetables,Cabbages,Proteins,-3,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+440,317,Burbot,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB1', 'high_vitaminB5']"
+442,319,American butterfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+444,321,Butternut squash,Gourds,Gourds,Proteins,0,B,['high_vitaminB5']
+446,323,Cardoon,Vegetables,Shoot vegetables,Proteins,0,B,"['high_vitaminB5', 'high_vitaminB11']"
+447,325,Natal plum,Fruits,Tropical fruits,Proteins,0,B,[]
+449,327,Common carp,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB5']"
+451,329,Channel catfish,Aquatic foods,Fishes,Proteins,-1,A,['high_vitaminB5']
+455,333,Chia,Herbs and Spices,Other seeds,Proteins,7,C,"['high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3']"
+456,335,Chinese broccoli,Vegetables,Cabbages,Proteins,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+457,336,Chinese chestnut,Nuts,Nuts,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB11']"
+460,339,Cisco,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB5']"
+461,340,Nuttall cockle,Aquatic foods,Mollusks,Proteins,-5,A,['high_iron']
+463,342,Pacific cod,Aquatic foods,Fishes,Proteins,-2,A,"['high_phosphorus', 'high_vitaminB5']"
+464,343,Atlantic cod,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+465,344,Common octopus,Aquatic foods,Mollusks,Proteins,-1,A,['high_vitaminB5']
+468,347,Catjang pea,Pulses,Peas,Proteins,6,C,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+469,348,Malus (Crab apple),Fruits,Pomes,Proteins,5,C,[]
+470,349,Squashberry,Fruits,Berries,Proteins,-4,A,[]
+471,350,Atlantic croaker,Aquatic foods,Fishes,Proteins,0,B,['high_vitaminB5']
+472,351,Cusk,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+473,352,Cuttlefish,Aquatic foods,Mollusks,Proteins,-1,A,"['high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB5']"
+474,354,Devilfish,Aquatic foods,Fishes,Proteins,-5,A,[]
+475,355,Dock,Herbs and Spices,Herbs,Proteins,-4,A,['high_vitaminB5']
+476,356,Dolphin fish,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5']"
+477,357,Freshwater drum,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+478,359,Dungeness crab,Aquatic foods,Crustaceans,Proteins,-2,A,['high_vitaminB5']
+480,361,Eastern oyster,Aquatic foods,Mollusks,Proteins,-3,A,"['high_iron', 'high_vitaminB5']"
+481,362,Freshwater eel,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminEAlpha', 'high_vitaminB5']"
+482,363,Elderberry,Fruits,Berries,Proteins,4,C,"['high_vitaminB5', 'high_vitaminB8']"
+483,366,Oregon yampah,Vegetables,Root vegetables,Proteins,-2,A,['high_vitaminB5']
+484,367,European anchovy,Aquatic foods,Fishes,Proteins,-4,A,"['high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+486,369,Turbot,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5']"
+487,370,Fireweed,Herbs and Spices,Herbs,Proteins,-3,A,"['high_calcium', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+488,371,Florida pompano,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB1', 'high_vitaminB5']"
+490,374,Grape,Fruits,Berries,Proteins,3,C,"['high_vitaminB5', 'high_vitaminB8']"
+491,375,Greenland halibut/turbot,Aquatic foods,Fishes,Proteins,5,C,"['high_sodium', 'high_vitaminD3', 'high_vitaminB5', 'high_vitaminB6']"
+492,376,Groundcherry,Vegetables,Fruit vegetables,Proteins,-4,A,[]
+493,377,Grouper,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+494,379,Haddock,Aquatic foods,Fishes,Proteins,11,D,"['high_vitaminEAlpha', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+495,380,Hippoglossus (Common halibut),Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+496,381,Hazelnut,Nuts,Nuts,Proteins,9,C,"['high_potassium', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8', 'high_vitaminB11']"
+497,382,Hickory nut,Nuts,Nuts,Proteins,10,C,"['high_phosphorus', 'high_vitaminB1', 'high_vitaminB5']"
+499,385,Alaska blueberry,Fruits,Berries,Proteins,-1,A,['high_vitaminB5']
+502,388,Pacific jack mackerel,Aquatic foods,Fishes,Proteins,-1,A,"['high_calcium', 'high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+504,390,Japanese chestnut,Nuts,Nuts,Proteins,-3,A,"['high_potassium', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+507,393,Jujube,Fruits,Other fruits,Proteins,0,B,[]
+509,395,Kale,Vegetables,Cabbages,Proteins,-4,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+510,396,Kelp,Aquatic foods,Seaweed,Proteins,1,B,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+511,397,King mackerel,Aquatic foods,Fishes,Proteins,-4,A,"['high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+512,398,Kumquat,Fruits,Tropical fruits,Proteins,-2,A,['high_vitaminB5']
+514,400,Leather chiton,Aquatic foods,Mollusks,Proteins,-5,A,['high_iron']
+516,402,Common ling,Aquatic foods,Fishes,Proteins,-4,A,['high_vitaminB5']
+517,403,Lingcod,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+518,404,American lobster,Aquatic foods,Crustaceans,Proteins,-1,A,['high_vitaminB5']
+519,405,Loganberry,Fruits,Berries,Proteins,-5,A,['high_vitaminB5']
+520,406,Lotus,Herbs and Spices,Other seeds,Proteins,-5,A,"['high_potassium', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+526,412,Alpine sweetvetch,Vegetables,Root vegetables,Proteins,-3,A,[]
+527,413,Milkfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+528,414,Monkfish,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+531,418,Striped mullet,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+533,421,Mustard spinach,Vegetables,Cabbages,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB11']"
+535,423,Nopal,Vegetables,Other vegetables,Proteins,-2,A,['high_vitaminB5']
+536,424,Ocean pout,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+537,425,North Pacific giant octopus,Aquatic foods,Mollusks,Proteins,-5,A,['high_iron']
+538,426,Ohelo berry,Fruits,Berries,Proteins,0,B,[]
+539,427,Okra,Vegetables,Other vegetables,Proteins,-4,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+540,428,Tunicate,Aquatic foods,Other aquatic foods,Proteins,-5,A,['high_iron']
+541,432,Pacific herring,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5', 'high_vitaminB6']"
+542,433,Pacific oyster,Aquatic foods,Mollusks,Proteins,-4,A,"['high_iron', 'high_vitaminB5']"
+543,434,Pacific rockfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB5']"
+546,439,Northern pike,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+547,440,Pili nut,Nuts,Nuts,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB1', 'high_vitaminB5']"
+550,443,Plains prickly pear,Fruits,Tropical fruits,Proteins,-4,A,[]
+551,444,French plantain,Fruits,Tropical fruits,Proteins,5,C,['high_vitaminB5']
+555,449,Prickly pear,Fruits,Tropical fruits,Proteins,-3,A,[]
+556,450,Quinoa,Herbs and Spices,Other seeds,Proteins,10,C,"['high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+557,453,Rainbow smelt,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+558,454,Rainbow trout,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+560,456,Rose hip,Herbs and Spices,Herbs,Proteins,-1,A,"['high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+562,458,Orange roughy,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+563,459,Sablefish,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+564,460,Pink salmon,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+565,461,Chum salmon,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+566,462,Coho salmon,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+567,463,Sockeye salmon,Aquatic foods,Fishes,Proteins,-4,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+568,464,Chinook salmon,Aquatic foods,Fishes,Proteins,3,C,"['high_sodium', 'high_vitaminD3', 'high_vitaminB5']"
+569,465,Atlantic salmon,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+570,466,Salmonberry,Fruits,Berries,Proteins,0,B,['high_vitaminB5']
+573,469,Mamey sapote,Fruits,Tropical fruits,Proteins,1,B,"['high_vitaminB5', 'high_vitaminB6']"
+574,470,Spanish mackerel,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB5']"
+575,471,Pacific sardine,Aquatic foods,Fishes,Proteins,11,D,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB5']"
+576,472,Scallop,Aquatic foods,Mollusks,Proteins,-1,A,"['high_phosphorus', 'high_vitaminB5']"
+577,473,Scup,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+578,474,Sea cucumber,Aquatic foods,Other aquatic foods,Proteins,-5,A,['high_vitaminB2']
+579,475,Steller sea lion,Aquatic foods,Pinnipeds,Proteins,-5,A,"['high_iron', 'high_phosphorus']"
+580,476,Bearded seal,Aquatic foods,Pinnipeds,Proteins,-4,A,"['high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+581,477,Ringed seal,Aquatic foods,Pinnipeds,Proteins,-4,A,"['high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB5']"
+582,478,Sea trout,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+583,479,Sesbania flower,Vegetables,Other vegetables,Proteins,0,B,['high_vitaminB11']
+584,480,American shad,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+585,481,Shark,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+586,482,Sheefish,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+587,484,Sheepshead,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+588,485,Hedge mustard,Herbs and Spices,Other seeds,Proteins,-4,A,"['high_potassium', 'high_calcium', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+589,486,Skipjack tuna,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+590,487,Snapper,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB5']"
+592,489,Spelt,Cereals and cereal products,Cereals,Proteins,6,C,"['high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5']"
+593,490,Spirulina,Aquatic foods,Seaweed,Proteins,-5,A,"['high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB5']"
+595,494,Greater sturgeon,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+596,495,White sucker,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+598,497,Pumpkinseed sunfish,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+599,498,Swordfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+601,500,Teff,Herbs and Spices,Herbs,Proteins,6,C,"['high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6']"
+602,501,Tilefish,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+605,504,"Salmonidae (Salmon, Trout)",Aquatic foods,Fishes,Proteins,1,B,"['high_calcium', 'high_phosphorus', 'high_vitaminD3', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+606,506,"Cattle (Beef, Veal)",Animal foods,Bovines,Proteins,14,D,"['high_phosphorus', 'high_vitaminK1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+607,507,Walleye,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB5']
+608,508,Alaska pollock,Aquatic foods,Fishes,Proteins,-2,A,"['high_phosphorus', 'high_vitaminB5']"
+609,509,Wasabi,Herbs and Spices,Spices,Proteins,-3,A,['high_vitaminB5']
+611,511,Whelk,Aquatic foods,Mollusks,Proteins,-3,A,"['high_iron', 'high_vitaminB5']"
+612,513,Broad whitefish,Aquatic foods,Fishes,Proteins,-5,A,"['high_iron', 'high_phosphorus', 'high_vitaminB2']"
+613,514,Whitefish,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+614,515,Whiting,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5']"
+615,516,Wild rice,Cereals and cereal products,Cereals,Proteins,5,C,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+616,517,Tea leaf willow,Herbs and Spices,Herbs,Proteins,-1,A,[]
+621,522,Yellowfin tuna,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+622,523,Yellowtail amberjack,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5']"
+623,524,Pollock,Aquatic foods,Fishes,Proteins,-5,A,[]
+624,525,Albacore tuna,Aquatic foods,Fishes,Proteins,-1,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+625,526,Gadus (Common cod),Aquatic foods,Fishes,Proteins,17,D,"['high_vitaminD3', 'high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB8']"
+626,527,Atlantic halibut,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+627,529,Pacific salmon,Aquatic foods,Fishes,Proteins,-5,A,[]
+628,530,Smelt,Aquatic foods,Fishes,Proteins,-1,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB3', 'high_vitaminB5']"
+629,531,"Clupeinae (Herring, Sardine, Sprat)",Aquatic foods,Fishes,Proteins,16,D,"['high_sodium', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+630,532,Spiny lobster,Aquatic foods,Crustaceans,Proteins,-4,A,"['high_phosphorus', 'high_vitaminB5']"
+631,533,Snow crab,Aquatic foods,Crustaceans,Proteins,0,B,['high_vitaminB5']
+632,534,Black-eyed pea,Pulses,Peas,Proteins,-2,A,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+633,535,Deer,Animal foods,Venison,Proteins,-5,A,"['high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+635,537,Percoidei (Bass and others),Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB5']"
+636,538,Perciformes,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5']"
+637,540,Rabbit,Animal foods,Lagomorphs,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+638,541,Domestic goat,Animal foods,Caprae,Proteins,-5,A,['high_vitaminB2']
+639,542,Beefalo,Animal foods,Bovines,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+640,544,"Bivalvia (Clam, Mussel, Oyster)",Aquatic foods,Mollusks,Proteins,1,B,"['high_sodium', 'high_vitaminB5']"
+641,545,Squid,Aquatic foods,Mollusks,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB5']"
+642,546,Shrimp,Aquatic foods,Crustaceans,Proteins,2,B,"['high_vitaminB5', 'high_vitaminB8']"
+643,547,Crayfish,Aquatic foods,Crustaceans,Proteins,5,C,"['high_sodium', 'high_vitaminB5', 'high_vitaminB6']"
+644,548,Flatfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+645,549,Domestic pig,Animal foods,Swine,Proteins,22,E,"['high_sodium', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+646,550,Walrus,Aquatic foods,Pinnipeds,Proteins,-5,A,"['high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3']"
+647,551,Alaska wild rhubarb,Vegetables,Stalk vegetables,Proteins,-2,A,[]
+648,552,Oriental wheat,Cereals and cereal products,Cereals,Proteins,6,C,"['high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5']"
+650,555,Quail,Animal foods,Poultry,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+651,556,Boysenberry,Fruits,Berries,Proteins,3,C,['high_vitaminB5']
+652,557,Persian lime,Fruits,Citrus,Proteins,-1,A,['high_vitaminB5']
+654,559,Rowal,Herbs and Spices,Other seeds,Proteins,-1,A,[]
+655,560,Jew's ear,Vegetables,Mushrooms,Proteins,0,B,['high_vitaminB5']
+656,561,Common mushroom,Vegetables,Mushrooms,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB8']"
+657,562,Shiitake,Vegetables,Mushrooms,Proteins,-3,A,['high_vitaminB5']
+658,563,Purple laver,Aquatic foods,Seaweed,Proteins,-2,A,"['high_vitaminB2', 'high_vitaminB5', 'high_vitaminB11']"
+659,564,Wakame,Aquatic foods,Seaweed,Proteins,9,C,"['high_sodium', 'high_vitaminB5', 'high_vitaminB11']"
+660,565,Enokitake,Vegetables,Mushrooms,Proteins,-2,A,"['high_vitaminB3', 'high_vitaminB5']"
+661,566,Epazote,Herbs and Spices,Herbs,Proteins,-4,A,"['high_potassium', 'high_calcium', 'high_vitaminB5', 'high_vitaminB11']"
+662,567,Oyster mushroom,Vegetables,Mushrooms,Proteins,-4,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+663,568,Cloud ear fungus,Vegetables,Mushrooms,Proteins,-7,A,"['high_potassium', 'high_iron', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+664,569,Maitake,Vegetables,Mushrooms,Proteins,-3,A,"['high_vitaminB3', 'high_vitaminB5']"
+665,570,Ostrich fern,Vegetables,Leaf vegetables,Proteins,-2,A,['high_vitaminB3']
+666,571,Spot croaker,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5']"
+667,572,Sourdock,Herbs and Spices,Herbs,Proteins,-1,A,['high_vitaminB2']
+668,573,Tinda,Gourds,Gourds,Proteins,-1,A,['high_vitaminB5']
+669,575,Wheat,Cereals and cereal products,Cereals,Proteins,-2,A,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8', 'high_vitaminB11']"
+670,576,Common chokecherry,Fruits,Drupes,Proteins,-2,A,"['high_vitaminK1', 'high_vitaminB5']"
+671,577,Agave,Vegetables,Other vegetables,Proteins,-3,A,"['high_calcium', 'high_vitaminB5']"
+672,578,Narrowleaf cattail,Vegetables,Other vegetables,Proteins,1,B,"['high_vitaminK1', 'high_vitaminB5']"
+673,579,Jellyfish,Aquatic foods,Other aquatic foods,Proteins,7,C,['high_sodium']
+674,580,Anchovy,Aquatic foods,Fishes,Proteins,5,C,['high_sodium']
+675,581,Blue whiting,Aquatic foods,Fishes,Proteins,-5,A,[]
+676,582,Carp bream,Aquatic foods,Fishes,Proteins,-5,A,['high_vitaminB3']
+677,583,Chanterelle,Vegetables,Mushrooms,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5']"
+678,584,Sturgeon,Aquatic foods,Fishes,Proteins,5,C,"['high_sodium', 'high_vitaminD3', 'high_vitaminEAlpha', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB3']"
+679,585,Charr,Aquatic foods,Fishes,Proteins,5,C,"['high_sodium', 'high_phosphorus']"
+680,586,Cinnamon,Herbs and Spices,Spices,Proteins,-4,A,"['high_calcium', 'high_iron']"
+681,587,Crab,Aquatic foods,Crustaceans,Proteins,5,C,"['high_sodium', 'high_phosphorus', 'high_vitaminB3', 'high_vitaminB5']"
+682,588,Common dab,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminB5', 'high_vitaminB8']"
+683,589,Spiny dogfish,Aquatic foods,Fishes,Proteins,-4,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5']"
+684,590,Anatidae,Animal foods,Poultry,Proteins,-5,A,"['high_iron', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+685,591,Anguilliformes,Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminEAlpha', 'high_vitaminB3', 'high_vitaminB5']"
+686,592,True frog,Aquatic foods,Amphibians,Proteins,-5,A,['high_vitaminB6']
+687,593,Garfish,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+688,594,Gadiformes,Aquatic foods,Fishes,Proteins,-5,A,[]
+689,595,Mountain hare,Animal foods,Lagomorphs,Proteins,-5,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+690,596,Lake trout,Aquatic foods,Fishes,Proteins,-5,A,"['high_phosphorus', 'high_vitaminD3']"
+691,597,Lemon sole,Aquatic foods,Fishes,Proteins,-4,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+692,598,Clawed lobster,Aquatic foods,Crustaceans,Proteins,5,C,"['high_sodium', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+693,599,Lumpsucker,Aquatic foods,Fishes,Proteins,-5,A,[]
+694,600,"Scombridae (Bonito, Mackerel, Tuna)",Aquatic foods,Fishes,Proteins,13,D,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+695,601,Marine mussel,Aquatic foods,Mollusks,Proteins,1,B,['high_iron']
+696,602,Norway haddock,Aquatic foods,Fishes,Proteins,-5,A,[]
+697,603,Norway lobster,Aquatic foods,Crustaceans,Proteins,-2,A,"['high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+698,604,Norway pout,Aquatic foods,Fishes,Proteins,-5,A,[]
+699,606,True oyster,Aquatic foods,Mollusks,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB8']"
+700,608,Persimmon,Fruits,Tropical fruits,Proteins,-2,A,[]
+701,609,Pikeperch,Aquatic foods,Fishes,Proteins,-5,A,['high_phosphorus']
+702,610,"Pleuronectidae (Dab, Halibut, Plaice)",Aquatic foods,Fishes,Proteins,13,D,"['high_vitaminB5', 'high_vitaminB8']"
+703,611,Rock ptarmigan,Animal foods,Poultry,Proteins,-5,A,"['high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3']"
+704,612,Pacific ocean perch,Aquatic foods,Fishes,Proteins,-4,A,[]
+705,613,Black salsify,Vegetables,Root vegetables,Proteins,-2,A,[]
+706,614,True seal,Aquatic foods,Pinnipeds,Proteins,-3,A,"['high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3']"
+707,615,Red algae,Aquatic foods,Seaweed,Proteins,7,C,"['high_calcium', 'high_iron']"
+708,616,Kombu,Aquatic foods,Seaweed,Proteins,13,D,"['high_sodium', 'high_potassium', 'high_calcium', 'high_phosphorus', 'high_vitaminB11']"
+709,617,Snail,Aquatic foods,Mollusks,Proteins,-5,A,"['high_phosphorus', 'high_vitaminEAlpha']"
+710,618,True sole,Aquatic foods,Fishes,Proteins,-4,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+711,619,Catfish,Aquatic foods,Fishes,Proteins,0,B,"['high_vitaminK1', 'high_vitaminB3', 'high_vitaminB5']"
+712,621,Thunnus,Aquatic foods,Fishes,Proteins,1,B,"['high_phosphorus', 'high_vitaminD3', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+713,622,Walnut,Nuts,Nuts,Proteins,11,D,"['high_phosphorus', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8', 'high_vitaminB11']"
+714,623,"Cetacea (Dolphin, Porpoise, Whale)",Aquatic foods,Cetaceans,Proteins,-4,A,[]
+715,624,"Columbidae (Dove, Pigeon)",Animal foods,Poultry,Proteins,-5,A,"['high_iron', 'high_phosphorus', 'high_vitaminB3', 'high_vitaminB6']"
+716,625,Conch,Aquatic foods,Mollusks,Proteins,-4,A,"['high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB11']"
+717,626,Grape wine,Beverages,Fermented beverages,Proteins,0,B,['high_vitaminB5']
+718,630,Liquor,Beverages,Distilled beverages,Proteins,-2,B,['high_vitaminB5']
+719,631,Cheese,Milk and milk products,Fermented milk products,Proteins,16,D,"['high_sodium', 'high_calcium', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB8']"
+720,632,Milk (Cow),Milk and milk products,Unfermented milks,Proteins,-2,A,"['high_vitaminC', 'high_vitaminB5', 'high_vitaminB8']"
+721,633,Eggs,Eggs,Eggs,Proteins,5,C,"['high_sodium', 'high_potassium', 'high_vitaminD3', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8']"
+722,634,Yogurt,Milk and milk products,Fermented milk products,Proteins,7,C,"['high_vitaminB5', 'high_vitaminB8']"
+723,638,Bean,Pulses,Beans,Proteins,-1,A,['high_vitaminB5']
+724,640,Whisky,Beverages,Distilled beverages,Proteins,6,D,"['high_calcium', 'high_vitaminB5']"
+725,641,Ice cream,Confectioneries,Frozen desserts,Proteins,15,D,['high_vitaminB5']
+726,643,Honey,Confectioneries,Other confectioneries,Proteins,10,C,"['high_vitaminK1', 'high_vitaminB5']"
+727,644,Liquorice,Confectioneries,Candies,Proteins,-1,A,[]
+728,645,Vinegar,Baking goods,Seasonings,Proteins,0,B,[]
+729,647,Port wine,Beverages,Fortified wines,Proteins,0,B,[]
+730,648,Vermouth,Beverages,Fortified wines,Proteins,0,B,[]
+731,649,Sherry,Beverages,Fortified wines,Proteins,0,B,[]
+732,651,Nougat,Confectioneries,Other confectioneries,Proteins,22,E,['high_vitaminB5']
+733,653,Toffee,Confectioneries,Other confectioneries,Proteins,27,E,[]
+734,654,Cake,Confectioneries,Desserts,Proteins,24,E,['high_vitaminB5']
+735,655,Pizza,Dishes,Other dishes,Proteins,7,C,['high_vitaminB5']
+736,656,Ymer,Milk and milk products,Fermented milk products,Proteins,-3,A,"['high_vitaminB5', 'high_vitaminB8']"
+737,657,Other snack food,Snack foods,Snack foods,Proteins,27,E,"['high_sodium', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+738,659,Crisp bread,Cereals and cereal products,Flat breads,Proteins,10,C,"['high_phosphorus', 'high_vitaminB5', 'high_vitaminB11']"
+739,660,Pastry,Confectioneries,Desserts,Proteins,21,E,"['high_vitaminEGamma', 'high_vitaminB5']"
+740,661,Dragée,Confectioneries,Candies,Proteins,-3,A,[]
+741,662,Chewing gum,Confectioneries,Candies,Proteins,13,D,"['high_calcium', 'high_iron']"
+742,663,Marzipan,Confectioneries,Other confectioneries,Proteins,16,D,"['high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB8']"
+743,664,Salad dressing,Baking goods,Dressings,Proteins,22,E,"['high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5', 'high_vitaminB8']"
+744,665,Sauce,Baking goods,Sauces,Proteins,21,E,"['high_vitaminEAlpha', 'high_vitaminB5']"
+745,667,Butter,Milk and milk products,Other milk products,Proteins,4,C,['high_vitaminB5']
+746,668,Butter substitute,Baking goods,Substitutes,Proteins,9,C,['high_sodium']
+747,669,Cream,Milk and milk products,Other milk products,Proteins,10,C,"['high_vitaminB5', 'high_vitaminB8']"
+748,670,Sugar,Baking goods,Sugars,Proteins,0,B,['high_vitaminB5']
+749,671,Sausage,Dishes,Ground meat,Proteins,9,C,"['high_iron', 'high_vitaminB5', 'high_vitaminB8']"
+750,672,Meatball,Dishes,Ground meat,Proteins,1,B,[]
+751,673,Mustard,Baking goods,Condiments,Proteins,11,D,"['high_sodium', 'high_vitaminB5']"
+752,674,Pate,Dishes,Ground meat,Proteins,18,D,"['high_sodium', 'high_iron', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB8', 'high_vitaminB11']"
+753,676,Sugar substitute,Baking goods,Substitutes,Proteins,14,D,['high_vitaminB5']
+754,677,Meat bouillon,Baking goods,Baking goods,Proteins,5,C,"['high_sodium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+755,679,Whey,Milk and milk products,Other milk products,Proteins,0,B,"['high_potassium', 'high_calcium', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB8']"
+756,680,Casein,Milk and milk products,Other milk products,Proteins,0,B,['high_vitaminB3']
+757,681,Fruit preserve,Fruits,Fruit products,Proteins,12,D,['high_vitaminB5']
+758,682,Leavening agent,Baking goods,Baking goods,Proteins,14,D,"['high_sodium', 'high_calcium', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8', 'high_vitaminB11']"
+759,683,Marshmallow,Confectioneries,Candies,Proteins,11,D,['high_vitaminB5']
+760,684,Gelatin,Baking goods,Baking goods,Proteins,-2,A,['high_calcium']
+761,686,Other fish product,Aquatic foods,Fish products,Proteins,21,E,"['high_vitaminEGamma', 'high_vitaminB5']"
+762,687,Milk (Human),Milk and milk products,Unfermented milks,Proteins,-1,A,"['high_vitaminB5', 'high_vitaminB8']"
+763,689,Other beverage,Beverages,Other beverages,Proteins,4,C,['high_vitaminB5']
+764,690,Baby food,Baby foods,Baby foods,Proteins,23,E,"['high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+765,691,Dumpling,Dishes,Other dishes,Proteins,9,C,[]
+766,692,Soup,Dishes,Other dishes,Proteins,10,C,"['high_sodium', 'high_vitaminB5']"
+767,693,Other vegetable product,Vegetables,Vegetable products,Proteins,0,B,['high_vitaminB5']
+768,694,Unclassified food or beverage,Unclassified,Unclassified,Proteins,10,C,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+769,695,Syrup,Baking goods,Baking goods,Proteins,12,D,['high_vitaminB5']
+770,696,Tallow,Fats and oils,Animal fats,Proteins,-3,A,['high_vitaminB8']
+771,697,Remoulade,Baking goods,Condiments,Proteins,19,E,"['high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB8']"
+772,698,Chocolate spread,Confectioneries,Spreads,Proteins,18,D,"['high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB11']"
+773,699,Fruit gum,Confectioneries,Candies,Proteins,-4,A,[]
+774,700,Curry powder,Herbs and Spices,Herb and spice mixtures,Proteins,4,C,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB6', 'high_vitaminB11']"
+775,701,Other candy,Confectioneries,Candies,Proteins,14,D,"['high_iron', 'high_vitaminEGamma', 'high_vitaminB5']"
+776,702,Meringue,Confectioneries,Other confectioneries,Proteins,23,E,[]
+777,704,Other animal fat,Fats and oils,Animal fats,Proteins,-3,A,['high_vitaminB5']
+778,707,Cocoa powder,Cocoa and cocoa products,Cocoa products,Proteins,9,C,"['high_potassium', 'high_iron', 'high_vitaminB5']"
+779,709,Chocolate,Cocoa and cocoa products,Cocoa products,Proteins,23,E,"['high_vitaminEGamma', 'high_vitaminB5', 'high_vitaminB8']"
+780,710,Hot chocolate,Cocoa and cocoa products,Cocoa products,Proteins,0,B,"['high_vitaminB5', 'high_vitaminB8']"
+781,711,Dried milk,Milk and milk products,Other milk products,Proteins,-1,A,"['high_potassium', 'high_calcium', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB8']"
+782,712,Milk (Other mammals),Milk and milk products,Unfermented milks,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB8']"
+783,713,Kefir,Milk and milk products,Fermented milks,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB8']"
+784,714,Buttermilk,Milk and milk products,Fermented milks,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB8']"
+785,715,Other fermented milk,Milk and milk products,Fermented milks,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB8']"
+786,716,Soy sauce,Soy,Soy products,Proteins,8,C,"['high_sodium', 'high_vitaminB5']"
+787,717,Miso,Soy,Soy products,Proteins,8,C,"['high_sodium', 'high_phosphorus', 'high_vitaminK1', 'high_vitaminB5']"
+788,718,Tofu,Soy,Soy products,Proteins,-1,A,['high_vitaminB5']
+789,721,Zwieback,Cereals and cereal products,Leavened breads,Proteins,19,E,"['high_vitaminB5', 'high_vitaminB11']"
+790,722,Roe,Aquatic foods,Roe,Proteins,5,C,"['high_sodium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminD3', 'high_vitaminB2', 'high_vitaminB5']"
+791,723,Cichlidae (Tilapia),Aquatic foods,Fishes,Proteins,-5,A,"['high_vitaminD3', 'high_vitaminB5']"
+792,724,Icing,Confectioneries,Other confectioneries,Proteins,26,E,"['high_vitaminEGamma', 'high_vitaminB5']"
+793,725,Snack bar,Snack foods,Snack foods,Proteins,24,E,"['high_calcium', 'high_iron', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+794,726,Green turtle,Aquatic foods,Other aquatic foods,Proteins,-5,A,[]
+795,727,Energy drink,Beverages,Nutritional beverages,Proteins,0,B,"['high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6']"
+796,728,Burrito,Dishes,Tex-Mex cuisine,Proteins,11,D,['high_vitaminB5']
+797,729,Hamburger,Dishes,Sandwiches,Proteins,19,E,"['high_vitaminB5', 'high_vitaminB11']"
+798,730,Baked beans,Dishes,Other dishes,Proteins,5,C,['high_vitaminB5']
+799,731,Chili,Dishes,Tex-Mex cuisine,Proteins,5,C,['high_vitaminB5']
+800,732,Taco,Dishes,Tex-Mex cuisine,Proteins,10,C,['high_vitaminB5']
+801,733,Tortilla,Cereals and cereal products,Flat breads,Proteins,4,C,"['high_phosphorus', 'high_vitaminB5']"
+802,734,Nachos,Dishes,Tex-Mex cuisine,Proteins,18,D,"['high_sodium', 'high_calcium', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB5']"
+803,735,Processed cheese,Milk and milk products,Fermented milk products,Proteins,20,E,"['high_sodium', 'high_calcium', 'high_phosphorus', 'high_vitaminD3', 'high_vitaminB2', 'high_vitaminB5']"
+804,736,Salad,Dishes,Other dishes,Proteins,3,C,"['high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5']"
+805,737,Cream substitute,Baking goods,Substitutes,Proteins,12,D,['high_vitaminB5']
+806,738,Dulce de leche,Confectioneries,Spreads,Proteins,-3,A,"['high_calcium', 'high_vitaminB5']"
+807,739,Topping,Baking goods,Baking goods,Proteins,22,E,['high_vitaminB5']
+808,740,Sweet custard,Confectioneries,Milk desserts,Proteins,-2,A,['high_vitaminB5']
+809,742,Egg roll,Dishes,Asian cuisine,Proteins,13,D,"['high_vitaminK1', 'high_vitaminB5', 'high_vitaminB11']"
+810,743,Heart of palm,Vegetables,Other vegetables,Proteins,1,B,['high_vitaminB5']
+811,744,Popcorn,Snack foods,Snack foods,Proteins,8,C,"['high_phosphorus', 'high_vitaminEGamma', 'high_vitaminEDelta', 'high_vitaminB5']"
+812,745,Potato chip,Snack foods,Snack foods,Proteins,26,E,"['high_sodium', 'high_potassium', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+813,746,Tortilla chip,Snack foods,Snack foods,Proteins,21,E,"['high_vitaminEAlpha', 'high_vitaminB5']"
+814,747,Corn chip,Snack foods,Snack foods,Proteins,24,E,"['high_vitaminB2', 'high_vitaminB5']"
+815,748,Hibiscus tea,Teas,Herbal teas,Proteins,1,B,"['high_iron', 'high_vitaminB1']"
+816,749,Stew,Dishes,Other dishes,Proteins,9,C,['high_vitaminB5']
+817,750,Gelatin dessert,Confectioneries,Desserts,Proteins,13,D,['high_vitaminB5']
+818,751,Junket,Confectioneries,Milk desserts,Proteins,3,C,['high_vitaminB5']
+819,752,Falafel,Dishes,Other dishes,Proteins,-2,A,"['high_vitaminB5', 'high_vitaminB11']"
+820,753,Frybread,Dishes,Other dishes,Proteins,22,E,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+821,754,Other frozen dessert,Confectioneries,Frozen desserts,Proteins,5,C,['high_vitaminB5']
+822,755,Lasagna,Dishes,Pasta dishes,Proteins,6,C,['high_vitaminB5']
+823,756,Morchella (Morel),Vegetables,Mushrooms,Proteins,-3,A,"['high_iron', 'high_vitaminB5']"
+824,757,Pancake,Dishes,Other dishes,Proteins,20,E,"['high_sodium', 'high_potassium', 'high_vitaminB5', 'high_vitaminB6']"
+825,758,Pectin,Baking goods,Baking goods,Proteins,11,D,['high_vitaminB5']
+826,759,Pudding,Confectioneries,Desserts,Proteins,8,C,"['high_phosphorus', 'high_vitaminB5']"
+827,760,Waffle,Dishes,Other dishes,Proteins,22,E,"['high_sodium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+828,761,Soy milk,Soy,Soy products,Proteins,1,B,['high_vitaminB5']
+829,762,Meatloaf,Dishes,Ground meat,Proteins,16,D,"['high_sodium', 'high_vitaminB1', 'high_vitaminB5']"
+830,763,Sake,Beverages,Fermented beverages,Proteins,0,B,[]
+831,764,Cocktail,Beverages,Alcoholic beverages,Proteins,4,C,['high_vitaminB5']
+832,765,Couscous,Dishes,Berber cuisine,Proteins,4,C,['high_vitaminB5']
+833,766,Bulgur,Cereals and cereal products,Cereal products,Proteins,5,C,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5']"
+834,767,Coffee substitute,Baking goods,Substitutes,Proteins,12,D,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5']"
+835,768,Coffee mocha,Coffee and coffee products,Coffee products,Proteins,18,D,"['high_potassium', 'high_phosphorus', 'high_vitaminB5']"
+836,769,Chimichanga,Dishes,Mexican cuisine,Proteins,0,B,['high_vitaminB5']
+837,770,Semolina,Cereals and cereal products,Cereal products,Proteins,8,C,"['high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+838,771,Tapioca pearl,Baking goods,Baking goods,Proteins,14,D,['high_vitaminB5']
+839,772,Tostada,Dishes,Mexican cuisine,Proteins,0,B,['high_vitaminB5']
+840,773,Quesadilla,Dishes,Mexican cuisine,Proteins,19,E,"['high_sodium', 'high_calcium', 'high_phosphorus']"
+841,774,Baked potato,Dishes,Potato dishes,Proteins,-2,A,['high_vitaminB5']
+842,775,Hot dog,Dishes,Sandwiches,Proteins,2,B,"['high_sodium', 'high_vitaminB5']"
+843,776,Spread,Baking goods,Baking goods,Proteins,28,E,"['high_sodium', 'high_vitaminEAlpha', 'high_vitaminK1', 'high_vitaminB5']"
+844,777,Enchilada,Dishes,Mexican cuisine,Proteins,2,B,['high_vitaminB5']
+845,778,Egg substitute,Baking goods,Substitutes,Proteins,3,C,"['high_sodium', 'high_potassium', 'high_calcium', 'high_phosphorus', 'high_vitaminD3', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB11']"
+846,779,Nutritional drink,Beverages,Nutritional beverages,Proteins,10,E,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminD3', 'high_vitaminEAlpha', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB6', 'high_vitaminB11']"
+847,780,Other sandwich,Dishes,Sandwiches,Proteins,16,D,"['high_vitaminEGamma', 'high_vitaminB5']"
+848,781,Ketchup,Baking goods,Condiments,Proteins,12,D,"['high_sodium', 'high_vitaminB5', 'high_vitaminB8']"
+849,782,Breakfast sandwich,Dishes,Sandwiches,Proteins,19,E,"['high_vitaminEGamma', 'high_vitaminB2', 'high_vitaminB5', 'high_vitaminB11']"
+850,783,Adobo,Baking goods,Seasonings,Proteins,24,E,['high_sodium']
+851,784,Macaroni and cheese,Dishes,Pasta dishes,Proteins,9,C,['high_vitaminB5']
+852,785,Butterfat,Milk and milk products,Other milk products,Proteins,0,B,"['high_vitaminD3', 'high_vitaminB5']"
+853,786,Horned melon,Gourds,Gourds,Proteins,-1,A,['high_vitaminB5']
+854,787,Hushpuppy,Dishes,American cuisine,Proteins,24,E,"['high_sodium', 'high_calcium', 'high_vitaminK1', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+855,788,Fruit juice,Beverages,Other beverages,Proteins,11,E,['high_vitaminB5']
+856,789,Relish,Baking goods,Condiments,Proteins,10,C,"['high_vitaminK1', 'high_vitaminB5']"
+857,790,Other fruit product,Fruits,Fruit products,Proteins,12,D,"['high_potassium', 'high_vitaminB5', 'high_vitaminB8']"
+858,791,Fruit salad,Fruits,Fruit products,Proteins,0,B,['high_vitaminB5']
+859,792,Soy yogurt,Soy,Soy products,Proteins,2,B,[]
+860,793,Vegetarian food,Dishes,Other dishes,Proteins,5,C,"['high_vitaminEAlpha', 'high_vitaminB5']"
+861,795,Cold cut,Dishes,Ground meat,Proteins,15,D,"['high_sodium', 'high_vitaminB5', 'high_vitaminB8']"
+862,796,Mixed nuts,Nuts,Nuts,Proteins,10,C,"['high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminB5']"
+863,803,Phyllo dough,Baking goods,Baking goods,Proteins,18,D,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+864,804,Cooking oil,Baking goods,Baking goods,Proteins,0,B,"['high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminEDelta', 'high_vitaminK1']"
+865,805,Pie crust,Baking goods,Wrappers,Proteins,29,E,"['high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5']"
+866,806,Pie filling,Baking goods,Baking goods,Proteins,5,C,['high_vitaminB5']
+867,807,Pie,Confectioneries,Desserts,Proteins,19,E,"['high_vitaminEGamma', 'high_vitaminB5']"
+868,810,Ice cream cone,Baking goods,Wrappers,Proteins,18,D,['high_vitaminB5']
+869,812,Cracker,Snack foods,Snack foods,Proteins,22,E,"['high_sodium', 'high_vitaminEGamma', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+871,814,Naranjilla,Fruits,Tropical fruits,Proteins,0,B,['high_vitaminB5']
+872,815,Natto,Soy,Soy products,Proteins,3,C,"['high_potassium', 'high_iron', 'high_vitaminK1', 'high_vitaminB5']"
+873,816,Ravioli,Dishes,Pasta dishes,Proteins,4,C,['high_vitaminB5']
+874,817,Scrapple,Dishes,American cuisine,Proteins,17,D,['high_sodium']
+875,818,Other pasta dish,Dishes,Pasta dishes,Proteins,2,B,"['high_vitaminB2', 'high_vitaminB5']"
+876,819,Succotash,Dishes,American cuisine,Proteins,-2,A,['high_vitaminB5']
+877,820,Tamale,Dishes,Latin American cuisine,Proteins,8,C,['high_vitaminB5']
+878,822,Rice cake,Dishes,Asian cuisine,Proteins,10,C,"['high_phosphorus', 'high_vitaminB3']"
+879,823,Tree fern,Vegetables,Other vegetables,Proteins,-2,A,['high_vitaminB5']
+880,824,Evaporated milk,Milk and milk products,Other milk products,Proteins,-3,A,"['high_calcium', 'high_vitaminD3', 'high_vitaminB5']"
+881,825,Flour,Cereals and cereal products,Cereal products,Proteins,24,E,"['high_sodium', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+882,826,Akutaq,Confectioneries,Desserts,Proteins,14,D,['high_vitaminB5']
+883,829,Pita bread,Cereals and cereal products,Flat breads,Proteins,12,D,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+884,830,Focaccia,Cereals and cereal products,Flat breads,Proteins,17,D,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+885,831,Bagel,Cereals and cereal products,Leavened breads,Proteins,12,D,"['high_iron', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+886,832,Other bread product,Cereals and cereal products,Bread products,Proteins,10,C,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+887,834,Piki bread,Cereals and cereal products,Flat breads,Proteins,11,D,"['high_potassium', 'high_iron', 'high_phosphorus', 'high_vitaminEGamma', 'high_vitaminB5', 'high_vitaminB6']"
+888,835,French toast,Cereals and cereal products,Leavened breads,Proteins,14,D,"['high_vitaminEGamma', 'high_vitaminB5', 'high_vitaminB6']"
+889,836,Wheat bread,Cereals and cereal products,Leavened breads,Proteins,11,D,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB8']"
+890,837,Rye bread,Cereals and cereal products,Leavened breads,Proteins,6,C,"['high_vitaminB5', 'high_vitaminB8']"
+891,838,Oat bread,Cereals and cereal products,Leavened breads,Proteins,8,C,"['high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+892,839,Potato bread,Cereals and cereal products,Other breads,Proteins,9,C,"['high_potassium', 'high_phosphorus', 'high_vitaminB5', 'high_vitaminB11']"
+893,840,Cornbread,Cereals and cereal products,Flat breads,Proteins,25,E,"['high_sodium', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+894,841,Corn grits,Cereals and cereal products,Cereal products,Proteins,7,C,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+895,842,Multigrain bread,Cereals and cereal products,Leavened breads,Proteins,8,C,"['high_phosphorus', 'high_vitaminB5', 'high_vitaminB11']"
+896,843,Rice bread,Cereals and cereal products,Leavened breads,Proteins,8,C,"['high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+897,844,Pan dulce,Cereals and cereal products,Leavened breads,Proteins,19,E,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+898,845,Raisin bread,Cereals and cereal products,Sweet breads,Proteins,12,D,"['high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+899,846,Wonton wrapper,Baking goods,Wrappers,Proteins,14,D,"['high_vitaminB1', 'high_vitaminB3', 'high_vitaminB5', 'high_vitaminB11']"
+900,848,Trail mix,Snack foods,Snack foods,Proteins,-3,A,"['high_potassium', 'high_phosphorus', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+901,849,Greenthread tea,Teas,Herbal teas,Proteins,0,B,[]
+902,850,Fruit-flavor drink,Beverages,Other beverages,Proteins,13,E,['high_vitaminB5']
+903,851,Vegetable juice,Beverages,Other beverages,Proteins,0,B,"['high_vitaminB5', 'high_vitaminB8']"
+904,852,Horchata,Beverages,Other beverages,Proteins,14,E,"['high_iron', 'high_vitaminB5']"
+905,853,Soft drink,Beverages,Other beverages,Proteins,0,B,[]
+906,854,Frozen yogurt,Confectioneries,Frozen desserts,Proteins,6,C,['high_vitaminB5']
+907,855,Milkshake,Confectioneries,Frozen desserts,Proteins,7,C,['high_vitaminB5']
+908,856,Chocolate mousse,Confectioneries,Desserts,Proteins,13,D,['high_vitaminB5']
+909,858,Pupusa,Dishes,Latin American cuisine,Proteins,11,D,"['high_vitaminEGamma', 'high_vitaminB5']"
+910,859,Empanada,Dishes,Latin American cuisine,Proteins,17,D,['high_vitaminB5']
+911,860,Arepa,Dishes,Latin American cuisine,Proteins,11,D,['high_vitaminB5']
+912,861,Ascidians,Aquatic foods,Other aquatic foods,Proteins,5,C,['high_sodium']
+913,862,Gefilte fish,Dishes,Jewish cuisine,Proteins,0,B,['high_vitaminB5']
+914,863,Yellow pond-lily,Herbs and Spices,Herbs,Proteins,6,C,"['high_phosphorus', 'high_vitaminEAlpha', 'high_vitaminB5', 'high_vitaminB6']"
+915,864,Fish burger,Dishes,Sandwiches,Proteins,17,D,[]
+916,865,Other dish,Dishes,Other dishes,Proteins,-2,A,['high_vitaminB5']
+917,866,Pot pie,Dishes,Other dishes,Proteins,11,D,['high_vitaminB5']
+918,867,Stuffing,Baking goods,Baking goods,Proteins,21,E,"['high_sodium', 'high_iron', 'high_vitaminB1', 'high_vitaminB5', 'high_vitaminB11']"
+919,868,Edible shell,Baking goods,Wrappers,Proteins,21,E,"['high_phosphorus', 'high_vitaminB5', 'high_vitaminB11']"
+920,869,Fudge,Confectioneries,Candies,Proteins,23,E,['high_vitaminB5']
+921,870,Candy bar,Confectioneries,Candies,Proteins,19,E,"['high_vitaminEGamma', 'high_vitaminB5']"
+922,871,Condensed milk,Milk and milk products,Other milk products,Proteins,-3,A,"['high_calcium', 'high_phosphorus', 'high_vitaminB5']"
+923,872,Margarine,Fats and oils,Vegetable fats,Proteins,8,C,"['high_sodium', 'high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminEDelta', 'high_vitaminK1', 'high_vitaminB5']"
+924,873,Margarine-like spread,Fats and oils,Vegetable fats,Proteins,3,C,"['high_vitaminEGamma', 'high_vitaminK1', 'high_vitaminB5']"
+925,874,Hummus,Dishes,Levantine cuisine,Proteins,8,C,['high_vitaminB5']
+926,876,Potato puffs,Dishes,Potato dishes,Proteins,17,D,['high_vitaminB5']
+927,877,Potato gratin,Dishes,Potato dishes,Proteins,6,C,['high_vitaminB5']
+928,878,Milk substitute,Baking goods,Substitutes,Proteins,-1,A,[]
+1126,277,Spirit,Beverages,Distilled beverages,Carbohydrate,0,B,[]
+1127,279,Other alcoholic beverage,Beverages,Alcoholic beverages,Carbohydrate,0,B,[]
+1347,650,Madeira wine,Beverages,Fortified wines,Carbohydrate,0,B,[]
+1376,685,Water,Beverages,Waters,Carbohydrate,0,A,"['high_vitaminB5', 'high_vitaminB6']"
+1479,809,Soy cream,Soy,Soy products,Carbohydrate,0,B,[]
+1481,811,Molasses,Baking goods,Baking goods,Carbohydrate,0,B,"['high_potassium', 'high_iron', 'high_vitaminB5', 'high_vitaminB6']"
+1565,29,Rape,Vegetables,Root vegetables,Fatty acids,0,B,['high_vitaminEAlpha']
+1857,431,Spotted seal,Aquatic foods,Pinnipeds,Fatty acids,0,B,['high_vitaminEAlpha']
+1985,574,Atlantic menhaden,Aquatic foods,Fishes,Fatty acids,0,B,[]
+2015,605,Oil palm,Herbs and Spices,Oilseed crops,Fatty acids,0,B,['high_vitaminEAlpha']
+2029,620,Thistle,Vegetables,Root vegetables,Fatty acids,0,B,['high_vitaminEAlpha']
+2088,703,Lard,Fats and oils,Animal fats,Fatty acids,0,B,['high_vitaminD3']
+2090,706,Cocoa butter,Cocoa and cocoa products,Cocoa products,Fatty acids,0,B,['high_vitaminK1']
+2175,797,Canola,Herbs and spices,Oilseed crops,Fatty acids,0,B,"['high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminK1']"
+2176,798,Babassu palm,Herbs and Spices,Oilseed crops,Fatty acids,0,B,['high_vitaminEAlpha']
+2177,799,Cupuaçu,Herbs and Spices,Oilseed crops,Fatty acids,0,B,[]
+2178,800,Shea tree,Herbs and Spices,Oilseed crops,Fatty acids,0,B,[]
+2179,801,Oil-seed Camellia,Herbs and Spices,Oilseed crops,Fatty acids,0,B,[]
+2186,808,Shortening,Fats and oils,Vegetable fats,Fatty acids,0,B,"['high_vitaminEAlpha', 'high_vitaminEGamma', 'high_vitaminEDelta', 'high_vitaminK1', 'high_vitaminB5']"
+2230,857,Dripping,Fats and oils,Animal fats,Fatty acids,6,C,['high_vitaminD3']
+7923,639,Vodka,Beverages,Distilled beverages,Energy,0,B,[]
+7926,642,Gin,Beverages,Distilled beverages,Energy,0,B,[]
+7930,646,Rum,Beverages,Distilled beverages,Energy,0,B,[]
+8145,666,Salt,Baking goods,Seasonings,Ash,10,C,['high_sodium']
+8184,891,Coffee and coffee products,Coffee and coffee products,Coffee and coffee products,Ash,0,B,[]
+8220,888,Cereals and cereal products,Cereals and cereal products,Cereals and cereal products,Ash,0,B,[]
+8272,334,Chicken,Animal foods,Poultry,Ash,-3,A,"['high_iron', 'high_vitaminK1', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB8']"
+8296,505,Turkey,Animal foods,Poultry,Ash,4,C,"['high_sodium', 'high_vitaminB5', 'high_vitaminB8']"
+8390,483,"Sheep (Mutton, Lamb)",Animal foods,Ovis,Ash,-5,A,"['high_vitaminB3', 'high_vitaminB8']"
+8599,896,Fishes,Aquatic foods,Fishes,Ash,0,B,[]
+8898,438,Pheasant,Animal foods,Poultry,Ash,0,B,[]
+8905,491,Squab,Animal foods,Poultry,Ash,0,B,[]
+8908,378,Guinea hen,Animal foods,Poultry,Ash,0,B,[]
+8913,430,Ostrich,Animal foods,Poultry,Ash,0,B,[]
+8935,303,Bison,Animal foods,Bovines,Ash,0,B,[]
+8996,884,Alcoholic beverages,Beverages,Alcoholic beverages,Ash,0,B,[]
+9005,939,Black tea,Teas,Teas,Fat,-7,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+9006,940,Green tea,Teas,Teas,Fat,-7,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+9011,1021,Herbal tea,Teas,Teas,Carbohydrate,-9,A,"['high_phosphorus', 'high_vitaminB3', 'high_vitaminB5']"
+9029,957,Red tea,Teas,Teas,Fat,-7,A,"['high_potassium', 'high_calcium', 'high_iron', 'high_phosphorus', 'high_vitaminB2', 'high_vitaminB3', 'high_vitaminB5']"
+9041,60,Robusta coffee,Coffee and coffee products,Coffee,Proteins,8,C,"['high_potassium', 'high_vitaminB3', 'high_vitaminB5']"
+9066,1019,White bread,Cereals and cereal products,Cereals,Proteins,14,D,"['high_vitaminB5', 'high_vitaminB8']"
+9097,985,Sour cream,Milk and milk products,Other milk products,Proteins,0,B,[]
