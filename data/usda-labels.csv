@@ -1,0 +1,2724 @@
+str,Resource
+"Butter, salted",http://idea.rpi.edu/heals/kb/usda#01001
+"Butter, whipped, with salt",http://idea.rpi.edu/heals/kb/usda#01002
+"Butter oil, anhydrous",http://idea.rpi.edu/heals/kb/usda#01003
+"Cheese, blue",http://idea.rpi.edu/heals/kb/usda#01004
+"Cheese, brick",http://idea.rpi.edu/heals/kb/usda#01005
+"Cheese, brie",http://idea.rpi.edu/heals/kb/usda#01006
+"Cheese, camembert",http://idea.rpi.edu/heals/kb/usda#01007
+"Cheese, caraway",http://idea.rpi.edu/heals/kb/usda#01008
+"Cheese, cheddar ",http://idea.rpi.edu/heals/kb/usda#01009
+"Cheese, cheshire",http://idea.rpi.edu/heals/kb/usda#01010
+"Cheese, colby",http://idea.rpi.edu/heals/kb/usda#01011
+"Cheese, cottage, creamed",http://idea.rpi.edu/heals/kb/usda#01012
+"Cheese, cottage, nonfat",http://idea.rpi.edu/heals/kb/usda#01014
+"Cheese, cottage, lowfat",http://idea.rpi.edu/heals/kb/usda#01015
+"Cheese, cream",http://idea.rpi.edu/heals/kb/usda#01017
+"Cheese, edam",http://idea.rpi.edu/heals/kb/usda#01018
+"Cheese, feta",http://idea.rpi.edu/heals/kb/usda#01019
+"Cheese, fontina",http://idea.rpi.edu/heals/kb/usda#01020
+"Cheese, gjetost",http://idea.rpi.edu/heals/kb/usda#01021
+"Cheese, gouda",http://idea.rpi.edu/heals/kb/usda#01022
+"Cheese, gruyere",http://idea.rpi.edu/heals/kb/usda#01023
+"Cheese, limburger",http://idea.rpi.edu/heals/kb/usda#01024
+"Cheese, monterey",http://idea.rpi.edu/heals/kb/usda#01025
+"Cheese, mozzarella, whole milk",http://idea.rpi.edu/heals/kb/usda#01026
+"Cheese, mozzarella, part skim milk",http://idea.rpi.edu/heals/kb/usda#01028
+"Cheese, mozzarella, low moisture",http://idea.rpi.edu/heals/kb/usda#01029
+"Cheese, muenster",http://idea.rpi.edu/heals/kb/usda#01030
+"Cheese, neufchatel",http://idea.rpi.edu/heals/kb/usda#01031
+"Cheese, parmesan, grated",http://idea.rpi.edu/heals/kb/usda#01032
+"Cheese, parmesan, hard",http://idea.rpi.edu/heals/kb/usda#01033
+"Cheese, port de salut",http://idea.rpi.edu/heals/kb/usda#01034
+"Cheese, provolone",http://idea.rpi.edu/heals/kb/usda#01035
+"Cheese, ricotta, whole milk",http://idea.rpi.edu/heals/kb/usda#01036
+"Cheese, ricotta, part skim milk",http://idea.rpi.edu/heals/kb/usda#01037
+"Cheese, romano",http://idea.rpi.edu/heals/kb/usda#01038
+"Cheese, roquefort",http://idea.rpi.edu/heals/kb/usda#01039
+"Cheese, swiss",http://idea.rpi.edu/heals/kb/usda#01040
+"Cheese, tilsit",http://idea.rpi.edu/heals/kb/usda#01041
+"Cheese, pasteurized process, American",http://idea.rpi.edu/heals/kb/usda#01042
+"Cheese, pasteurized process, pimento",http://idea.rpi.edu/heals/kb/usda#01043
+"Cheese, pasteurized process, swiss",http://idea.rpi.edu/heals/kb/usda#01044
+"Cheese food, cold pack, American",http://idea.rpi.edu/heals/kb/usda#01045
+"Cheese food, pasteurized process, American",http://idea.rpi.edu/heals/kb/usda#01046
+"Cheese food, pasteurized process, swiss",http://idea.rpi.edu/heals/kb/usda#01047
+"Cheese spread, pasteurized process, American",http://idea.rpi.edu/heals/kb/usda#01048
+"Cream, fluid, half and half",http://idea.rpi.edu/heals/kb/usda#01049
+"Cream, fluid, light ",http://idea.rpi.edu/heals/kb/usda#01050
+"Cream, fluid, light whipping",http://idea.rpi.edu/heals/kb/usda#01052
+"Cream, fluid, heavy whipping",http://idea.rpi.edu/heals/kb/usda#01053
+"Cream, whipped, cream topping",http://idea.rpi.edu/heals/kb/usda#01054
+"Cream, sour, reduced fat",http://idea.rpi.edu/heals/kb/usda#01055
+"Cream, sour, cultured",http://idea.rpi.edu/heals/kb/usda#01056
+Eggnog,http://idea.rpi.edu/heals/kb/usda#01057
+"Sour dressing, non-butterfat, cultured",http://idea.rpi.edu/heals/kb/usda#01058
+"Milk, filled, fluid",http://idea.rpi.edu/heals/kb/usda#01059
+"Cheese, American, nonfat or fat free",http://idea.rpi.edu/heals/kb/usda#01061
+"Yogurt, Greek, 2% fat",http://idea.rpi.edu/heals/kb/usda#01064
+"Yogurt, Greek, 2%fat",http://idea.rpi.edu/heals/kb/usda#01065
+"Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",http://idea.rpi.edu/heals/kb/usda#01067
+"Cream substitute, liquid, with lauric acid oil and sodium caseinate",http://idea.rpi.edu/heals/kb/usda#01068
+"Cream substitute, powdered",http://idea.rpi.edu/heals/kb/usda#01069
+"Dessert topping, powdered",http://idea.rpi.edu/heals/kb/usda#01070
+"Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk",http://idea.rpi.edu/heals/kb/usda#01071
+"Dessert topping, pressurized",http://idea.rpi.edu/heals/kb/usda#01072
+"Dessert topping, semi solid, frozen",http://idea.rpi.edu/heals/kb/usda#01073
+"Sour cream, imitation, cultured",http://idea.rpi.edu/heals/kb/usda#01074
+"Milk substitutes, fluid, with lauric acid oil",http://idea.rpi.edu/heals/kb/usda#01076
+"Milk, whole, 3.25% milkfat",http://idea.rpi.edu/heals/kb/usda#01077
+"Milk, producer, fluid",http://idea.rpi.edu/heals/kb/usda#01078
+"Milk, reduced fat, fluid",http://idea.rpi.edu/heals/kb/usda#01079
+"Milk, lowfat, fluid",http://idea.rpi.edu/heals/kb/usda#01082
+"Milk, nonfat, fluid",http://idea.rpi.edu/heals/kb/usda#01085
+"Milk, buttermilk, fluid",http://idea.rpi.edu/heals/kb/usda#01088
+"Milk, low sodium, fluid",http://idea.rpi.edu/heals/kb/usda#01089
+"Milk, dry, whole",http://idea.rpi.edu/heals/kb/usda#01090
+"Milk, dry, nonfat",http://idea.rpi.edu/heals/kb/usda#01091
+"Milk, buttermilk, dried",http://idea.rpi.edu/heals/kb/usda#01094
+"Milk, canned, condensed",http://idea.rpi.edu/heals/kb/usda#01095
+"Milk, canned, evaporated",http://idea.rpi.edu/heals/kb/usda#01096
+"Milk, chocolate, fluid",http://idea.rpi.edu/heals/kb/usda#01102
+"Milk, chocolate, lowfat",http://idea.rpi.edu/heals/kb/usda#01104
+"Milk, chocolate beverage, hot cocoa",http://idea.rpi.edu/heals/kb/usda#01105
+"Milk, goat, fluid",http://idea.rpi.edu/heals/kb/usda#01106
+"Milk, human, mature",http://idea.rpi.edu/heals/kb/usda#01107
+"Milk, indian buffalo, fluid",http://idea.rpi.edu/heals/kb/usda#01108
+"Milk, sheep, fluid",http://idea.rpi.edu/heals/kb/usda#01109
+"Milk shakes, thick chocolate",http://idea.rpi.edu/heals/kb/usda#01110
+"Milk shakes, thick vanilla",http://idea.rpi.edu/heals/kb/usda#01111
+"Whey, acid, fluid",http://idea.rpi.edu/heals/kb/usda#01112
+"Whey, acid, dried",http://idea.rpi.edu/heals/kb/usda#01113
+"Whey, sweet, fluid",http://idea.rpi.edu/heals/kb/usda#01114
+"Whey, sweet, dried",http://idea.rpi.edu/heals/kb/usda#01115
+"Yogurt, plain, whole milk",http://idea.rpi.edu/heals/kb/usda#01116
+"Yogurt, plain, low fat",http://idea.rpi.edu/heals/kb/usda#01117
+"Yogurt, plain, skim milk",http://idea.rpi.edu/heals/kb/usda#01118
+"Yogurt, vanilla, low fat.",http://idea.rpi.edu/heals/kb/usda#01119
+"Yogurt, fruit, low fat",http://idea.rpi.edu/heals/kb/usda#01120
+"Egg, whole, raw",http://idea.rpi.edu/heals/kb/usda#01123
+"Egg, white, raw",http://idea.rpi.edu/heals/kb/usda#01124
+"Egg, yolk, raw",http://idea.rpi.edu/heals/kb/usda#01125
+"Egg, whole, cooked",http://idea.rpi.edu/heals/kb/usda#01128
+"Egg, whole, dried",http://idea.rpi.edu/heals/kb/usda#01133
+"Egg, white, dried",http://idea.rpi.edu/heals/kb/usda#01135
+"Egg, yolk, dried",http://idea.rpi.edu/heals/kb/usda#01137
+"Egg, duck, whole",http://idea.rpi.edu/heals/kb/usda#01138
+"Egg, goose, whole",http://idea.rpi.edu/heals/kb/usda#01139
+"Egg, quail, whole",http://idea.rpi.edu/heals/kb/usda#01140
+"Egg, turkey, whole",http://idea.rpi.edu/heals/kb/usda#01141
+"Egg substitute, powder",http://idea.rpi.edu/heals/kb/usda#01144
+"Butter, without salt",http://idea.rpi.edu/heals/kb/usda#01145
+"Cheese, parmesan, shredded",http://idea.rpi.edu/heals/kb/usda#01146
+"Cheese, goat, hard type",http://idea.rpi.edu/heals/kb/usda#01156
+"Cheese, goat, semisoft type",http://idea.rpi.edu/heals/kb/usda#01157
+"Cheese, goat, soft type",http://idea.rpi.edu/heals/kb/usda#01159
+"Cheese substitute, mozzarella",http://idea.rpi.edu/heals/kb/usda#01161
+"Cheese sauce, prepared from recipe",http://idea.rpi.edu/heals/kb/usda#01164
+"Cheese, mexican, queso anejo",http://idea.rpi.edu/heals/kb/usda#01165
+"Cheese, mexican, queso asadero",http://idea.rpi.edu/heals/kb/usda#01166
+"Cheese, mexican, queso chihuahua",http://idea.rpi.edu/heals/kb/usda#01167
+"Cheese, low fat, cheddar or colby",http://idea.rpi.edu/heals/kb/usda#01168
+"Cheese, low-sodium, cheddar or colby",http://idea.rpi.edu/heals/kb/usda#01169
+"Milk, fluid, 1% fat",http://idea.rpi.edu/heals/kb/usda#01175
+"Sour cream, reduced fat",http://idea.rpi.edu/heals/kb/usda#01178
+"Sour cream, light",http://idea.rpi.edu/heals/kb/usda#01179
+"Sour cream, fat free",http://idea.rpi.edu/heals/kb/usda#01180
+"Yogurt, vanilla or lemon flavor, nonfat milk",http://idea.rpi.edu/heals/kb/usda#01184
+"Parmesan cheese topping, fat free",http://idea.rpi.edu/heals/kb/usda#01185
+"Cheese, cream, fat free",http://idea.rpi.edu/heals/kb/usda#01186
+"Yogurt, chocolate, nonfat milk",http://idea.rpi.edu/heals/kb/usda#01187
+KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce,http://idea.rpi.edu/heals/kb/usda#01188
+KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product,http://idea.rpi.edu/heals/kb/usda#01189
+KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product,http://idea.rpi.edu/heals/kb/usda#01190
+KRAFT VELVEETA Pasteurized Process Cheese Spread,http://idea.rpi.edu/heals/kb/usda#01191
+KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product,http://idea.rpi.edu/heals/kb/usda#01192
+KRAFT BREAKSTONE'S Reduced Fat Sour Cream,http://idea.rpi.edu/heals/kb/usda#01193
+KRAFT BREAKSTONE'S FREE Fat Free Sour Cream,http://idea.rpi.edu/heals/kb/usda#01194
+"Cream, half and half, fat free",http://idea.rpi.edu/heals/kb/usda#01199
+Reddi Wip Fat Free Whipped Topping,http://idea.rpi.edu/heals/kb/usda#01200
+"Yogurt, fruit, lowfat",http://idea.rpi.edu/heals/kb/usda#01203
+"Cheese, parmesan, dry grated",http://idea.rpi.edu/heals/kb/usda#01204
+"Cream substitute, flavored, liquid",http://idea.rpi.edu/heals/kb/usda#01205
+"Cream substitute, flavored, powdered",http://idea.rpi.edu/heals/kb/usda#01206
+"Cheese, provolone, reduced fat",http://idea.rpi.edu/heals/kb/usda#01208
+"Cheese, Mexican, blend",http://idea.rpi.edu/heals/kb/usda#01209
+"Cheese product, pasteurized process, American",http://idea.rpi.edu/heals/kb/usda#01215
+"Yogurt, fruit variety, nonfat",http://idea.rpi.edu/heals/kb/usda#01218
+"Yogurt, vanilla, low fat",http://idea.rpi.edu/heals/kb/usda#01220
+"Protein supplement, milk based, Muscle Milk",http://idea.rpi.edu/heals/kb/usda#01223
+"Protein supplement, milk based, Muscle Milk Light",http://idea.rpi.edu/heals/kb/usda#01224
+Dulce de Leche,http://idea.rpi.edu/heals/kb/usda#01225
+"Egg substitute, liquid or frozen, fat free",http://idea.rpi.edu/heals/kb/usda#01226
+"Cheese, dry white, queso seco",http://idea.rpi.edu/heals/kb/usda#01227
+"Cheese, fresh, queso fresco",http://idea.rpi.edu/heals/kb/usda#01228
+"Cheese, white, queso blanco",http://idea.rpi.edu/heals/kb/usda#01229
+"Yogurt, vanilla flavor, lowfat milk",http://idea.rpi.edu/heals/kb/usda#01231
+"Yogurt, frozen, flavors not chocolate",http://idea.rpi.edu/heals/kb/usda#01235
+"Ice cream, soft serve, chocolate",http://idea.rpi.edu/heals/kb/usda#01236
+"Ice cream, bar or stick, chocolate covered",http://idea.rpi.edu/heals/kb/usda#01237
+Ice cream sandwich,http://idea.rpi.edu/heals/kb/usda#01238
+Ice cream cookie sandwich,http://idea.rpi.edu/heals/kb/usda#01239
+"Ice cream cone, chocolate covered, with nuts",http://idea.rpi.edu/heals/kb/usda#01240
+"Ice cream sandwich, made with light ice cream, vanilla",http://idea.rpi.edu/heals/kb/usda#01241
+"Ice cream sandwich, vanilla, light",http://idea.rpi.edu/heals/kb/usda#01242
+"Fat free ice cream, no sugar added, flavors other than chocolate",http://idea.rpi.edu/heals/kb/usda#01243
+"Milk dessert bar, frozen, made from lowfat milk",http://idea.rpi.edu/heals/kb/usda#01244
+"Nutritional supplement for people with diabetes, liquid",http://idea.rpi.edu/heals/kb/usda#01250
+"Cheese, Mexican blend",http://idea.rpi.edu/heals/kb/usda#01251
+"Yogurt, Greek, plain",http://idea.rpi.edu/heals/kb/usda#01256
+"Cheese spread, American or Cheddar cheese base, reduced fat",http://idea.rpi.edu/heals/kb/usda#01259
+"Cheese, cheddar, reduced fat ",http://idea.rpi.edu/heals/kb/usda#01260
+"Ice cream, light, soft serve",http://idea.rpi.edu/heals/kb/usda#01263
+"Ice cream bar, stick or nugget, with crunch coating",http://idea.rpi.edu/heals/kb/usda#01264
+"Cheese, cheddar, nonfat or fat free",http://idea.rpi.edu/heals/kb/usda#01265
+"Cheese, Swiss, nonfat or fat free",http://idea.rpi.edu/heals/kb/usda#01266
+"Cheese, mexican, queso cotija",http://idea.rpi.edu/heals/kb/usda#01267
+"Cheese, cheddar, sharp",http://idea.rpi.edu/heals/kb/usda#01270
+"Yogurt, Greek, nonfat",http://idea.rpi.edu/heals/kb/usda#01275
+"Yogurt, Greek, strawberry",http://idea.rpi.edu/heals/kb/usda#01276
+"Yogurt, Greek, vanilla",http://idea.rpi.edu/heals/kb/usda#01286
+"Kefir, lowfat, plain",http://idea.rpi.edu/heals/kb/usda#01289
+"Kefir, lowfat, strawberry",http://idea.rpi.edu/heals/kb/usda#01290
+"Milk, evaporated, 2% fat",http://idea.rpi.edu/heals/kb/usda#01291
+"Milk, chocolate, fat free",http://idea.rpi.edu/heals/kb/usda#01292
+"Yogurt, Greek, fruit",http://idea.rpi.edu/heals/kb/usda#01294
+"Yogurt, vanilla, non-fat",http://idea.rpi.edu/heals/kb/usda#01295
+"Yogurt, frozen, flavors other than chocolate",http://idea.rpi.edu/heals/kb/usda#01298
+"Ice cream bar, covered with chocolate and nuts",http://idea.rpi.edu/heals/kb/usda#01300
+Ice cream sundae cone,http://idea.rpi.edu/heals/kb/usda#01301
+"Light ice cream, Creamsicle",http://idea.rpi.edu/heals/kb/usda#01302
+"Cream, half and half, lowfat",http://idea.rpi.edu/heals/kb/usda#01303
+"Ice cream, lowfat, no sugar added",http://idea.rpi.edu/heals/kb/usda#01306
+"Yogurt, Greek, whole",http://idea.rpi.edu/heals/kb/usda#01308
+"Yogurt, Greek, Blueberry",http://idea.rpi.edu/heals/kb/usda#01320
+"Butter, Clarified butter ",http://idea.rpi.edu/heals/kb/usda#01323
+"Spices, allspice, ground",http://idea.rpi.edu/heals/kb/usda#02001
+"Spices, anise seed",http://idea.rpi.edu/heals/kb/usda#02002
+"Spices, basil, dried",http://idea.rpi.edu/heals/kb/usda#02003
+"Spices, bay leaf",http://idea.rpi.edu/heals/kb/usda#02004
+"Spices, caraway seed",http://idea.rpi.edu/heals/kb/usda#02005
+"Spices, cardamom",http://idea.rpi.edu/heals/kb/usda#02006
+"Spices, celery seed",http://idea.rpi.edu/heals/kb/usda#02007
+"Spices, chervil, dried",http://idea.rpi.edu/heals/kb/usda#02008
+"Spices, chili powder",http://idea.rpi.edu/heals/kb/usda#02009
+"Spices, cinnamon, ground",http://idea.rpi.edu/heals/kb/usda#02010
+Cassia,http://idea.rpi.edu/heals/kb/usda#02010
+"Spices, cloves, ground",http://idea.rpi.edu/heals/kb/usda#02011
+"Spices, coriander leaf, dried",http://idea.rpi.edu/heals/kb/usda#02012
+Chinese parsley,http://idea.rpi.edu/heals/kb/usda#02012
+cilantro,http://idea.rpi.edu/heals/kb/usda#02012
+"Spices, coriander seed",http://idea.rpi.edu/heals/kb/usda#02013
+"Spices, cumin seed",http://idea.rpi.edu/heals/kb/usda#02014
+"Spices, curry powder",http://idea.rpi.edu/heals/kb/usda#02015
+"Spices, dill seed",http://idea.rpi.edu/heals/kb/usda#02016
+"Spices, dill weed, dried",http://idea.rpi.edu/heals/kb/usda#02017
+"Spices, fennel seed",http://idea.rpi.edu/heals/kb/usda#02018
+"Spices, fenugreek seed",http://idea.rpi.edu/heals/kb/usda#02019
+"Spices, garlic powder",http://idea.rpi.edu/heals/kb/usda#02020
+"Spices, ginger, ground",http://idea.rpi.edu/heals/kb/usda#02021
+"Spices, mace, ground",http://idea.rpi.edu/heals/kb/usda#02022
+"Spices, marjoram, dried",http://idea.rpi.edu/heals/kb/usda#02023
+"Spices, mustard seed, ground",http://idea.rpi.edu/heals/kb/usda#02024
+"Spices, nutmeg, ground",http://idea.rpi.edu/heals/kb/usda#02025
+"Spices, onion powder",http://idea.rpi.edu/heals/kb/usda#02026
+"Spices, oregano, dried",http://idea.rpi.edu/heals/kb/usda#02027
+"Spices, paprika",http://idea.rpi.edu/heals/kb/usda#02028
+"Spices, parsley, dried",http://idea.rpi.edu/heals/kb/usda#02029
+"Spices, pepper, black",http://idea.rpi.edu/heals/kb/usda#02030
+"Spices, pepper, red or cayenne",http://idea.rpi.edu/heals/kb/usda#02031
+"Spices, pepper, white",http://idea.rpi.edu/heals/kb/usda#02032
+"Spices, poppy seed",http://idea.rpi.edu/heals/kb/usda#02033
+"Spices, poultry seasoning",http://idea.rpi.edu/heals/kb/usda#02034
+"Spices, pumpkin pie spice",http://idea.rpi.edu/heals/kb/usda#02035
+"Spices, rosemary, dried",http://idea.rpi.edu/heals/kb/usda#02036
+"Spices, saffron",http://idea.rpi.edu/heals/kb/usda#02037
+"Spices, sage, ground",http://idea.rpi.edu/heals/kb/usda#02038
+"Spices, savory, ground",http://idea.rpi.edu/heals/kb/usda#02039
+"Spices, tarragon, dried",http://idea.rpi.edu/heals/kb/usda#02041
+"Spices, thyme, dried",http://idea.rpi.edu/heals/kb/usda#02042
+"Spices, turmeric, ground",http://idea.rpi.edu/heals/kb/usda#02043
+"Basil, fresh",http://idea.rpi.edu/heals/kb/usda#02044
+"Dill weed, fresh",http://idea.rpi.edu/heals/kb/usda#02045
+"Mustard, prepared, yellow",http://idea.rpi.edu/heals/kb/usda#02046
+"Salt, table",http://idea.rpi.edu/heals/kb/usda#02047
+"Vinegar, cider",http://idea.rpi.edu/heals/kb/usda#02048
+"Thyme, fresh",http://idea.rpi.edu/heals/kb/usda#02049
+Vanilla extract,http://idea.rpi.edu/heals/kb/usda#02050
+"Vanilla extract, imitation, alcohol",http://idea.rpi.edu/heals/kb/usda#02051
+"Vanilla extract, imitation, no alcohol",http://idea.rpi.edu/heals/kb/usda#02052
+"Vinegar, distilled",http://idea.rpi.edu/heals/kb/usda#02053
+"Capers, canned",http://idea.rpi.edu/heals/kb/usda#02054
+"Horseradish, prepared",http://idea.rpi.edu/heals/kb/usda#02055
+"Rosemary, fresh",http://idea.rpi.edu/heals/kb/usda#02063
+"Peppermint, fresh",http://idea.rpi.edu/heals/kb/usda#02064
+mint,http://idea.rpi.edu/heals/kb/usda#02064
+"Spearmint, fresh",http://idea.rpi.edu/heals/kb/usda#02065
+mint,http://idea.rpi.edu/heals/kb/usda#02065
+"Spearmint, dried",http://idea.rpi.edu/heals/kb/usda#02066
+mint,http://idea.rpi.edu/heals/kb/usda#02066
+"Vinegar, red wine",http://idea.rpi.edu/heals/kb/usda#02068
+"Vinegar, balsamic",http://idea.rpi.edu/heals/kb/usda#02069
+"Seasoning mix, dry, sazon",http://idea.rpi.edu/heals/kb/usda#02074
+"Seasoning mix, dry, taco",http://idea.rpi.edu/heals/kb/usda#02075
+"Seasoning mix, dry, chili",http://idea.rpi.edu/heals/kb/usda#02076
+"Fat, beef tallow",http://idea.rpi.edu/heals/kb/usda#04001
+Lard,http://idea.rpi.edu/heals/kb/usda#04002
+"Salad dressing, KRAFT Mayo Light Mayonnaise",http://idea.rpi.edu/heals/kb/usda#04011
+"Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing",http://idea.rpi.edu/heals/kb/usda#04013
+"Salad dressing, KRAFT MIRACLE WHIP FREE Nonfat Dressing",http://idea.rpi.edu/heals/kb/usda#04014
+"Salad dressing, russian dressing",http://idea.rpi.edu/heals/kb/usda#04015
+"Salad dressing, sesame seed dressing, regular",http://idea.rpi.edu/heals/kb/usda#04016
+"Salad dressing, thousand island, commercial",http://idea.rpi.edu/heals/kb/usda#04017
+"Salad dressing, mayonnaise type, regular",http://idea.rpi.edu/heals/kb/usda#04018
+"Salad dressing, french dressing, reduced fat",http://idea.rpi.edu/heals/kb/usda#04020
+"Salad dressing, italian dressing, commercial",http://idea.rpi.edu/heals/kb/usda#04021
+"Salad dressing, russian dressing, low calorie",http://idea.rpi.edu/heals/kb/usda#04022
+"Salad dressing, thousand island dressing, reduced fat",http://idea.rpi.edu/heals/kb/usda#04023
+"Salad dressing, mayonnaise, regular",http://idea.rpi.edu/heals/kb/usda#04025
+"Salad dressing, mayonnaise, soybean and safflower oil",http://idea.rpi.edu/heals/kb/usda#04026
+"Salad dressing, mayonnaise, imitation",http://idea.rpi.edu/heals/kb/usda#04027
+"Sandwich spread, with chopped pickle, regular",http://idea.rpi.edu/heals/kb/usda#04030
+"Shortening, household, soybean -cottonseed ",http://idea.rpi.edu/heals/kb/usda#04031
+"Oil, soybean, salad or cooking",http://idea.rpi.edu/heals/kb/usda#04034
+"Oil, rice bran",http://idea.rpi.edu/heals/kb/usda#04037
+"Oil, wheat germ",http://idea.rpi.edu/heals/kb/usda#04038
+"Oil, peanut, salad or cooking",http://idea.rpi.edu/heals/kb/usda#04042
+"Oil, coconut",http://idea.rpi.edu/heals/kb/usda#04047
+"Oil, olive, salad or cooking",http://idea.rpi.edu/heals/kb/usda#04053
+"Oil, palm",http://idea.rpi.edu/heals/kb/usda#04055
+"Oil, sesame, salad or cooking",http://idea.rpi.edu/heals/kb/usda#04058
+"Oil, sunflower, linoleic ",http://idea.rpi.edu/heals/kb/usda#04060
+"Margarine, regular, hard",http://idea.rpi.edu/heals/kb/usda#04073
+"Salad dressing, french dressing, commercial",http://idea.rpi.edu/heals/kb/usda#04120
+"Margarine,spread, 35-39% fat",http://idea.rpi.edu/heals/kb/usda#04128
+"Salad dressing, french, home recipe",http://idea.rpi.edu/heals/kb/usda#04133
+"Salad dressing, home recipe, vinegar and oil",http://idea.rpi.edu/heals/kb/usda#04135
+"Salad dressing, italian dressing, reduced fat",http://idea.rpi.edu/heals/kb/usda#04144
+"Salad dressing, mayonnaise, soybean oil",http://idea.rpi.edu/heals/kb/usda#04145
+"Salad dressing, french, cottonseed",http://idea.rpi.edu/heals/kb/usda#04146
+"Salad dressing, french dressing, fat-free",http://idea.rpi.edu/heals/kb/usda#04367
+"Oil, cocoa butter",http://idea.rpi.edu/heals/kb/usda#04501
+"Oil, cottonseed, salad or cooking",http://idea.rpi.edu/heals/kb/usda#04502
+"Oil, sunflower, linoleic",http://idea.rpi.edu/heals/kb/usda#04506
+"Oil, safflower, salad or cooking",http://idea.rpi.edu/heals/kb/usda#04510
+"Vegetable oil, palm kernel",http://idea.rpi.edu/heals/kb/usda#04513
+"Oil, poppyseed",http://idea.rpi.edu/heals/kb/usda#04514
+"Oil, tomatoseed",http://idea.rpi.edu/heals/kb/usda#04515
+"Oil, teaseed",http://idea.rpi.edu/heals/kb/usda#04516
+"Oil, grapeseed",http://idea.rpi.edu/heals/kb/usda#04517
+"Oil, corn, industrial and retail",http://idea.rpi.edu/heals/kb/usda#04518
+"Oil, walnut",http://idea.rpi.edu/heals/kb/usda#04528
+"Oil, almond",http://idea.rpi.edu/heals/kb/usda#04529
+"Oil, apricot kernel",http://idea.rpi.edu/heals/kb/usda#04530
+"Oil, soybean lecithin",http://idea.rpi.edu/heals/kb/usda#04531
+"Oil, hazelnut",http://idea.rpi.edu/heals/kb/usda#04532
+"Oil, babassu",http://idea.rpi.edu/heals/kb/usda#04534
+"Oil, sheanut",http://idea.rpi.edu/heals/kb/usda#04536
+"Salad dressing, blue or roquefort cheese dressing, commercial",http://idea.rpi.edu/heals/kb/usda#04539
+"Oil, cupu assu",http://idea.rpi.edu/heals/kb/usda#04541
+"Fat, chicken",http://idea.rpi.edu/heals/kb/usda#04542
+"Shortening, household, lard and vegetable oil",http://idea.rpi.edu/heals/kb/usda#04544
+"Shortening bread, soybean  and cottonseed",http://idea.rpi.edu/heals/kb/usda#04546
+"Shortening cake mix, soybean  and cottonseed ",http://idea.rpi.edu/heals/kb/usda#04548
+"Shortening industrial, lard and vegetable oil",http://idea.rpi.edu/heals/kb/usda#04549
+"Shortening frying , beef tallow and cottonseed",http://idea.rpi.edu/heals/kb/usda#04550
+"Shortening confectionery, coconut  and or palm kernel ",http://idea.rpi.edu/heals/kb/usda#04551
+"Shortening industrial, soybean  and cottonseed",http://idea.rpi.edu/heals/kb/usda#04554
+"Shortening frying , palm ",http://idea.rpi.edu/heals/kb/usda#04556
+Shortening household soybean  and palm,http://idea.rpi.edu/heals/kb/usda#04559
+"Shortening frying , soybean , linoleic ",http://idea.rpi.edu/heals/kb/usda#04560
+"Shortening, confectionery, fractionated palm",http://idea.rpi.edu/heals/kb/usda#04570
+"Oil, nutmeg butter",http://idea.rpi.edu/heals/kb/usda#04572
+"Oil, ucuhuba butter",http://idea.rpi.edu/heals/kb/usda#04573
+"Fat, turkey",http://idea.rpi.edu/heals/kb/usda#04575
+"Fat, goose",http://idea.rpi.edu/heals/kb/usda#04576
+"Oil, avocado",http://idea.rpi.edu/heals/kb/usda#04581
+"Oil, canola",http://idea.rpi.edu/heals/kb/usda#04582
+low erucic acid rapeseed oil,http://idea.rpi.edu/heals/kb/usda#04582
+"Oil, mustard",http://idea.rpi.edu/heals/kb/usda#04583
+"Oil, sunflower, high oleic ",http://idea.rpi.edu/heals/kb/usda#04584
+"Margarine-like, margarine-butter blend, soybean oil and butter",http://idea.rpi.edu/heals/kb/usda#04585
+"Shortening, special purpose for cakes and frostings, soybean ",http://idea.rpi.edu/heals/kb/usda#04586
+"Shortening, special purpose for baking, soybean  palm and cottonseed",http://idea.rpi.edu/heals/kb/usda#04587
+"Oil, oat",http://idea.rpi.edu/heals/kb/usda#04588
+"Fish oil, cod liver",http://idea.rpi.edu/heals/kb/usda#04589
+"Fish oil, herring",http://idea.rpi.edu/heals/kb/usda#04590
+"Fish oil, menhaden",http://idea.rpi.edu/heals/kb/usda#04591
+"Fish oil, menhaden, fully hydrogenated",http://idea.rpi.edu/heals/kb/usda#04592
+"Fish oil, salmon",http://idea.rpi.edu/heals/kb/usda#04593
+"Fish oil, sardine",http://idea.rpi.edu/heals/kb/usda#04594
+"Shortening, multipurpose, soybean  and palm ",http://idea.rpi.edu/heals/kb/usda#04595
+"Margarine-like, vegetable oil-butter spread, tub",http://idea.rpi.edu/heals/kb/usda#04600
+"Butter, light, stick",http://idea.rpi.edu/heals/kb/usda#04601
+"Animal fat, bacon grease",http://idea.rpi.edu/heals/kb/usda#04609
+"Margarine, regular, 80% fat",http://idea.rpi.edu/heals/kb/usda#04610
+"Margarine-like, vegetable oil spread, 60% fat",http://idea.rpi.edu/heals/kb/usda#04612
+"Shortening, vegetable, household",http://idea.rpi.edu/heals/kb/usda#04615
+"Margarine-like, vegetable oil spread, fat free",http://idea.rpi.edu/heals/kb/usda#04624
+"Margarine-like spread with yogurt, 70% fat, stick",http://idea.rpi.edu/heals/kb/usda#04626
+"Margarine-like spread with yogurt, approximately 40% fat, tub",http://idea.rpi.edu/heals/kb/usda#04627
+"Margarine, 80% fat, stick",http://idea.rpi.edu/heals/kb/usda#04628
+"Margarine, margarine-type vegetable oil spread, 70% fat",http://idea.rpi.edu/heals/kb/usda#04629
+"Margarine Spread, 40-49% fat, tub",http://idea.rpi.edu/heals/kb/usda#04630
+"Margarine-like, vegetable oil spread, fat-free",http://idea.rpi.edu/heals/kb/usda#04631
+"Margarine-like, vegetable oil spread, 20% fat",http://idea.rpi.edu/heals/kb/usda#04633
+"Salad dressing, thousand island dressing, fat-free",http://idea.rpi.edu/heals/kb/usda#04635
+"Salad dressing, italian dressing, fat-free",http://idea.rpi.edu/heals/kb/usda#04636
+"Salad dressing, ranch dressing, fat-free",http://idea.rpi.edu/heals/kb/usda#04638
+"Salad dressing, ranch dressing, regular",http://idea.rpi.edu/heals/kb/usda#04639
+"Salad dressing, ranch dressing, reduced fat",http://idea.rpi.edu/heals/kb/usda#04640
+"Salad dressing, mayonnaise, light",http://idea.rpi.edu/heals/kb/usda#04641
+lite mayonnaise,http://idea.rpi.edu/heals/kb/usda#04641
+"Oil, industrial, mid-oleic",http://idea.rpi.edu/heals/kb/usda#04642
+NuSun,http://idea.rpi.edu/heals/kb/usda#04642
+"Oil, industrial, canola with antifoaming agent",http://idea.rpi.edu/heals/kb/usda#04643
+"Oil, industrial, canola for salads",http://idea.rpi.edu/heals/kb/usda#04644
+"Oil, industrial, canola  oil for deep fat frying",http://idea.rpi.edu/heals/kb/usda#04645
+"Oil, industrial, coconut",http://idea.rpi.edu/heals/kb/usda#04646
+"Oil, industrial, soy ",http://idea.rpi.edu/heals/kb/usda#04648
+"Shortening, industrial, soy ",http://idea.rpi.edu/heals/kb/usda#04649
+"Oil, industrial, soy",http://idea.rpi.edu/heals/kb/usda#04650
+"Oil, industrial, soy  and soy ",http://idea.rpi.edu/heals/kb/usda#04653
+"Oil, industrial, soy   and cottonseed",http://idea.rpi.edu/heals/kb/usda#04654
+"Margarine-like shortening, industrial, soy ",http://idea.rpi.edu/heals/kb/usda#04655
+"Oil, industrial, palm kernel",http://idea.rpi.edu/heals/kb/usda#04656
+"Oil, industrial, palm kernel ",http://idea.rpi.edu/heals/kb/usda#04657
+"Oil, industrial, palm kernel  ",http://idea.rpi.edu/heals/kb/usda#04660
+"Oil, industrial, coconut ",http://idea.rpi.edu/heals/kb/usda#04661
+"Oil, industrial, palm and palm kernel",http://idea.rpi.edu/heals/kb/usda#04662
+"Margarine, industrial, non-dairy",http://idea.rpi.edu/heals/kb/usda#04665
+"Shortening, industrial, soy  and corn for frying",http://idea.rpi.edu/heals/kb/usda#04666
+"Shortening, industrial, soy  for baking and confections",http://idea.rpi.edu/heals/kb/usda#04667
+"Margarine, industrial, soy and partially hydrogenated soy oil",http://idea.rpi.edu/heals/kb/usda#04668
+"Oil, vegetable, soybean",http://idea.rpi.edu/heals/kb/usda#04669
+"Margarine-like spread, SMART BALANCE Regular Buttery Spread with flax oil",http://idea.rpi.edu/heals/kb/usda#04673
+"Margarine-like spread, SMART BALANCE Light Buttery Spread",http://idea.rpi.edu/heals/kb/usda#04674
+"Margarine-like spread, SMART BEAT Super Light without saturated fat",http://idea.rpi.edu/heals/kb/usda#04675
+"Margarine-like spread, SMART BEAT Smart Squeeze",http://idea.rpi.edu/heals/kb/usda#04676
+"Margarine-like spread, SMART BALANCE Omega Plus Spread ",http://idea.rpi.edu/heals/kb/usda#04677
+"Oil, vegetable, Natreon canola",http://idea.rpi.edu/heals/kb/usda#04678
+trans free high stability low saturated fat non-hydrogenated canola oil,http://idea.rpi.edu/heals/kb/usda#04678
+"Oil, PAM cooking spray, original",http://idea.rpi.edu/heals/kb/usda#04679
+"Margarine, margarine-like vegetable oil spread, 67-70% fat",http://idea.rpi.edu/heals/kb/usda#04683
+"Margarine, 80% fat, tub",http://idea.rpi.edu/heals/kb/usda#04684
+"Oil, cooking and salad, ENOVA",http://idea.rpi.edu/heals/kb/usda#04685
+"Salad dressing, honey mustard dressing, reduced calorie",http://idea.rpi.edu/heals/kb/usda#04686
+"Margarine-like spread, BENECOL Light Spread",http://idea.rpi.edu/heals/kb/usda#04687
+"Salad dressing, spray-style dressing, assorted flavors",http://idea.rpi.edu/heals/kb/usda#04688
+"Salad Dressing, mayonnaise, light",http://idea.rpi.edu/heals/kb/usda#04689
+"Margarine-like, vegetable oil spread, approximately 37% fat",http://idea.rpi.edu/heals/kb/usda#04690
+"Margarine-like vegetable-oil spread, stick/tub/bottle, 60% fat",http://idea.rpi.edu/heals/kb/usda#04695
+"Oil, industrial, canola",http://idea.rpi.edu/heals/kb/usda#04698
+"Oil, industrial, cottonseed",http://idea.rpi.edu/heals/kb/usda#04702
+"Salad dressing, honey mustard, regular",http://idea.rpi.edu/heals/kb/usda#04703
+"Salad dressing, poppyseed, creamy",http://idea.rpi.edu/heals/kb/usda#04704
+"Salad dressing, caesar, fat-free",http://idea.rpi.edu/heals/kb/usda#04705
+"Dressing, honey mustard, fat-free",http://idea.rpi.edu/heals/kb/usda#04706
+"Oil, flaxseed, contains added sliced flaxseed",http://idea.rpi.edu/heals/kb/usda#04707
+"Mayonnaise, reduced fat, with olive oil",http://idea.rpi.edu/heals/kb/usda#04708
+"Salad dressing, mayonnaise-type, light",http://idea.rpi.edu/heals/kb/usda#04709
+"Chicken, broiler, rotisserie",http://idea.rpi.edu/heals/kb/usda#05000
+"Chicken, broilers or fryers, meat and skin and giblets and neck",http://idea.rpi.edu/heals/kb/usda#05001
+"Chicken, broilers or fryers, meat and skin",http://idea.rpi.edu/heals/kb/usda#05006
+"Chicken, broilers or fryers, meat only",http://idea.rpi.edu/heals/kb/usda#05011
+"Chicken, broilers or fryers, skin only",http://idea.rpi.edu/heals/kb/usda#05015
+"Chicken, broilers or fryers, giblets",http://idea.rpi.edu/heals/kb/usda#05020
+"Chicken, gizzard, all classes",http://idea.rpi.edu/heals/kb/usda#05023
+"Chicken, heart, all classes",http://idea.rpi.edu/heals/kb/usda#05025
+"Chicken, liver, all classes",http://idea.rpi.edu/heals/kb/usda#05027
+"Chicken, broilers or fryers, light meat",http://idea.rpi.edu/heals/kb/usda#05029
+"Chicken, broilers or fryers, dark meat",http://idea.rpi.edu/heals/kb/usda#05034
+"Chicken, broilers or fryers, separable fat",http://idea.rpi.edu/heals/kb/usda#05047
+"Chicken, broilers or fryers, back",http://idea.rpi.edu/heals/kb/usda#05048
+"Chicken, broilers or fryers, breast",http://idea.rpi.edu/heals/kb/usda#05057
+"Chicken, broiler or fryers, breast",http://idea.rpi.edu/heals/kb/usda#05062
+"Chicken, broilers or fryers, drumstick",http://idea.rpi.edu/heals/kb/usda#05066
+"Chicken, broilers or fryers, leg",http://idea.rpi.edu/heals/kb/usda#05075
+"Chicken, broilers or fryers, neck",http://idea.rpi.edu/heals/kb/usda#05084
+"Chicken, broilers or fryers, thigh",http://idea.rpi.edu/heals/kb/usda#05091
+"Chicken, broilers or fryers, wing",http://idea.rpi.edu/heals/kb/usda#05100
+"Chicken, roasting, meat and skin and giblets and neck",http://idea.rpi.edu/heals/kb/usda#05109
+"Canada Goose, breast meat only, skinless",http://idea.rpi.edu/heals/kb/usda#05111
+Canadian geese,http://idea.rpi.edu/heals/kb/usda#05111
+"Chicken, roasting, meat and skin",http://idea.rpi.edu/heals/kb/usda#05112
+"Chicken, roasting, meat only",http://idea.rpi.edu/heals/kb/usda#05113
+"Chicken, roasting, giblets",http://idea.rpi.edu/heals/kb/usda#05115
+"Chicken, roasting, light meat",http://idea.rpi.edu/heals/kb/usda#05117
+"Chicken, roasting, dark meat",http://idea.rpi.edu/heals/kb/usda#05119
+"Chicken, stewing, meat and skin",http://idea.rpi.edu/heals/kb/usda#05121
+"Chicken, stewing, meat only",http://idea.rpi.edu/heals/kb/usda#05125
+"Chicken, stewing, giblets",http://idea.rpi.edu/heals/kb/usda#05127
+"Chicken, stewing, light meat",http://idea.rpi.edu/heals/kb/usda#05129
+"Chicken, stewing, dark meat",http://idea.rpi.edu/heals/kb/usda#05131
+"Chicken, capons, meat and skin and giblets and neck",http://idea.rpi.edu/heals/kb/usda#05133
+"Chicken, capons, meat and skin",http://idea.rpi.edu/heals/kb/usda#05135
+"Chicken, capons, giblets",http://idea.rpi.edu/heals/kb/usda#05137
+"Duck, domesticated, meat and skin",http://idea.rpi.edu/heals/kb/usda#05139
+"Duck, domesticated, meat only",http://idea.rpi.edu/heals/kb/usda#05141
+"Duck, domesticated, liver",http://idea.rpi.edu/heals/kb/usda#05143
+"Duck, wild, meat and skin",http://idea.rpi.edu/heals/kb/usda#05144
+"Duck, wild, breast",http://idea.rpi.edu/heals/kb/usda#05145
+"Goose, domesticated, meat and skin",http://idea.rpi.edu/heals/kb/usda#05146
+"Goose, domesticated, meat only",http://idea.rpi.edu/heals/kb/usda#05148
+"Goose, liver, raw",http://idea.rpi.edu/heals/kb/usda#05150
+"Guinea hen, meat and skin, raw",http://idea.rpi.edu/heals/kb/usda#05151
+"Guinea hen, meat only, raw",http://idea.rpi.edu/heals/kb/usda#05152
+"Pheasant, raw, meat and skin",http://idea.rpi.edu/heals/kb/usda#05153
+"Pheasant, raw, meat only",http://idea.rpi.edu/heals/kb/usda#05154
+"Pheasant, breast, meat only",http://idea.rpi.edu/heals/kb/usda#05155
+"Pheasant, leg, meat only",http://idea.rpi.edu/heals/kb/usda#05156
+"Quail, meat and skin, raw",http://idea.rpi.edu/heals/kb/usda#05157
+"Quail, meat only, raw",http://idea.rpi.edu/heals/kb/usda#05158
+"Quail, breast, meat only",http://idea.rpi.edu/heals/kb/usda#05159
+"Squab, , meat and skin",http://idea.rpi.edu/heals/kb/usda#05160
+"Squab, , meat only",http://idea.rpi.edu/heals/kb/usda#05161
+"Squab, , light meat without skin",http://idea.rpi.edu/heals/kb/usda#05162
+"Turkey, whole, meat and skin",http://idea.rpi.edu/heals/kb/usda#05165
+"Turkey, whole, meat only",http://idea.rpi.edu/heals/kb/usda#05167
+"Turkey, whole, skin ",http://idea.rpi.edu/heals/kb/usda#05169
+"Turkey, whole, giblets",http://idea.rpi.edu/heals/kb/usda#05171
+"Turkey, gizzard, all classes",http://idea.rpi.edu/heals/kb/usda#05173
+"Turkey, all classes, gizzard",http://idea.rpi.edu/heals/kb/usda#05174
+"Turkey, all classes, heart",http://idea.rpi.edu/heals/kb/usda#05175
+"Turkey, all classes, liver",http://idea.rpi.edu/heals/kb/usda#05177
+"Turkey, whole, neck",http://idea.rpi.edu/heals/kb/usda#05179
+"Turkey, whole, light meat",http://idea.rpi.edu/heals/kb/usda#05181
+"Turkey, dark meat, meat and skin",http://idea.rpi.edu/heals/kb/usda#05183
+"Turkey, whole, dark meat",http://idea.rpi.edu/heals/kb/usda#05184
+"Turkey, all classes, light meat",http://idea.rpi.edu/heals/kb/usda#05186
+"Turkey, all classes, back",http://idea.rpi.edu/heals/kb/usda#05190
+"Turkey, all classes, breast",http://idea.rpi.edu/heals/kb/usda#05191
+"Turkey, all classes, leg",http://idea.rpi.edu/heals/kb/usda#05193
+"Turkey, all classes, wing",http://idea.rpi.edu/heals/kb/usda#05195
+"Turkey, fryer-roasters, meat and skin",http://idea.rpi.edu/heals/kb/usda#05200
+"Turkey, whole, back",http://idea.rpi.edu/heals/kb/usda#05215
+"Turkey, whole, breast",http://idea.rpi.edu/heals/kb/usda#05219
+"Turkey, whole, wing",http://idea.rpi.edu/heals/kb/usda#05227
+"Turkey, young hen, skin only",http://idea.rpi.edu/heals/kb/usda#05236
+"Chicken, canned, meat only",http://idea.rpi.edu/heals/kb/usda#05277
+"Pate de foie gras, canned , smoked",http://idea.rpi.edu/heals/kb/usda#05282
+"Turkey, canned, meat only",http://idea.rpi.edu/heals/kb/usda#05284
+"Turkey, diced, light and dark meat",http://idea.rpi.edu/heals/kb/usda#05285
+"Turkey and gravy, frozen",http://idea.rpi.edu/heals/kb/usda#05286
+"Turkey breast, pre-basted, meat and skin",http://idea.rpi.edu/heals/kb/usda#05293
+"Turkey thigh, pre-basted, meat and skin",http://idea.rpi.edu/heals/kb/usda#05294
+"Turkey roast, boneless, frozen",http://idea.rpi.edu/heals/kb/usda#05295
+"Turkey sticks, breaded, battered",http://idea.rpi.edu/heals/kb/usda#05300
+"Poultry, mechanically deboned, from backs and necks with skin",http://idea.rpi.edu/heals/kb/usda#05301
+"Poultry, mechanically deboned, from backs and necks without skin",http://idea.rpi.edu/heals/kb/usda#05302
+"Poultry, mechanically deboned, from mature hens",http://idea.rpi.edu/heals/kb/usda#05303
+"Turkey, mechanically deboned, from turkey frames",http://idea.rpi.edu/heals/kb/usda#05304
+"Turkey, Ground, raw",http://idea.rpi.edu/heals/kb/usda#05305
+"Turkey, Ground, cooked",http://idea.rpi.edu/heals/kb/usda#05306
+"Chicken, cornish game hens, meat and skin",http://idea.rpi.edu/heals/kb/usda#05307
+"Chicken, cornish game hens, meat only",http://idea.rpi.edu/heals/kb/usda#05309
+"Chicken, canned, no broth",http://idea.rpi.edu/heals/kb/usda#05311
+"Chicken, wing, frozen",http://idea.rpi.edu/heals/kb/usda#05312
+"Duck, young duckling, domesticated",http://idea.rpi.edu/heals/kb/usda#05315
+"Chicken patty, frozen, uncooked",http://idea.rpi.edu/heals/kb/usda#05323
+"Chicken patty, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#05324
+"Chicken breast tenders, breaded, cooked",http://idea.rpi.edu/heals/kb/usda#05326
+"Chicken breast tenders, breaded, uncooked",http://idea.rpi.edu/heals/kb/usda#05327
+"Chicken, ground, raw",http://idea.rpi.edu/heals/kb/usda#05332
+"Chicken, ground, crumbles",http://idea.rpi.edu/heals/kb/usda#05333
+"Chicken, feet, boiled",http://idea.rpi.edu/heals/kb/usda#05335
+"Chicken, broilers or fryers, rotisserie",http://idea.rpi.edu/heals/kb/usda#05341
+"Chicken, broilers or fryers,  rotisserie",http://idea.rpi.edu/heals/kb/usda#05349
+"Ruffed Grouse, breast meat, skinless",http://idea.rpi.edu/heals/kb/usda#05363
+Ruffed grouse,http://idea.rpi.edu/heals/kb/usda#05363
+"Emu, ground, raw",http://idea.rpi.edu/heals/kb/usda#05621
+"Emu, ground, cooked",http://idea.rpi.edu/heals/kb/usda#05622
+"Emu, fan fillet, raw",http://idea.rpi.edu/heals/kb/usda#05623
+"Emu, fan fillet, cooked",http://idea.rpi.edu/heals/kb/usda#05624
+"Emu, flat fillet, raw",http://idea.rpi.edu/heals/kb/usda#05625
+"Emu, full rump, raw",http://idea.rpi.edu/heals/kb/usda#05626
+"Emu, full rump, cooked",http://idea.rpi.edu/heals/kb/usda#05627
+"Emu, inside drum, raw",http://idea.rpi.edu/heals/kb/usda#05628
+"Emu, inside drums, cooked",http://idea.rpi.edu/heals/kb/usda#05629
+"Emu, outside drum, raw",http://idea.rpi.edu/heals/kb/usda#05630
+"Emu, oyster, raw",http://idea.rpi.edu/heals/kb/usda#05631
+"Emu, top loin, cooked",http://idea.rpi.edu/heals/kb/usda#05632
+"Ostrich, ground, raw",http://idea.rpi.edu/heals/kb/usda#05641
+"Ostrich, ground, cooked",http://idea.rpi.edu/heals/kb/usda#05642
+"Ostrich, fan, raw",http://idea.rpi.edu/heals/kb/usda#05643
+"Ostrich, inside leg, raw",http://idea.rpi.edu/heals/kb/usda#05644
+"Ostrich, inside leg, cooked",http://idea.rpi.edu/heals/kb/usda#05645
+"Ostrich, inside strip, raw",http://idea.rpi.edu/heals/kb/usda#05646
+"Ostrich, inside strip, cooked",http://idea.rpi.edu/heals/kb/usda#05647
+"Ostrich, outside leg, raw",http://idea.rpi.edu/heals/kb/usda#05648
+"Ostrich, outside strip, raw",http://idea.rpi.edu/heals/kb/usda#05649
+"Ostrich, outside strip, cooked",http://idea.rpi.edu/heals/kb/usda#05650
+"Ostrich, oyster, raw",http://idea.rpi.edu/heals/kb/usda#05651
+"Ostrich, oyster, cooked",http://idea.rpi.edu/heals/kb/usda#05652
+"Ostrich, round, raw",http://idea.rpi.edu/heals/kb/usda#05653
+"Ostrich, tenderloin, raw",http://idea.rpi.edu/heals/kb/usda#05654
+"Ostrich, tip trimmed, raw",http://idea.rpi.edu/heals/kb/usda#05655
+"Ostrich, tip trimmed, cooked",http://idea.rpi.edu/heals/kb/usda#05656
+"Ostrich, top loin, raw",http://idea.rpi.edu/heals/kb/usda#05657
+"Ostrich, top loin, cooked",http://idea.rpi.edu/heals/kb/usda#05658
+"Turkey, ground, fat free",http://idea.rpi.edu/heals/kb/usda#05662
+"Turkey, ground, 93% lean",http://idea.rpi.edu/heals/kb/usda#05665
+"Turkey, ground, 85% lean",http://idea.rpi.edu/heals/kb/usda#05668
+"Chicken, skin , cooked",http://idea.rpi.edu/heals/kb/usda#05673
+"Chicken, skin , raw",http://idea.rpi.edu/heals/kb/usda#05674
+"Chicken, dark meat, drumstick",http://idea.rpi.edu/heals/kb/usda#05678
+"Chicken, dark meat, thigh",http://idea.rpi.edu/heals/kb/usda#05681
+"Chicken, skin , with added solution",http://idea.rpi.edu/heals/kb/usda#05684
+"Turkey, dark meat from whole, meat only",http://idea.rpi.edu/heals/kb/usda#05694
+"Turkey, dark meat, meat only",http://idea.rpi.edu/heals/kb/usda#05695
+"Turkey from whole, light meat, meat only",http://idea.rpi.edu/heals/kb/usda#05696
+"Turkey, skin from whole , with added solution",http://idea.rpi.edu/heals/kb/usda#05698
+"Turkey, skin from whole, ",http://idea.rpi.edu/heals/kb/usda#05699
+"Turkey, dark meat from whole, meat and skin",http://idea.rpi.edu/heals/kb/usda#05700
+"Turkey from whole, light meat, meat and skin",http://idea.rpi.edu/heals/kb/usda#05702
+"Turkey, retail parts, breast",http://idea.rpi.edu/heals/kb/usda#05708
+"Turkey, retail parts, wing",http://idea.rpi.edu/heals/kb/usda#05712
+"Turkey, skin, from retail parts",http://idea.rpi.edu/heals/kb/usda#05714
+"Turkey, retail parts, drumstick",http://idea.rpi.edu/heals/kb/usda#05716
+"Turkey, retail parts, thigh",http://idea.rpi.edu/heals/kb/usda#05717
+"Turkey, breast, from whole bird",http://idea.rpi.edu/heals/kb/usda#05718
+"Turkey, back, from whole bird",http://idea.rpi.edu/heals/kb/usda#05719
+"Turkey, drumstick, from whole bird",http://idea.rpi.edu/heals/kb/usda#05724
+"Turkey, thigh, from whole bird",http://idea.rpi.edu/heals/kb/usda#05726
+"Turkey, wing, from whole bird",http://idea.rpi.edu/heals/kb/usda#05729
+"Soup, cream of asparagus, canned",http://idea.rpi.edu/heals/kb/usda#06001
+"Soup, black bean, canned",http://idea.rpi.edu/heals/kb/usda#06002
+"Soup, bean with pork, canned",http://idea.rpi.edu/heals/kb/usda#06004
+"Soup, bean with frankfurters, canned",http://idea.rpi.edu/heals/kb/usda#06006
+"Soup, bean with ham, canned",http://idea.rpi.edu/heals/kb/usda#06007
+"Soup, beef broth or bouillon canned, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06008
+"Soup, beef noodle, canned",http://idea.rpi.edu/heals/kb/usda#06009
+"Soup, cream of celery, canned",http://idea.rpi.edu/heals/kb/usda#06010
+"Soup, cheese, canned",http://idea.rpi.edu/heals/kb/usda#06011
+"Soup, chicken broth, canned",http://idea.rpi.edu/heals/kb/usda#06013
+"Soup, chicken, canned",http://idea.rpi.edu/heals/kb/usda#06015
+"Soup, cream of chicken, canned",http://idea.rpi.edu/heals/kb/usda#06016
+"Soup, chicken gumbo, canned",http://idea.rpi.edu/heals/kb/usda#06017
+"Soup, chunky chicken noodle, canned",http://idea.rpi.edu/heals/kb/usda#06018
+"Soup, chicken noodle, canned",http://idea.rpi.edu/heals/kb/usda#06019
+"Soup, chicken rice, canned",http://idea.rpi.edu/heals/kb/usda#06022
+"Soup, chicken with rice, canned",http://idea.rpi.edu/heals/kb/usda#06023
+"Soup, chicken and vegetable, canned",http://idea.rpi.edu/heals/kb/usda#06024
+"Soup, chicken vegetable, canned",http://idea.rpi.edu/heals/kb/usda#06025
+"Soup, chili beef, canned",http://idea.rpi.edu/heals/kb/usda#06026
+"Soup, clam chowder, manhattan style",http://idea.rpi.edu/heals/kb/usda#06027
+"Soup, clam chowder, manhattan",http://idea.rpi.edu/heals/kb/usda#06028
+"Soup, clam chowder, new england",http://idea.rpi.edu/heals/kb/usda#06030
+"Soup, beef broth bouillon and consomme, canned",http://idea.rpi.edu/heals/kb/usda#06032
+"Soup, lentil with ham, canned",http://idea.rpi.edu/heals/kb/usda#06037
+"Soup, minestrone, canned",http://idea.rpi.edu/heals/kb/usda#06039
+"Soup, mushroom barley, canned",http://idea.rpi.edu/heals/kb/usda#06042
+"Soup, cream of mushroom, canned",http://idea.rpi.edu/heals/kb/usda#06043
+"Soup, mushroom with beef stock, canned",http://idea.rpi.edu/heals/kb/usda#06044
+"Soup, onion, canned",http://idea.rpi.edu/heals/kb/usda#06045
+"Soup, cream of onion, canned",http://idea.rpi.edu/heals/kb/usda#06046
+"Soup, oyster stew, canned",http://idea.rpi.edu/heals/kb/usda#06048
+"Soup, pea, green",http://idea.rpi.edu/heals/kb/usda#06049
+"Soup, pea, split with ham",http://idea.rpi.edu/heals/kb/usda#06050
+"Soup, cream of potato, canned",http://idea.rpi.edu/heals/kb/usda#06053
+"Soup, cream of shrimp, canned",http://idea.rpi.edu/heals/kb/usda#06056
+"Soup, tomato beef with noodle, canned",http://idea.rpi.edu/heals/kb/usda#06061
+"CAMPBELL'S, Chicken Noodle Soup, condensed",http://idea.rpi.edu/heals/kb/usda#06062
+"Soup, tomato rice, canned",http://idea.rpi.edu/heals/kb/usda#06063
+"Soup, turkey, chunky",http://idea.rpi.edu/heals/kb/usda#06064
+"Soup, chunky vegetable, canned",http://idea.rpi.edu/heals/kb/usda#06067
+"Soup, vegetarian vegetable, canned",http://idea.rpi.edu/heals/kb/usda#06068
+"Soup, chunky beef, canned",http://idea.rpi.edu/heals/kb/usda#06070
+"Soup, vegetable beef, canned",http://idea.rpi.edu/heals/kb/usda#06071
+"Soup, vegetable with beef broth, canned",http://idea.rpi.edu/heals/kb/usda#06072
+"Soup, beef broth or bouillon, powder",http://idea.rpi.edu/heals/kb/usda#06075
+"Soup, beef broth, cubed",http://idea.rpi.edu/heals/kb/usda#06076
+"Soup, chicken broth or bouillon, dry",http://idea.rpi.edu/heals/kb/usda#06080
+"Soup, chicken broth cubes, dry",http://idea.rpi.edu/heals/kb/usda#06081
+"Soup, onion, dry",http://idea.rpi.edu/heals/kb/usda#06094
+"Soup, cream of vegetable, dry",http://idea.rpi.edu/heals/kb/usda#06101
+"Sauce, teriyaki, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06112
+"Gravy, au jus, canned",http://idea.rpi.edu/heals/kb/usda#06114
+"Gravy, au jus, dry",http://idea.rpi.edu/heals/kb/usda#06115
+"Gravy, beef, canned",http://idea.rpi.edu/heals/kb/usda#06116
+"Gravy, brown, dry",http://idea.rpi.edu/heals/kb/usda#06118
+"Gravy, chicken, canned or bottled",http://idea.rpi.edu/heals/kb/usda#06119
+"Gravy, chicken, dry",http://idea.rpi.edu/heals/kb/usda#06120
+"Gravy, mushroom, canned",http://idea.rpi.edu/heals/kb/usda#06121
+"Gravy, mushroom, dry",http://idea.rpi.edu/heals/kb/usda#06122
+"Gravy, onion, dry",http://idea.rpi.edu/heals/kb/usda#06123
+"Gravy, pork, dry",http://idea.rpi.edu/heals/kb/usda#06124
+"Gravy, turkey, canned",http://idea.rpi.edu/heals/kb/usda#06125
+"Gravy, turkey, dry",http://idea.rpi.edu/heals/kb/usda#06126
+"Gravy, unspecified type, dry",http://idea.rpi.edu/heals/kb/usda#06127
+"Soup, chicken noodle, dry",http://idea.rpi.edu/heals/kb/usda#06128
+"Sauce, sofrito, prepared from recipe",http://idea.rpi.edu/heals/kb/usda#06142
+"Soup, beef mushroom, canned",http://idea.rpi.edu/heals/kb/usda#06147
+"Soup, chicken mushroom, canned",http://idea.rpi.edu/heals/kb/usda#06149
+"Sauce, barbecue",http://idea.rpi.edu/heals/kb/usda#06150
+"Sauce, plum, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06151
+"Sauce, pizza, canned",http://idea.rpi.edu/heals/kb/usda#06152
+"Soup, tomato bisque, canned",http://idea.rpi.edu/heals/kb/usda#06158
+"Soup, tomato, canned",http://idea.rpi.edu/heals/kb/usda#06159
+"Sauce, salsa, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06164
+"Sauce, homemade, white",http://idea.rpi.edu/heals/kb/usda#06166
+"Sauce, ready-to-serve, pepper or hot",http://idea.rpi.edu/heals/kb/usda#06168
+"Sauce, ready-to-serve, pepper",http://idea.rpi.edu/heals/kb/usda#06169
+"Soup, stock, beef",http://idea.rpi.edu/heals/kb/usda#06170
+"Soup, stock, chicken",http://idea.rpi.edu/heals/kb/usda#06172
+"Soup, stock, fish",http://idea.rpi.edu/heals/kb/usda#06174
+"Sauce, hoisin, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06175
+"Sauce, oyster, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06176
+"Sauce, fish, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06179
+"Soup, shark fin, restaurant-prepared",http://idea.rpi.edu/heals/kb/usda#06180
+"Soup, chicken broth, less/reduced sodium",http://idea.rpi.edu/heals/kb/usda#06183
+"Soup, beef broth, less/reduced sodium",http://idea.rpi.edu/heals/kb/usda#06188
+"Soup, bean & ham, canned",http://idea.rpi.edu/heals/kb/usda#06190
+"Split pea soup, canned, reduced sodium",http://idea.rpi.edu/heals/kb/usda#06192
+"Split pea with ham soup, canned, reduced sodium",http://idea.rpi.edu/heals/kb/usda#06193
+"Soup, chicken broth, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06194
+"Soup, chicken vegetable with potato and cheese, chunky",http://idea.rpi.edu/heals/kb/usda#06208
+"Soup, vegetable, canned",http://idea.rpi.edu/heals/kb/usda#06217
+"Sauce, white, thin",http://idea.rpi.edu/heals/kb/usda#06264
+NFSMI Recipe No. G-08,http://idea.rpi.edu/heals/kb/usda#06264
+"Sauce, sweet and sour, prepared-from-recipe",http://idea.rpi.edu/heals/kb/usda#06285
+NFSMI Recipe No. G-05,http://idea.rpi.edu/heals/kb/usda#06285
+"Sauce, barbecue, KRAFT",http://idea.rpi.edu/heals/kb/usda#06307
+"Soup, HEALTHY CHOICE Chicken Noodle Soup, canned",http://idea.rpi.edu/heals/kb/usda#06314
+"Soup, HEALTHY CHOICE Chicken and Rice Soup, canned",http://idea.rpi.edu/heals/kb/usda#06315
+"Soup, HEALTHY CHOICE Garden Vegetable Soup, canned",http://idea.rpi.edu/heals/kb/usda#06316
+"CAMPBELL'S, Cream of Mushroom Soup, condensed",http://idea.rpi.edu/heals/kb/usda#06338
+"CAMPBELL'S, Tomato Soup, condensed",http://idea.rpi.edu/heals/kb/usda#06377
+"CAMPBELL'S CHUNKY, Classic Chicken Noodle Soup",http://idea.rpi.edu/heals/kb/usda#06395
+"CAMPBELL'S CHUNKY, Hearty Beef Barley Soup",http://idea.rpi.edu/heals/kb/usda#06415
+"CAMPBELL'S CHUNKY, New England Clam Chowder",http://idea.rpi.edu/heals/kb/usda#06431
+"Soup, beef broth, bouillon",http://idea.rpi.edu/heals/kb/usda#06432
+"CAMPBELL'S CHUNKY, Old Fashioned Vegetable Beef Soup",http://idea.rpi.edu/heals/kb/usda#06434
+"Soup, turkey noodle, canned",http://idea.rpi.edu/heals/kb/usda#06465
+"Soup, turkey vegetable, canned",http://idea.rpi.edu/heals/kb/usda#06466
+"Soup, cream of chicken, dry",http://idea.rpi.edu/heals/kb/usda#06483
+"Soup, tomato, dry",http://idea.rpi.edu/heals/kb/usda#06498
+"Soup, ramen noodle, any flavor",http://idea.rpi.edu/heals/kb/usda#06583
+"Soup, broccoli cheese, canned",http://idea.rpi.edu/heals/kb/usda#06584
+"Soup, SWANSON, beef broth",http://idea.rpi.edu/heals/kb/usda#06611
+"Soup, SWANSON, vegetable broth",http://idea.rpi.edu/heals/kb/usda#06615
+"Sauce, peanut, made from coconut",http://idea.rpi.edu/heals/kb/usda#06618
+"SMART SOUP, Santa Fe Corn Chowder",http://idea.rpi.edu/heals/kb/usda#06619
+"SMART SOUP, French Lentil",http://idea.rpi.edu/heals/kb/usda#06620
+"SMART SOUP, Greek Minestrone",http://idea.rpi.edu/heals/kb/usda#06621
+"SMART SOUP, Indian Bean Masala",http://idea.rpi.edu/heals/kb/usda#06622
+"SMART SOUP, Moroccan Chick Pea",http://idea.rpi.edu/heals/kb/usda#06623
+"SMART SOUP, Thai Coconut Curry",http://idea.rpi.edu/heals/kb/usda#06624
+"SMART SOUP, Vietnamese Carrot Lemongrass",http://idea.rpi.edu/heals/kb/usda#06625
+"Sauce, pesto, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06626
+"Sauce, pesto, BUITONI",http://idea.rpi.edu/heals/kb/usda#06628
+"Sauce, pesto, CLASSICO",http://idea.rpi.edu/heals/kb/usda#06629
+"Sauce, pesto, MEZZETTA",http://idea.rpi.edu/heals/kb/usda#06630
+"Sauce, hot chile, sriracha",http://idea.rpi.edu/heals/kb/usda#06631
+"Soup, vegetable broth, ready to serve",http://idea.rpi.edu/heals/kb/usda#06700
+"Sauce, cheese sauce mix, dry",http://idea.rpi.edu/heals/kb/usda#06720
+"Soup, chicken corn chowder, chunky",http://idea.rpi.edu/heals/kb/usda#06725
+"Soup, bean with bacon, condensed",http://idea.rpi.edu/heals/kb/usda#06731
+"Soup, vegetable beef, microwavable",http://idea.rpi.edu/heals/kb/usda#06742
+"Soup, beef and vegetables, canned",http://idea.rpi.edu/heals/kb/usda#06749
+"Sauce, cheese, ready-to-serve",http://idea.rpi.edu/heals/kb/usda#06930
+"Sauce, pasta, spaghetti/marinara",http://idea.rpi.edu/heals/kb/usda#06931
+"Gravy, brown instant, dry",http://idea.rpi.edu/heals/kb/usda#06957
+"Gravy, instant beef, dry",http://idea.rpi.edu/heals/kb/usda#06958
+"Gravy, instant turkey, dry",http://idea.rpi.edu/heals/kb/usda#06959
+"Sauce, alfredo mix, dry",http://idea.rpi.edu/heals/kb/usda#06960
+"Sauce, peppers, hot",http://idea.rpi.edu/heals/kb/usda#06961
+"Sauce, chili, peppers",http://idea.rpi.edu/heals/kb/usda#06962
+Fish broth,http://idea.rpi.edu/heals/kb/usda#06963
+"Soup, tomato, low sodium",http://idea.rpi.edu/heals/kb/usda#06964
+"Soup, pea, low sodium",http://idea.rpi.edu/heals/kb/usda#06965
+"Soup, chicken noodle, low sodium",http://idea.rpi.edu/heals/kb/usda#06966
+"Soup, vegetable soup, condensed",http://idea.rpi.edu/heals/kb/usda#06967
+"Soup, cream of mushroom, low sodium",http://idea.rpi.edu/heals/kb/usda#06968
+"Potato soup, instant, dry mix",http://idea.rpi.edu/heals/kb/usda#06969
+"Soup, chicken broth, low sodium",http://idea.rpi.edu/heals/kb/usda#06970
+"Sauce, worcestershire",http://idea.rpi.edu/heals/kb/usda#06971
+"Sauce, tomato chili sauce, bottled",http://idea.rpi.edu/heals/kb/usda#06972
+"Soup, vegetable chicken, canned",http://idea.rpi.edu/heals/kb/usda#06974
+"Gravy, meat or poultry, low sodium",http://idea.rpi.edu/heals/kb/usda#06977
+"Soup, beef and mushroom, low sodium",http://idea.rpi.edu/heals/kb/usda#06978
+"Soup, beef stroganoff, canned",http://idea.rpi.edu/heals/kb/usda#06980
+"Soup, bouillon cubes and granules, low sodium",http://idea.rpi.edu/heals/kb/usda#06981
+"Soup, ramen noodle, beef flavor",http://idea.rpi.edu/heals/kb/usda#06982
+"Soup, ramen noodle, chicken flavor",http://idea.rpi.edu/heals/kb/usda#06983
+"Gravy, HEINZ Home Style, savory beef",http://idea.rpi.edu/heals/kb/usda#06985
+"Gravy, CAMPBELL'S, chicken",http://idea.rpi.edu/heals/kb/usda#06999
+"Barbecue loaf, pork, beef",http://idea.rpi.edu/heals/kb/usda#07001
+"Beerwurst, beer salami, pork and beef",http://idea.rpi.edu/heals/kb/usda#07002
+"Beerwurst, beer salami, pork",http://idea.rpi.edu/heals/kb/usda#07003
+"Sausage, Berliner, pork",http://idea.rpi.edu/heals/kb/usda#07004
+Blood sausage,http://idea.rpi.edu/heals/kb/usda#07005
+"Bockwurst, pork, veal",http://idea.rpi.edu/heals/kb/usda#07006
+"Bologna, beef",http://idea.rpi.edu/heals/kb/usda#07007
+"Bologna, beef and pork",http://idea.rpi.edu/heals/kb/usda#07008
+"Bologna, pork",http://idea.rpi.edu/heals/kb/usda#07010
+"Bologna, turkey",http://idea.rpi.edu/heals/kb/usda#07011
+"Bratwurst, pork, cooked",http://idea.rpi.edu/heals/kb/usda#07013
+"Braunschweiger , pork",http://idea.rpi.edu/heals/kb/usda#07014
+"Bratwurst, pork, beef",http://idea.rpi.edu/heals/kb/usda#07015
+"Cheesefurter, cheese smokie, pork",http://idea.rpi.edu/heals/kb/usda#07016
+Chicken spread,http://idea.rpi.edu/heals/kb/usda#07018
+"Sausage, pork, chorizo",http://idea.rpi.edu/heals/kb/usda#07019
+"Corned beef loaf, jellied",http://idea.rpi.edu/heals/kb/usda#07020
+"Dutch brand loaf, chicken, pork and beef",http://idea.rpi.edu/heals/kb/usda#07021
+"Frankfurter, beef, unheated",http://idea.rpi.edu/heals/kb/usda#07022
+hot dog,http://idea.rpi.edu/heals/kb/usda#07022
+frank,http://idea.rpi.edu/heals/kb/usda#07022
+wiener,http://idea.rpi.edu/heals/kb/usda#07022
+"Frankfurter, chicken",http://idea.rpi.edu/heals/kb/usda#07024
+hot dog,http://idea.rpi.edu/heals/kb/usda#07024
+wiener,http://idea.rpi.edu/heals/kb/usda#07024
+frank,http://idea.rpi.edu/heals/kb/usda#07024
+"Frankfurter, turkey",http://idea.rpi.edu/heals/kb/usda#07025
+hot dog,http://idea.rpi.edu/heals/kb/usda#07025
+wiener,http://idea.rpi.edu/heals/kb/usda#07025
+frank,http://idea.rpi.edu/heals/kb/usda#07025
+"Ham, chopped, canned",http://idea.rpi.edu/heals/kb/usda#07026
+"Ham, chopped, not canned",http://idea.rpi.edu/heals/kb/usda#07027
+"Ham, sliced, pre-packaged",http://idea.rpi.edu/heals/kb/usda#07028
+"Ham, sliced, regular ",http://idea.rpi.edu/heals/kb/usda#07029
+"Ham, minced",http://idea.rpi.edu/heals/kb/usda#07030
+Ham salad spread,http://idea.rpi.edu/heals/kb/usda#07031
+Ham and cheese loaf or roll,http://idea.rpi.edu/heals/kb/usda#07032
+Ham and cheese spread,http://idea.rpi.edu/heals/kb/usda#07033
+"Headcheese, pork",http://idea.rpi.edu/heals/kb/usda#07034
+"Sausage, Italian, pork",http://idea.rpi.edu/heals/kb/usda#07036
+"Knackwurst, knockwurst, pork",http://idea.rpi.edu/heals/kb/usda#07038
+"Lebanon bologna, beef",http://idea.rpi.edu/heals/kb/usda#07039
+"Liver cheese, pork",http://idea.rpi.edu/heals/kb/usda#07040
+"Liver sausage, liverwurst, pork",http://idea.rpi.edu/heals/kb/usda#07041
+"Roast beef, deli style, prepackaged",http://idea.rpi.edu/heals/kb/usda#07043
+"Luncheon meat, pork, canned",http://idea.rpi.edu/heals/kb/usda#07045
+"Turkey breast, low salt, prepackaged or deli",http://idea.rpi.edu/heals/kb/usda#07046
+"Mortadella, beef, pork",http://idea.rpi.edu/heals/kb/usda#07050
+"Olive loaf, pork",http://idea.rpi.edu/heals/kb/usda#07051
+"Pastrami, turkey",http://idea.rpi.edu/heals/kb/usda#07052
+"Pate, chicken liver, canned",http://idea.rpi.edu/heals/kb/usda#07053
+"Pate, goose liver, smoked",http://idea.rpi.edu/heals/kb/usda#07054
+"Pate, liver, not specified",http://idea.rpi.edu/heals/kb/usda#07055
+"Peppered loaf, pork, beef",http://idea.rpi.edu/heals/kb/usda#07056
+"Pepperoni, beef and pork, sliced",http://idea.rpi.edu/heals/kb/usda#07057
+"Pickle and pimiento loaf, pork",http://idea.rpi.edu/heals/kb/usda#07058
+"Polish sausage, pork",http://idea.rpi.edu/heals/kb/usda#07059
+"Luxury loaf, pork",http://idea.rpi.edu/heals/kb/usda#07060
+"Mother's loaf, pork",http://idea.rpi.edu/heals/kb/usda#07061
+"Picnic loaf, pork, beef",http://idea.rpi.edu/heals/kb/usda#07062
+"Pork sausage, link/patty, unprepared",http://idea.rpi.edu/heals/kb/usda#07063
+"Pork sausage, link/patty, cooked",http://idea.rpi.edu/heals/kb/usda#07064
+"Sausage, pork and beef, fresh",http://idea.rpi.edu/heals/kb/usda#07065
+"Sausage, turkey, reduced fat",http://idea.rpi.edu/heals/kb/usda#07066
+Poultry salad sandwich spread,http://idea.rpi.edu/heals/kb/usda#07067
+"Salami, cooked, beef",http://idea.rpi.edu/heals/kb/usda#07068
+"Salami, cooked, beef and pork",http://idea.rpi.edu/heals/kb/usda#07069
+"Salami, cooked, turkey",http://idea.rpi.edu/heals/kb/usda#07070
+"Salami, dry or hard, pork",http://idea.rpi.edu/heals/kb/usda#07071
+"Sandwich spread, pork, beef",http://idea.rpi.edu/heals/kb/usda#07073
+"Sausage, smoked link sausage, pork",http://idea.rpi.edu/heals/kb/usda#07074
+"Sausage, smoked link sausage, pork and beef",http://idea.rpi.edu/heals/kb/usda#07075
+"Sausage, smoked link sausage, pork and beef ",http://idea.rpi.edu/heals/kb/usda#07077
+"Thuringer, cervelat, summer sausage",http://idea.rpi.edu/heals/kb/usda#07078
+"Turkey breast, sliced, prepackaged",http://idea.rpi.edu/heals/kb/usda#07081
+"Sausage, Vienna, canned",http://idea.rpi.edu/heals/kb/usda#07083
+"Honey roll sausage, beef",http://idea.rpi.edu/heals/kb/usda#07088
+"Luncheon sausage, pork and beef",http://idea.rpi.edu/heals/kb/usda#07090
+"Sausage, New england brand, pork",http://idea.rpi.edu/heals/kb/usda#07091
+"Oscar Mayer, Bologna ",http://idea.rpi.edu/heals/kb/usda#07201
+"Oscar Mayer, Braunschweiger Liver Sausage ",http://idea.rpi.edu/heals/kb/usda#07207
+"Oscar Mayer, Chicken Breast ",http://idea.rpi.edu/heals/kb/usda#07209
+"Oscar Mayer, Ham ",http://idea.rpi.edu/heals/kb/usda#07212
+"Oscar Mayer, Salami ",http://idea.rpi.edu/heals/kb/usda#07230
+"Oscar Mayer, Smokies Sausage Little Cheese ",http://idea.rpi.edu/heals/kb/usda#07236
+"Oscar Mayer, Wieners ",http://idea.rpi.edu/heals/kb/usda#07241
+hot dog,http://idea.rpi.edu/heals/kb/usda#07241
+frankfurter,http://idea.rpi.edu/heals/kb/usda#07241
+hotdog,http://idea.rpi.edu/heals/kb/usda#07241
+wiener,http://idea.rpi.edu/heals/kb/usda#07241
+"Bacon, turkey, unprepared",http://idea.rpi.edu/heals/kb/usda#07254
+Hormel Pillow Pak Sliced Turkey Pepperoni,http://idea.rpi.edu/heals/kb/usda#07278
+"Sausage, turkey, pork",http://idea.rpi.edu/heals/kb/usda#07900
+"Frankfurter, beef, pork",http://idea.rpi.edu/heals/kb/usda#07905
+hot dog,http://idea.rpi.edu/heals/kb/usda#07905
+wiener,http://idea.rpi.edu/heals/kb/usda#07905
+frank,http://idea.rpi.edu/heals/kb/usda#07905
+"Luncheon meat, pork, ham",http://idea.rpi.edu/heals/kb/usda#07906
+"Luncheon meat, pork with ham, minced",http://idea.rpi.edu/heals/kb/usda#07908
+"Luncheon meat, pork and chicken, minced",http://idea.rpi.edu/heals/kb/usda#07909
+"Bratwurst, veal, cooked",http://idea.rpi.edu/heals/kb/usda#07910
+Liverwurst spread,http://idea.rpi.edu/heals/kb/usda#07911
+Roast beef spread,http://idea.rpi.edu/heals/kb/usda#07912
+"Salami, pork, beef",http://idea.rpi.edu/heals/kb/usda#07913
+"Sausage, Italian, sweet",http://idea.rpi.edu/heals/kb/usda#07914
+"Sausage, Polish, beef with chicken",http://idea.rpi.edu/heals/kb/usda#07915
+"Sausage, Polish, pork and beef",http://idea.rpi.edu/heals/kb/usda#07916
+"Sausage, pork and beef, with cheddar cheese",http://idea.rpi.edu/heals/kb/usda#07917
+"Sausage, summer, pork and beef",http://idea.rpi.edu/heals/kb/usda#07918
+"Sausage, turkey, breakfast links",http://idea.rpi.edu/heals/kb/usda#07919
+"Swisswurst, pork and beef, with swiss cheese",http://idea.rpi.edu/heals/kb/usda#07920
+Bacon and beef sticks,http://idea.rpi.edu/heals/kb/usda#07921
+"Bratwurst, beef and pork, smoked",http://idea.rpi.edu/heals/kb/usda#07922
+"Bratwurst, chicken, cooked",http://idea.rpi.edu/heals/kb/usda#07923
+"Bratwurst, pork, beef and turkey",http://idea.rpi.edu/heals/kb/usda#07924
+"Pastrami, beef, 98% fat-free",http://idea.rpi.edu/heals/kb/usda#07925
+"Salami, Italian, pork",http://idea.rpi.edu/heals/kb/usda#07926
+"Sausage, Italian, turkey",http://idea.rpi.edu/heals/kb/usda#07927
+"Sausage, chicken, beef",http://idea.rpi.edu/heals/kb/usda#07928
+"Sausage, turkey, hot",http://idea.rpi.edu/heals/kb/usda#07929
+"Yachtwurst, with pistachio nuts, cooked",http://idea.rpi.edu/heals/kb/usda#07930
+"Beerwurst, pork and beef",http://idea.rpi.edu/heals/kb/usda#07931
+"Chicken breast, fat-free, mesquite flavor",http://idea.rpi.edu/heals/kb/usda#07932
+"Chicken breast, oven-roasted, fat-free",http://idea.rpi.edu/heals/kb/usda#07933
+"Kielbasa, Polish, turkey and beef",http://idea.rpi.edu/heals/kb/usda#07934
+"Chicken breast, roll, oven-roasted",http://idea.rpi.edu/heals/kb/usda#07935
+"Bologna, pork and turkey, lite",http://idea.rpi.edu/heals/kb/usda#07936
+"Bologna, pork, turkey and beef",http://idea.rpi.edu/heals/kb/usda#07937
+"Ham, honey, smoked",http://idea.rpi.edu/heals/kb/usda#07938
+"Frankfurter, pork",http://idea.rpi.edu/heals/kb/usda#07939
+hot dog,http://idea.rpi.edu/heals/kb/usda#07939
+wiener,http://idea.rpi.edu/heals/kb/usda#07939
+frank,http://idea.rpi.edu/heals/kb/usda#07939
+"Macaroni and cheese loaf, chicken, pork and beef",http://idea.rpi.edu/heals/kb/usda#07940
+"Salami, Italian, pork and beef",http://idea.rpi.edu/heals/kb/usda#07941
+"Pate, truffle flavor",http://idea.rpi.edu/heals/kb/usda#07942
+"Turkey, breast, smoked",http://idea.rpi.edu/heals/kb/usda#07943
+"Turkey, white, rotisserie",http://idea.rpi.edu/heals/kb/usda#07944
+"Frankfurter, beef, heated",http://idea.rpi.edu/heals/kb/usda#07945
+hot dog,http://idea.rpi.edu/heals/kb/usda#07945
+frank,http://idea.rpi.edu/heals/kb/usda#07945
+wiener,http://idea.rpi.edu/heals/kb/usda#07945
+"Frankfurter, meat, heated",http://idea.rpi.edu/heals/kb/usda#07949
+"Frankfurter, meat",http://idea.rpi.edu/heals/kb/usda#07950
+"Scrapple, pork",http://idea.rpi.edu/heals/kb/usda#07951
+"Bologna, chicken, turkey",http://idea.rpi.edu/heals/kb/usda#07952
+"Pork sausage, link/patty, fully cooked",http://idea.rpi.edu/heals/kb/usda#07953
+"Sausage, breakfast sausage, beef",http://idea.rpi.edu/heals/kb/usda#07954
+"Sausage, turkey, fresh",http://idea.rpi.edu/heals/kb/usda#07955
+"Sausage, beef, fresh",http://idea.rpi.edu/heals/kb/usda#07956
+"Sausage, pork and turkey, pre-cooked",http://idea.rpi.edu/heals/kb/usda#07957
+"Bologna, chicken, pork",http://idea.rpi.edu/heals/kb/usda#07959
+"Chicken breast, deli, rotisserie seasoned",http://idea.rpi.edu/heals/kb/usda#07961
+"Frankfurter, meat and poultry, unheated",http://idea.rpi.edu/heals/kb/usda#07962
+"Frankfurter, meat and poultry, cooked",http://idea.rpi.edu/heals/kb/usda#07963
+"Pork sausage, link/patty, reduced fat",http://idea.rpi.edu/heals/kb/usda#07965
+"Kielbasa, fully cooked, grilled",http://idea.rpi.edu/heals/kb/usda#07968
+"Kielbasa, fully cooked, pan-fried",http://idea.rpi.edu/heals/kb/usda#07969
+"Kielbasa, fully cooked, unheated",http://idea.rpi.edu/heals/kb/usda#07970
+"Bologna, meat and poultry",http://idea.rpi.edu/heals/kb/usda#07971
+"Meatballs, frozen, Italian style",http://idea.rpi.edu/heals/kb/usda#07972
+"Bacon, turkey, microwaved",http://idea.rpi.edu/heals/kb/usda#07973
+"Bacon, turkey, low sodium",http://idea.rpi.edu/heals/kb/usda#07974
+"Sausage, chicken or turkey, Italian style",http://idea.rpi.edu/heals/kb/usda#07976
+"Ham, smoked, extra lean",http://idea.rpi.edu/heals/kb/usda#07977
+"Pork sausage, reduced sodium, cooked",http://idea.rpi.edu/heals/kb/usda#07978
+"Sausage, pork, turkey",http://idea.rpi.edu/heals/kb/usda#07979
+"Acerola, , raw",http://idea.rpi.edu/heals/kb/usda#09001
+"Acerola juice, raw",http://idea.rpi.edu/heals/kb/usda#09002
+"Apples, raw, with skin ",http://idea.rpi.edu/heals/kb/usda#09003
+"Apples, raw, without skin",http://idea.rpi.edu/heals/kb/usda#09004
+"Apples, canned, sweetened",http://idea.rpi.edu/heals/kb/usda#09008
+"Apples, dehydrated , sulfured",http://idea.rpi.edu/heals/kb/usda#09009
+"Apples, dried, sulfured",http://idea.rpi.edu/heals/kb/usda#09011
+"Apples, frozen, unsweetened",http://idea.rpi.edu/heals/kb/usda#09014
+"Apple juice, canned or bottled, unsweetened",http://idea.rpi.edu/heals/kb/usda#09016
+"Apple juice, frozen concentrate, unsweetened",http://idea.rpi.edu/heals/kb/usda#09017
+"Applesauce, canned, unsweetened",http://idea.rpi.edu/heals/kb/usda#09019
+"Applesauce, canned, sweetened",http://idea.rpi.edu/heals/kb/usda#09020
+"Apricots, raw",http://idea.rpi.edu/heals/kb/usda#09021
+"Apricots, canned, water pack",http://idea.rpi.edu/heals/kb/usda#09022
+"Apricots, canned, juice pack",http://idea.rpi.edu/heals/kb/usda#09024
+"Apricots, canned, extra light syrup pack",http://idea.rpi.edu/heals/kb/usda#09025
+"Apricots, canned, light syrup pack",http://idea.rpi.edu/heals/kb/usda#09026
+"Apricots, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09027
+"Apricots, canned, extra heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09029
+"Apricots, dehydrated , sulfured",http://idea.rpi.edu/heals/kb/usda#09030
+"Apricots, dried, sulfured",http://idea.rpi.edu/heals/kb/usda#09032
+"Apricots, frozen, sweetened",http://idea.rpi.edu/heals/kb/usda#09035
+"Apricot nectar, canned, with added ascorbic acid",http://idea.rpi.edu/heals/kb/usda#09036
+"Avocados, raw, all commercial varieties",http://idea.rpi.edu/heals/kb/usda#09037
+"Avocados, raw, California",http://idea.rpi.edu/heals/kb/usda#09038
+"Avocados, raw, Florida",http://idea.rpi.edu/heals/kb/usda#09039
+"Bananas, raw",http://idea.rpi.edu/heals/kb/usda#09040
+"Bananas, dehydrated, or banana powder",http://idea.rpi.edu/heals/kb/usda#09041
+"Blackberries, raw",http://idea.rpi.edu/heals/kb/usda#09042
+"Blackberry juice, canned",http://idea.rpi.edu/heals/kb/usda#09043
+"Cherries, tart, dried",http://idea.rpi.edu/heals/kb/usda#09044
+"Blackberries, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09046
+"Blackberries, frozen, unsweetened",http://idea.rpi.edu/heals/kb/usda#09048
+"Blueberries, raw",http://idea.rpi.edu/heals/kb/usda#09050
+"Blueberries, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09052
+"Blueberries, wild, frozen ",http://idea.rpi.edu/heals/kb/usda#09053
+"Blueberries, frozen, unsweetened ",http://idea.rpi.edu/heals/kb/usda#09054
+"Blueberries, frozen, sweetened",http://idea.rpi.edu/heals/kb/usda#09055
+"Boysenberries, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09056
+"Boysenberries, frozen, unsweetened",http://idea.rpi.edu/heals/kb/usda#09057
+"Breadfruit, raw",http://idea.rpi.edu/heals/kb/usda#09059
+"Carambola, raw",http://idea.rpi.edu/heals/kb/usda#09060
+"Carissa, , raw",http://idea.rpi.edu/heals/kb/usda#09061
+"Cherimoya, raw",http://idea.rpi.edu/heals/kb/usda#09062
+"Cherries, sour, red",http://idea.rpi.edu/heals/kb/usda#09063
+"Cherries, sweet, raw",http://idea.rpi.edu/heals/kb/usda#09070
+"Cherries, sweet, canned",http://idea.rpi.edu/heals/kb/usda#09071
+"Crabapples, raw",http://idea.rpi.edu/heals/kb/usda#09077
+"Cranberries, raw",http://idea.rpi.edu/heals/kb/usda#09078
+"Cranberries, dried, sweetened ",http://idea.rpi.edu/heals/kb/usda#09079
+"Cranberry sauce, canned, sweetened",http://idea.rpi.edu/heals/kb/usda#09081
+"Cranberry-orange relish, canned",http://idea.rpi.edu/heals/kb/usda#09082
+"Currants, european black, raw",http://idea.rpi.edu/heals/kb/usda#09083
+"Currants, red and white, raw",http://idea.rpi.edu/heals/kb/usda#09084
+"Currants, zante, dried",http://idea.rpi.edu/heals/kb/usda#09085
+raisin,http://idea.rpi.edu/heals/kb/usda#09085
+"Custard-apple, , raw",http://idea.rpi.edu/heals/kb/usda#09086
+"Dates, deglet noor",http://idea.rpi.edu/heals/kb/usda#09087
+"Elderberries, raw",http://idea.rpi.edu/heals/kb/usda#09088
+"Figs, raw",http://idea.rpi.edu/heals/kb/usda#09089
+"Figs, canned, water pack",http://idea.rpi.edu/heals/kb/usda#09090
+"Figs, canned, light syrup pack",http://idea.rpi.edu/heals/kb/usda#09091
+"Figs, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09092
+"Figs, canned, extra heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09093
+"Figs, dried, uncooked",http://idea.rpi.edu/heals/kb/usda#09094
+"Figs, dried, stewed",http://idea.rpi.edu/heals/kb/usda#09095
+"Fruit cocktail, , canned",http://idea.rpi.edu/heals/kb/usda#09096
+"Fruit salad, , canned",http://idea.rpi.edu/heals/kb/usda#09102
+"Gooseberries, raw",http://idea.rpi.edu/heals/kb/usda#09107
+"Gooseberries, canned, light syrup pack",http://idea.rpi.edu/heals/kb/usda#09109
+"Goji berries, dried",http://idea.rpi.edu/heals/kb/usda#09110
+wolfberries,http://idea.rpi.edu/heals/kb/usda#09110
+"Grapefruit, raw, pink and red and white",http://idea.rpi.edu/heals/kb/usda#09111
+"Grapefruit, raw, pink and red",http://idea.rpi.edu/heals/kb/usda#09112
+"Grapefruit, raw, white",http://idea.rpi.edu/heals/kb/usda#09116
+"Grapefruit, sections, canned",http://idea.rpi.edu/heals/kb/usda#09119
+"Grapefruit juice, white, canned or bottled",http://idea.rpi.edu/heals/kb/usda#09123
+"Grapefruit juice, white, canned",http://idea.rpi.edu/heals/kb/usda#09124
+"Grapefruit juice, white, frozen concentrate",http://idea.rpi.edu/heals/kb/usda#09125
+"Grapefruit juice, pink or red, with added calcium",http://idea.rpi.edu/heals/kb/usda#09127
+"Grapefruit juice, white, raw",http://idea.rpi.edu/heals/kb/usda#09128
+"Grapes, muscadine, raw",http://idea.rpi.edu/heals/kb/usda#09129
+"Grape juice, canned or bottled, unsweetened",http://idea.rpi.edu/heals/kb/usda#09130
+"Grapes, american type , raw",http://idea.rpi.edu/heals/kb/usda#09131
+"Grapes, red or green ",http://idea.rpi.edu/heals/kb/usda#09132
+"Grapes, canned, thompson seedless",http://idea.rpi.edu/heals/kb/usda#09133
+"Groundcherries, , raw",http://idea.rpi.edu/heals/kb/usda#09138
+"Guavas, common, raw",http://idea.rpi.edu/heals/kb/usda#09139
+"Guavas, strawberry, raw",http://idea.rpi.edu/heals/kb/usda#09140
+"Guava sauce, cooked",http://idea.rpi.edu/heals/kb/usda#09143
+"Jackfruit, raw",http://idea.rpi.edu/heals/kb/usda#09144
+"Java-plum, , raw",http://idea.rpi.edu/heals/kb/usda#09145
+"Jujube, raw",http://idea.rpi.edu/heals/kb/usda#09146
+"Jujube, Chinese, fresh",http://idea.rpi.edu/heals/kb/usda#09147
+"Kiwifruit, green, raw",http://idea.rpi.edu/heals/kb/usda#09148
+Chinese gooseberry,http://idea.rpi.edu/heals/kb/usda#09148
+"Kumquats, raw",http://idea.rpi.edu/heals/kb/usda#09149
+"Lemons, raw, without peel",http://idea.rpi.edu/heals/kb/usda#09150
+"Lemon juice, raw",http://idea.rpi.edu/heals/kb/usda#09152
+"Lemon juice from concentrate, canned or bottled",http://idea.rpi.edu/heals/kb/usda#09153
+"Lemon peel, raw",http://idea.rpi.edu/heals/kb/usda#09156
+"Limes, raw",http://idea.rpi.edu/heals/kb/usda#09159
+"Lime juice, raw",http://idea.rpi.edu/heals/kb/usda#09160
+"Lime juice, canned or bottled, unsweetened",http://idea.rpi.edu/heals/kb/usda#09161
+"Blueberries, dried, sweetened",http://idea.rpi.edu/heals/kb/usda#09163
+"Litchis, raw",http://idea.rpi.edu/heals/kb/usda#09164
+lychee,http://idea.rpi.edu/heals/kb/usda#09164
+"Litchis, dried",http://idea.rpi.edu/heals/kb/usda#09165
+lychee,http://idea.rpi.edu/heals/kb/usda#09165
+"Loganberries, frozen",http://idea.rpi.edu/heals/kb/usda#09167
+"Longans, raw",http://idea.rpi.edu/heals/kb/usda#09172
+"Longans, dried",http://idea.rpi.edu/heals/kb/usda#09173
+"Loquats, raw",http://idea.rpi.edu/heals/kb/usda#09174
+"Mammy-apple, , raw",http://idea.rpi.edu/heals/kb/usda#09175
+"Mangos, raw",http://idea.rpi.edu/heals/kb/usda#09176
+"Mangosteen, canned, syrup pack",http://idea.rpi.edu/heals/kb/usda#09177
+"Mango, dried, sweetened",http://idea.rpi.edu/heals/kb/usda#09178
+"Melons, cantaloupe, raw",http://idea.rpi.edu/heals/kb/usda#09181
+"Melons, casaba, raw",http://idea.rpi.edu/heals/kb/usda#09183
+"Melons, honeydew, raw",http://idea.rpi.edu/heals/kb/usda#09184
+"Melon balls, frozen",http://idea.rpi.edu/heals/kb/usda#09185
+"Mulberries, raw",http://idea.rpi.edu/heals/kb/usda#09190
+"Nectarines, raw",http://idea.rpi.edu/heals/kb/usda#09191
+"Oheloberries, raw",http://idea.rpi.edu/heals/kb/usda#09192
+"Olives, ripe, canned ",http://idea.rpi.edu/heals/kb/usda#09193
+"Olives, pickled, canned or bottled",http://idea.rpi.edu/heals/kb/usda#09195
+"Oranges, raw, all commercial varieties",http://idea.rpi.edu/heals/kb/usda#09200
+"Oranges, raw, California",http://idea.rpi.edu/heals/kb/usda#09201
+"Oranges, raw, navels ",http://idea.rpi.edu/heals/kb/usda#09202
+"Oranges, raw, Florida",http://idea.rpi.edu/heals/kb/usda#09203
+"Oranges, raw, with peel",http://idea.rpi.edu/heals/kb/usda#09205
+"Orange juice, raw ",http://idea.rpi.edu/heals/kb/usda#09206
+"Orange juice, canned, unsweetened",http://idea.rpi.edu/heals/kb/usda#09207
+"Orange juice, chilled, includes from concentrate",http://idea.rpi.edu/heals/kb/usda#09209
+"Orange juice, frozen concentrate, unsweetened",http://idea.rpi.edu/heals/kb/usda#09212
+"Orange peel, raw",http://idea.rpi.edu/heals/kb/usda#09216
+"Orange-grapefruit juice, canned or bottled, unsweetened",http://idea.rpi.edu/heals/kb/usda#09217
+"Tangerines, raw",http://idea.rpi.edu/heals/kb/usda#09218
+"Tangerines, canned",http://idea.rpi.edu/heals/kb/usda#09219
+"Tangerine juice, raw",http://idea.rpi.edu/heals/kb/usda#09221
+"Papayas, raw",http://idea.rpi.edu/heals/kb/usda#09226
+"Papaya, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09228
+"Papaya nectar, canned",http://idea.rpi.edu/heals/kb/usda#09229
+"Passion-fruit, , purple",http://idea.rpi.edu/heals/kb/usda#09231
+"Passion-fruit juice, purple, raw",http://idea.rpi.edu/heals/kb/usda#09232
+"Passion-fruit juice, yellow, raw",http://idea.rpi.edu/heals/kb/usda#09233
+"Peaches, yellow, raw",http://idea.rpi.edu/heals/kb/usda#09236
+"Peaches, canned, water pack",http://idea.rpi.edu/heals/kb/usda#09237
+"Peaches, canned, juice pack",http://idea.rpi.edu/heals/kb/usda#09238
+"Peaches, canned, extra light syrup",http://idea.rpi.edu/heals/kb/usda#09239
+"Peaches, canned, light syrup pack",http://idea.rpi.edu/heals/kb/usda#09240
+"Peaches, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09241
+"Peaches, canned, extra heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09242
+"Peaches, spiced, canned",http://idea.rpi.edu/heals/kb/usda#09243
+"Peaches, dehydrated , sulfured",http://idea.rpi.edu/heals/kb/usda#09244
+"Peaches, dried, sulfured",http://idea.rpi.edu/heals/kb/usda#09246
+"Peaches, frozen, sliced",http://idea.rpi.edu/heals/kb/usda#09250
+"Peach nectar, canned, with sucralose",http://idea.rpi.edu/heals/kb/usda#09251
+"Pears, raw",http://idea.rpi.edu/heals/kb/usda#09252
+"Pears, canned, water pack",http://idea.rpi.edu/heals/kb/usda#09253
+"Pears, canned, juice pack",http://idea.rpi.edu/heals/kb/usda#09254
+"Pears, canned, extra light syrup pack",http://idea.rpi.edu/heals/kb/usda#09255
+"Pears, canned, light syrup pack",http://idea.rpi.edu/heals/kb/usda#09256
+"Pears, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09257
+"Pears, canned, extra heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09258
+"Pears, dried, sulfured",http://idea.rpi.edu/heals/kb/usda#09259
+"Pear nectar, canned, without added ascorbic acid",http://idea.rpi.edu/heals/kb/usda#09262
+"Persimmons, japanese, raw",http://idea.rpi.edu/heals/kb/usda#09263
+"Persimmons, japanese, dried",http://idea.rpi.edu/heals/kb/usda#09264
+"Persimmons, native, raw",http://idea.rpi.edu/heals/kb/usda#09265
+"Pineapple, raw, all varieties",http://idea.rpi.edu/heals/kb/usda#09266
+"Pineapple, canned, water pack",http://idea.rpi.edu/heals/kb/usda#09267
+"Pineapple, canned, juice pack",http://idea.rpi.edu/heals/kb/usda#09268
+"Pineapple, canned, light syrup pack",http://idea.rpi.edu/heals/kb/usda#09269
+"Pineapple, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09270
+"Pineapple, canned, extra heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09271
+"Pineapple, frozen, chunks",http://idea.rpi.edu/heals/kb/usda#09272
+"Pineapple juice, canned or bottled, unsweetened",http://idea.rpi.edu/heals/kb/usda#09273
+"Pineapple juice, frozen concentrate, unsweetened",http://idea.rpi.edu/heals/kb/usda#09274
+"Pitanga, , raw",http://idea.rpi.edu/heals/kb/usda#09276
+"Plantains, yellow, raw",http://idea.rpi.edu/heals/kb/usda#09277
+"Plantains, yellow, baked",http://idea.rpi.edu/heals/kb/usda#09278
+"Plums, raw",http://idea.rpi.edu/heals/kb/usda#09279
+"Plums, canned, purple",http://idea.rpi.edu/heals/kb/usda#09281
+"Pomegranates, raw",http://idea.rpi.edu/heals/kb/usda#09286
+"Prickly pears, raw",http://idea.rpi.edu/heals/kb/usda#09287
+"Prunes, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09288
+"Prunes, dehydrated , uncooked",http://idea.rpi.edu/heals/kb/usda#09289
+"Prunes, dehydrated , stewed",http://idea.rpi.edu/heals/kb/usda#09290
+"Plums, dried, uncooked",http://idea.rpi.edu/heals/kb/usda#09291
+"Plums, dried, stewed",http://idea.rpi.edu/heals/kb/usda#09292
+"Prune juice, canned",http://idea.rpi.edu/heals/kb/usda#09294
+"Pummelo, raw",http://idea.rpi.edu/heals/kb/usda#09295
+"Quinces, raw",http://idea.rpi.edu/heals/kb/usda#09296
+"Raisins, golden, seedless",http://idea.rpi.edu/heals/kb/usda#09297
+"Raisins, dark, seedless ",http://idea.rpi.edu/heals/kb/usda#09298
+"Raisins, seeded",http://idea.rpi.edu/heals/kb/usda#09299
+"Rambutan, canned, syrup pack",http://idea.rpi.edu/heals/kb/usda#09301
+"Raspberries, raw",http://idea.rpi.edu/heals/kb/usda#09302
+"Raspberries, canned, red",http://idea.rpi.edu/heals/kb/usda#09304
+"Raspberries, frozen, red",http://idea.rpi.edu/heals/kb/usda#09306
+"Rhubarb, raw",http://idea.rpi.edu/heals/kb/usda#09307
+"Rhubarb, frozen, uncooked",http://idea.rpi.edu/heals/kb/usda#09309
+"Rhubarb, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#09310
+"Roselle, raw",http://idea.rpi.edu/heals/kb/usda#09311
+"Rose-apples, raw",http://idea.rpi.edu/heals/kb/usda#09312
+"Sapodilla, raw",http://idea.rpi.edu/heals/kb/usda#09313
+"Sapote, mamey, raw",http://idea.rpi.edu/heals/kb/usda#09314
+mamey colorado,http://idea.rpi.edu/heals/kb/usda#09314
+marmalade plum,http://idea.rpi.edu/heals/kb/usda#09314
+"Soursop, raw",http://idea.rpi.edu/heals/kb/usda#09315
+"Strawberries, raw",http://idea.rpi.edu/heals/kb/usda#09316
+"Strawberries, canned, heavy syrup pack",http://idea.rpi.edu/heals/kb/usda#09317
+"Strawberries, frozen, unsweetened ",http://idea.rpi.edu/heals/kb/usda#09318
+"Strawberries, frozen, sweetened",http://idea.rpi.edu/heals/kb/usda#09320
+"Sugar-apples, , raw",http://idea.rpi.edu/heals/kb/usda#09321
+"Tamarinds, raw",http://idea.rpi.edu/heals/kb/usda#09322
+"Fruit salad, , tropical",http://idea.rpi.edu/heals/kb/usda#09325
+"Watermelon, raw",http://idea.rpi.edu/heals/kb/usda#09326
+"Maraschino cherries, canned, drained",http://idea.rpi.edu/heals/kb/usda#09328
+"Feijoa, raw",http://idea.rpi.edu/heals/kb/usda#09334
+"Pears, asian, raw",http://idea.rpi.edu/heals/kb/usda#09340
+"Fruit cocktail, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09351
+"Blueberries, canned, light syrup",http://idea.rpi.edu/heals/kb/usda#09352
+"Blueberries, wild, canned",http://idea.rpi.edu/heals/kb/usda#09353
+"Apricots, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09357
+"Cherries, sour, canned",http://idea.rpi.edu/heals/kb/usda#09362
+"Peaches, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09370
+"Pears, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09374
+"Plums, canned, heavy syrup",http://idea.rpi.edu/heals/kb/usda#09379
+"Grapefruit juice, pink, raw",http://idea.rpi.edu/heals/kb/usda#09404
+"Peach nectar, canned, with added ascorbic acid",http://idea.rpi.edu/heals/kb/usda#09407
+"Pear nectar, canned, with added ascorbic acid",http://idea.rpi.edu/heals/kb/usda#09408
+vitamin C,http://idea.rpi.edu/heals/kb/usda#09408
+"Pears, raw, bartlett ",http://idea.rpi.edu/heals/kb/usda#09412
+"Pears, raw, red anjou",http://idea.rpi.edu/heals/kb/usda#09413
+"Pears, raw, bosc ",http://idea.rpi.edu/heals/kb/usda#09414
+"Pears, raw, green anjou ",http://idea.rpi.edu/heals/kb/usda#09415
+"Grapefruit juice, white, bottled",http://idea.rpi.edu/heals/kb/usda#09416
+"Jackfruit, canned, syrup pack",http://idea.rpi.edu/heals/kb/usda#09420
+"Dates, medjool",http://idea.rpi.edu/heals/kb/usda#09421
+"Durian, raw or frozen",http://idea.rpi.edu/heals/kb/usda#09422
+Prune puree,http://idea.rpi.edu/heals/kb/usda#09423
+Candied fruit,http://idea.rpi.edu/heals/kb/usda#09426
+"Abiyuch, raw",http://idea.rpi.edu/heals/kb/usda#09427
+garlic pear,http://idea.rpi.edu/heals/kb/usda#09427
+"Rowal, raw",http://idea.rpi.edu/heals/kb/usda#09428
+"Pineapple, raw, traditional varieties",http://idea.rpi.edu/heals/kb/usda#09429
+"Pineapple, raw, extra sweet variety",http://idea.rpi.edu/heals/kb/usda#09430
+"Clementines, raw",http://idea.rpi.edu/heals/kb/usda#09433
+"Guanabana nectar, canned",http://idea.rpi.edu/heals/kb/usda#09434
+"Guava nectar, canned, with added ascorbic acid",http://idea.rpi.edu/heals/kb/usda#09435
+"Mango nectar, canned",http://idea.rpi.edu/heals/kb/usda#09436
+"Tamarind nectar, canned",http://idea.rpi.edu/heals/kb/usda#09437
+"Pomegranate juice, bottled",http://idea.rpi.edu/heals/kb/usda#09442
+"Juice, apple and grape blend, with added ascorbic acid",http://idea.rpi.edu/heals/kb/usda#09443
+"Juice, apple, grape and pear blend",http://idea.rpi.edu/heals/kb/usda#09444
+"Plantains, green, fried",http://idea.rpi.edu/heals/kb/usda#09446
+tostones de platano,http://idea.rpi.edu/heals/kb/usda#09446
+"Plantains, yellow, fried",http://idea.rpi.edu/heals/kb/usda#09447
+platanos maduros,http://idea.rpi.edu/heals/kb/usda#09447
+"Nance, canned, syrup",http://idea.rpi.edu/heals/kb/usda#09448
+yellow cherries,http://idea.rpi.edu/heals/kb/usda#09448
+"Nance, frozen, unsweetened",http://idea.rpi.edu/heals/kb/usda#09449
+yellow cherries,http://idea.rpi.edu/heals/kb/usda#09449
+"Naranjilla  pulp, frozen, unsweetened",http://idea.rpi.edu/heals/kb/usda#09450
+Horned melon ,http://idea.rpi.edu/heals/kb/usda#09451
+African horned melon,http://idea.rpi.edu/heals/kb/usda#09451
+Orange Pineapple Juice Blend,http://idea.rpi.edu/heals/kb/usda#09452
+"Apples, raw, red delicious",http://idea.rpi.edu/heals/kb/usda#09500
+"Apples, raw, golden delicious",http://idea.rpi.edu/heals/kb/usda#09501
+"Apples, raw, granny smith",http://idea.rpi.edu/heals/kb/usda#09502
+"Apples, raw, gala",http://idea.rpi.edu/heals/kb/usda#09503
+"Apples, raw, fuji",http://idea.rpi.edu/heals/kb/usda#09504
+"Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO",http://idea.rpi.edu/heals/kb/usda#09507
+"Fruit juice smoothie, NAKED JUICE, GREEN MACHINE",http://idea.rpi.edu/heals/kb/usda#09508
+"Pineapple juice, canned, not from concentrate",http://idea.rpi.edu/heals/kb/usda#09510
+"Fruit juice smoothie, NAKED JUICE, BLUE MACHINE",http://idea.rpi.edu/heals/kb/usda#09511
+"Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD",http://idea.rpi.edu/heals/kb/usda#09513
+"Fruit juice smoothie, BOLTHOUSE FARMS, BERRY BOOST",http://idea.rpi.edu/heals/kb/usda#09514
+"Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS",http://idea.rpi.edu/heals/kb/usda#09515
+"Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana",http://idea.rpi.edu/heals/kb/usda#09516
+"Guava nectar, with sucralose, canned",http://idea.rpi.edu/heals/kb/usda#09519
+"Kiwifruit, ZESPRI SunGold, raw",http://idea.rpi.edu/heals/kb/usda#09520
+Gold3,http://idea.rpi.edu/heals/kb/usda#09520
+"Cranberry juice blend, 100% juice, bottled",http://idea.rpi.edu/heals/kb/usda#09522
+"Lemon juice from concentrate, bottled, CONCORD",http://idea.rpi.edu/heals/kb/usda#09523
+"Lemon juice from concentrate, bottled, REAL LEMON",http://idea.rpi.edu/heals/kb/usda#09524
+"Cranberry sauce, whole, canned",http://idea.rpi.edu/heals/kb/usda#09525
+"Cranberry sauce, jellied, canned",http://idea.rpi.edu/heals/kb/usda#09526
+Ruby Red grapefruit juice blend ,http://idea.rpi.edu/heals/kb/usda#09528
+"Fruit juice smoothie, ODWALLA, strawberry banana",http://idea.rpi.edu/heals/kb/usda#09530
+"Fruit juice smoothie, NAKED JUICE, strawberry banana",http://idea.rpi.edu/heals/kb/usda#09531
+"Plantains, green, raw",http://idea.rpi.edu/heals/kb/usda#09542
+"Plantains, green, boiled",http://idea.rpi.edu/heals/kb/usda#09543
+Baobab powder,http://idea.rpi.edu/heals/kb/usda#09544
+"Cherry juice, tart",http://idea.rpi.edu/heals/kb/usda#09546
+"Raspberries, puree, seedless",http://idea.rpi.edu/heals/kb/usda#09552
+"Raspberries, puree, with seeds",http://idea.rpi.edu/heals/kb/usda#09553
+Raspberry juice concentrate,http://idea.rpi.edu/heals/kb/usda#09554
+"Pork, fresh, composite of separable fat",http://idea.rpi.edu/heals/kb/usda#10000
+"Pork, fresh, carcass",http://idea.rpi.edu/heals/kb/usda#10001
+"Pork, fresh, composite of trimmed retail cuts (leg",http://idea.rpi.edu/heals/kb/usda#10002
+"Pork, fresh, composite of trimmed leg",http://idea.rpi.edu/heals/kb/usda#10003
+"Pork, fresh, backfat",http://idea.rpi.edu/heals/kb/usda#10004
+"Pork, fresh, belly",http://idea.rpi.edu/heals/kb/usda#10005
+"Pork, fresh, separable fat",http://idea.rpi.edu/heals/kb/usda#10006
+"Pork, fresh, leg ",http://idea.rpi.edu/heals/kb/usda#10008
+"Pork, fresh, loin",http://idea.rpi.edu/heals/kb/usda#10020
+"Pork, fresh, shoulder",http://idea.rpi.edu/heals/kb/usda#10070
+"Pork, fresh, spareribs",http://idea.rpi.edu/heals/kb/usda#10088
+"Pork, fresh, variety meats and by-products",http://idea.rpi.edu/heals/kb/usda#10096
+"Pork, cured, bacon",http://idea.rpi.edu/heals/kb/usda#10123
+"Pork, cured, breakfast strips",http://idea.rpi.edu/heals/kb/usda#10128
+"Canadian bacon, unprepared",http://idea.rpi.edu/heals/kb/usda#10130
+"Pork, cured, feet",http://idea.rpi.edu/heals/kb/usda#10132
+"Pork, cured, ham",http://idea.rpi.edu/heals/kb/usda#10134
+"Pork, cured, salt pork",http://idea.rpi.edu/heals/kb/usda#10165
+"Pork, cured, separable fat ",http://idea.rpi.edu/heals/kb/usda#10166
+"Pork, cured, shoulder",http://idea.rpi.edu/heals/kb/usda#10168
+"Pork, fresh, backribs",http://idea.rpi.edu/heals/kb/usda#10192
+"Pork, fresh, ground",http://idea.rpi.edu/heals/kb/usda#10219
+"Pork, fresh, composite of trimmed retail cuts ",http://idea.rpi.edu/heals/kb/usda#10226
+"HORMEL, Cure 81 Ham",http://idea.rpi.edu/heals/kb/usda#10851
+"HORMEL ALWAYS TENDER, Pork Tenderloin, Teriyaki-Flavored",http://idea.rpi.edu/heals/kb/usda#10852
+"HORMEL ALWAYS TENDER, Pork Tenderloin, Peppercorn-Flavored",http://idea.rpi.edu/heals/kb/usda#10853
+"HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",http://idea.rpi.edu/heals/kb/usda#10854
+"HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",http://idea.rpi.edu/heals/kb/usda#10855
+"HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",http://idea.rpi.edu/heals/kb/usda#10856
+HORMEL Canadian Style Bacon,http://idea.rpi.edu/heals/kb/usda#10857
+"Pork, bacon, rendered fat",http://idea.rpi.edu/heals/kb/usda#10864
+bacon drippings,http://idea.rpi.edu/heals/kb/usda#10864
+"Pork, cured, ham -- water added",http://idea.rpi.edu/heals/kb/usda#10865
+"Pork, cured, ham and water product",http://idea.rpi.edu/heals/kb/usda#10869
+"Pork, cured, ham with natural juices",http://idea.rpi.edu/heals/kb/usda#10873
+"Pork, pickled pork hocks",http://idea.rpi.edu/heals/kb/usda#10898
+"Pork, fresh, enhanced",http://idea.rpi.edu/heals/kb/usda#10944
+"Pork, loin, leg cap steak",http://idea.rpi.edu/heals/kb/usda#10956
+URMIS #3646,http://idea.rpi.edu/heals/kb/usda#10956
+Leg cap steak,http://idea.rpi.edu/heals/kb/usda#10956
+Gracilis,http://idea.rpi.edu/heals/kb/usda#10956
+"Pork, Leg Cap Steak, boneless",http://idea.rpi.edu/heals/kb/usda#10957
+URMIS #3646,http://idea.rpi.edu/heals/kb/usda#10957
+Leg cap steak,http://idea.rpi.edu/heals/kb/usda#10957
+Gracilis,http://idea.rpi.edu/heals/kb/usda#10957
+"Pork, Shoulder breast, boneless",http://idea.rpi.edu/heals/kb/usda#10958
+URMIS #3604,http://idea.rpi.edu/heals/kb/usda#10958
+Shoulder breast,http://idea.rpi.edu/heals/kb/usda#10958
+Pectoralis Profundi,http://idea.rpi.edu/heals/kb/usda#10958
+"Pork, shoulder, petite tender",http://idea.rpi.edu/heals/kb/usda#10960
+URMIS #3605,http://idea.rpi.edu/heals/kb/usda#10960
+Shoulder petite tender,http://idea.rpi.edu/heals/kb/usda#10960
+Teres major,http://idea.rpi.edu/heals/kb/usda#10960
+"Pork, Shoulder petite tender, boneless",http://idea.rpi.edu/heals/kb/usda#10961
+URMIS #3605,http://idea.rpi.edu/heals/kb/usda#10961
+Shoulder petite tender,http://idea.rpi.edu/heals/kb/usda#10961
+Teres major,http://idea.rpi.edu/heals/kb/usda#10961
+"Pork, Leg sirloin tip roast, boneless",http://idea.rpi.edu/heals/kb/usda#10962
+URMIS #3647,http://idea.rpi.edu/heals/kb/usda#10962
+Leg sirloin tip roast,http://idea.rpi.edu/heals/kb/usda#10962
+Vastas Lateralis/Rectus femoris,http://idea.rpi.edu/heals/kb/usda#10962
+"Pork, ground, 84% lean / 16% fat",http://idea.rpi.edu/heals/kb/usda#10972
+"Pork, ground, 96% lean / 4% fat",http://idea.rpi.edu/heals/kb/usda#10973
+"Pork, ground, 72% lean / 28% fat",http://idea.rpi.edu/heals/kb/usda#10974
+"Pork loin, fresh, backribs",http://idea.rpi.edu/heals/kb/usda#10980
+"Pork, fresh, blade",http://idea.rpi.edu/heals/kb/usda#10988
+"Bacon, pre-sliced, reduced/low sodium",http://idea.rpi.edu/heals/kb/usda#10994
+"Canadian bacon, cooked, pan-fried",http://idea.rpi.edu/heals/kb/usda#10998
+"Alfalfa seeds, sprouted, raw",http://idea.rpi.edu/heals/kb/usda#11001
+"Amaranth leaves, raw",http://idea.rpi.edu/heals/kb/usda#11003
+"Amaranth leaves, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11004
+"Arrowhead, raw",http://idea.rpi.edu/heals/kb/usda#11005
+"Arrowhead, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11006
+"Artichokes, , raw",http://idea.rpi.edu/heals/kb/usda#11007
+"Artichokes, , cooked",http://idea.rpi.edu/heals/kb/usda#11008
+"Artichokes, , frozen",http://idea.rpi.edu/heals/kb/usda#11009
+"Asparagus, raw",http://idea.rpi.edu/heals/kb/usda#11011
+"Asparagus, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11012
+"Asparagus, canned, regular pack",http://idea.rpi.edu/heals/kb/usda#11013
+"Asparagus, canned, drained solids",http://idea.rpi.edu/heals/kb/usda#11015
+"Asparagus, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11018
+"Asparagus, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11019
+"Balsam-pear , leafy tips, raw",http://idea.rpi.edu/heals/kb/usda#11022
+"Balsam-pear , leafy tips, cooked",http://idea.rpi.edu/heals/kb/usda#11023
+"Balsam-pear , pods, raw",http://idea.rpi.edu/heals/kb/usda#11024
+"Balsam-pear , pods, cooked",http://idea.rpi.edu/heals/kb/usda#11025
+"Bamboo shoots, raw",http://idea.rpi.edu/heals/kb/usda#11026
+"Bamboo shoots, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11027
+"Bamboo shoots, canned, drained solids",http://idea.rpi.edu/heals/kb/usda#11028
+"Beans, kidney, mature seeds",http://idea.rpi.edu/heals/kb/usda#11029
+"Lima beans, immature seeds, raw",http://idea.rpi.edu/heals/kb/usda#11031
+"Lima beans, immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11032
+"Lima beans, immature seeds, canned",http://idea.rpi.edu/heals/kb/usda#11033
+"Lima beans, immature seeds, frozen",http://idea.rpi.edu/heals/kb/usda#11037
+"Mung beans, mature seeds, sprouted",http://idea.rpi.edu/heals/kb/usda#11043
+"Beans, navy, mature seeds",http://idea.rpi.edu/heals/kb/usda#11046
+"Beans, pinto, immature seeds",http://idea.rpi.edu/heals/kb/usda#11048
+"Beans, shellie, canned",http://idea.rpi.edu/heals/kb/usda#11050
+"Beans, snap, green",http://idea.rpi.edu/heals/kb/usda#11052
+"Beans, snap, canned",http://idea.rpi.edu/heals/kb/usda#11058
+"Beets, raw",http://idea.rpi.edu/heals/kb/usda#11080
+"Beets, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11081
+"Beets, canned, regular pack",http://idea.rpi.edu/heals/kb/usda#11082
+"Beets, canned, drained solids",http://idea.rpi.edu/heals/kb/usda#11084
+"Beet greens, raw",http://idea.rpi.edu/heals/kb/usda#11086
+"Beet greens, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11087
+"Broadbeans, immature seeds, raw",http://idea.rpi.edu/heals/kb/usda#11088
+"Broadbeans, immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11089
+"Broccoli, raw",http://idea.rpi.edu/heals/kb/usda#11090
+"Broccoli, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11091
+"Broccoli, frozen, chopped",http://idea.rpi.edu/heals/kb/usda#11092
+"Broccoli, frozen, spears",http://idea.rpi.edu/heals/kb/usda#11094
+"Broccoli raab, raw",http://idea.rpi.edu/heals/kb/usda#11096
+Broccoli rabe,http://idea.rpi.edu/heals/kb/usda#11096
+Rapini,http://idea.rpi.edu/heals/kb/usda#11096
+"Broccoli raab, cooked",http://idea.rpi.edu/heals/kb/usda#11097
+Broccoli rabe,http://idea.rpi.edu/heals/kb/usda#11097
+Rapini,http://idea.rpi.edu/heals/kb/usda#11097
+"Brussels sprouts, raw",http://idea.rpi.edu/heals/kb/usda#11098
+"Brussels sprouts, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11099
+"Brussels sprouts, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11100
+"Brussels sprouts, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11101
+"Burdock root, raw",http://idea.rpi.edu/heals/kb/usda#11104
+"Burdock root, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11105
+"Butterbur, , raw",http://idea.rpi.edu/heals/kb/usda#11106
+"Butterbur, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11107
+"Butterbur, canned",http://idea.rpi.edu/heals/kb/usda#11108
+"Cabbage, raw",http://idea.rpi.edu/heals/kb/usda#11109
+"Cabbage, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11110
+"Cabbage, red, raw",http://idea.rpi.edu/heals/kb/usda#11112
+"Cabbage, red, cooked",http://idea.rpi.edu/heals/kb/usda#11113
+"Cabbage, savoy, raw",http://idea.rpi.edu/heals/kb/usda#11114
+"Cabbage, savoy, cooked",http://idea.rpi.edu/heals/kb/usda#11115
+"Cabbage, chinese, raw",http://idea.rpi.edu/heals/kb/usda#11116
+pak choi,http://idea.rpi.edu/heals/kb/usda#11116
+bok choy,http://idea.rpi.edu/heals/kb/usda#11116
+"Cabbage, chinese, cooked",http://idea.rpi.edu/heals/kb/usda#11117
+bok choy,http://idea.rpi.edu/heals/kb/usda#11117
+pak choi,http://idea.rpi.edu/heals/kb/usda#11117
+"Cabbage, kimchi",http://idea.rpi.edu/heals/kb/usda#11118
+"Cardoon, raw",http://idea.rpi.edu/heals/kb/usda#11122
+"Cardoon, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11123
+"Carrots, raw",http://idea.rpi.edu/heals/kb/usda#11124
+"Carrots, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11125
+"Carrots, canned, regular pack",http://idea.rpi.edu/heals/kb/usda#11126
+"Carrots, frozen, unprepared ",http://idea.rpi.edu/heals/kb/usda#11130
+"Carrots, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11131
+"Cassava, raw",http://idea.rpi.edu/heals/kb/usda#11134
+"Cauliflower, raw",http://idea.rpi.edu/heals/kb/usda#11135
+"Cauliflower, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11136
+"Cauliflower, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11137
+"Cauliflower, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11138
+"Celeriac, raw",http://idea.rpi.edu/heals/kb/usda#11141
+"Celeriac, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11142
+"Celery, raw",http://idea.rpi.edu/heals/kb/usda#11143
+"Celery, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11144
+"Celtuce, raw",http://idea.rpi.edu/heals/kb/usda#11145
+"Chard, swiss, raw",http://idea.rpi.edu/heals/kb/usda#11147
+"Chard, swiss, cooked",http://idea.rpi.edu/heals/kb/usda#11148
+"Chayote, fruit, raw",http://idea.rpi.edu/heals/kb/usda#11149
+christophine,http://idea.rpi.edu/heals/kb/usda#11149
+"Chayote, fruit, cooked",http://idea.rpi.edu/heals/kb/usda#11150
+christophine,http://idea.rpi.edu/heals/kb/usda#11150
+"Chicory, witloof, raw",http://idea.rpi.edu/heals/kb/usda#11151
+"Chicory greens, raw",http://idea.rpi.edu/heals/kb/usda#11152
+"Chicory roots, raw",http://idea.rpi.edu/heals/kb/usda#11154
+"Chives, raw",http://idea.rpi.edu/heals/kb/usda#11156
+"Chrysanthemum, garland, raw",http://idea.rpi.edu/heals/kb/usda#11157
+"Chrysanthemum, garland, cooked",http://idea.rpi.edu/heals/kb/usda#11158
+"Collards, raw",http://idea.rpi.edu/heals/kb/usda#11161
+"Collards, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11162
+"Collards, frozen, chopped",http://idea.rpi.edu/heals/kb/usda#11163
+"Coriander  leaves, raw",http://idea.rpi.edu/heals/kb/usda#11165
+Chinese parsley,http://idea.rpi.edu/heals/kb/usda#11165
+raw,http://idea.rpi.edu/heals/kb/usda#11165
+Cilantro,http://idea.rpi.edu/heals/kb/usda#11165
+raw,http://idea.rpi.edu/heals/kb/usda#11165
+"Corn, sweet, yellow",http://idea.rpi.edu/heals/kb/usda#11167
+"Corn, yellow, whole kernel",http://idea.rpi.edu/heals/kb/usda#11182
+"Corn with red and green peppers, canned, solids and liquids",http://idea.rpi.edu/heals/kb/usda#11184
+"Cornsalad, raw",http://idea.rpi.edu/heals/kb/usda#11190
+"Cowpeas , immature seeds, raw",http://idea.rpi.edu/heals/kb/usda#11191
+"Cowpeas , immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11192
+"Cowpeas , immature seeds, frozen",http://idea.rpi.edu/heals/kb/usda#11195
+"Cowpeas, young pods with seeds, raw",http://idea.rpi.edu/heals/kb/usda#11197
+"Cowpeas, young pods with seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11198
+"Yardlong bean, raw",http://idea.rpi.edu/heals/kb/usda#11199
+"Yardlong bean, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11200
+"Cowpeas, leafy tips, raw",http://idea.rpi.edu/heals/kb/usda#11201
+"Cowpeas, leafy tips, cooked",http://idea.rpi.edu/heals/kb/usda#11202
+"Cress, garden, raw",http://idea.rpi.edu/heals/kb/usda#11203
+"Cress, garden, cooked",http://idea.rpi.edu/heals/kb/usda#11204
+"Cucumber, with peel, raw",http://idea.rpi.edu/heals/kb/usda#11205
+"Cucumber, peeled, raw",http://idea.rpi.edu/heals/kb/usda#11206
+"Dandelion greens, raw",http://idea.rpi.edu/heals/kb/usda#11207
+"Dandelion greens, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11208
+"Eggplant, raw",http://idea.rpi.edu/heals/kb/usda#11209
+"Eggplant, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11210
+"Edamame, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11211
+"Edamame, frozen, prepared",http://idea.rpi.edu/heals/kb/usda#11212
+"Endive, raw",http://idea.rpi.edu/heals/kb/usda#11213
+"Escarole, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11214
+"Garlic, raw",http://idea.rpi.edu/heals/kb/usda#11215
+"Ginger root, raw",http://idea.rpi.edu/heals/kb/usda#11216
+"Gourd, white-flowered , raw",http://idea.rpi.edu/heals/kb/usda#11218
+"Gourd, white-flowered , cooked",http://idea.rpi.edu/heals/kb/usda#11219
+"Gourd, dishcloth , raw",http://idea.rpi.edu/heals/kb/usda#11220
+"Gourd, dishcloth , cooked",http://idea.rpi.edu/heals/kb/usda#11221
+"Drumstick leaves, raw",http://idea.rpi.edu/heals/kb/usda#11222
+Harseradish tree leaves,http://idea.rpi.edu/heals/kb/usda#11222
+"Drumstick leaves, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11223
+Horseradish-tree,http://idea.rpi.edu/heals/kb/usda#11223
+"Hyacinth-beans, immature seeds, raw",http://idea.rpi.edu/heals/kb/usda#11224
+"Hyacinth-beans, immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11225
+"Jerusalem-artichokes, raw",http://idea.rpi.edu/heals/kb/usda#11226
+Sunchokes,http://idea.rpi.edu/heals/kb/usda#11226
+"Jew's ear, , raw",http://idea.rpi.edu/heals/kb/usda#11228
+"Pepeao, dried",http://idea.rpi.edu/heals/kb/usda#11230
+"Jute, potherb, raw",http://idea.rpi.edu/heals/kb/usda#11231
+"Jute, potherb, cooked",http://idea.rpi.edu/heals/kb/usda#11232
+"Kale, raw",http://idea.rpi.edu/heals/kb/usda#11233
+"Kale, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11234
+"Kale, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11235
+"Kale, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11236
+"Kanpyo, ",http://idea.rpi.edu/heals/kb/usda#11237
+"Mushrooms, shiitake, raw",http://idea.rpi.edu/heals/kb/usda#11238
+"Mushrooms, Chanterelle, raw",http://idea.rpi.edu/heals/kb/usda#11239
+"Mushrooms, morel, raw",http://idea.rpi.edu/heals/kb/usda#11240
+"Kohlrabi, raw",http://idea.rpi.edu/heals/kb/usda#11241
+"Kohlrabi, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11242
+"Mushrooms, portabella, grilled",http://idea.rpi.edu/heals/kb/usda#11243
+Portobello,http://idea.rpi.edu/heals/kb/usda#11243
+"Lambsquarters, raw",http://idea.rpi.edu/heals/kb/usda#11244
+"Lambsquarters, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11245
+"Leeks, , raw",http://idea.rpi.edu/heals/kb/usda#11246
+"Leeks, , cooked",http://idea.rpi.edu/heals/kb/usda#11247
+"Lentils, sprouted, raw",http://idea.rpi.edu/heals/kb/usda#11248
+"Lentils, sprouted, cooked",http://idea.rpi.edu/heals/kb/usda#11249
+"Lettuce, butterhead , raw",http://idea.rpi.edu/heals/kb/usda#11250
+"Lettuce, cos or romaine, raw",http://idea.rpi.edu/heals/kb/usda#11251
+"Lettuce, iceberg , raw",http://idea.rpi.edu/heals/kb/usda#11252
+"Lettuce, green leaf, raw",http://idea.rpi.edu/heals/kb/usda#11253
+"Lotus root, raw",http://idea.rpi.edu/heals/kb/usda#11254
+"Lotus root, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11255
+"Lettuce, red leaf, raw",http://idea.rpi.edu/heals/kb/usda#11257
+"Mountain yam, hawaii, raw",http://idea.rpi.edu/heals/kb/usda#11258
+"Mountain yam, hawaii, cooked",http://idea.rpi.edu/heals/kb/usda#11259
+"Mushrooms, white, raw",http://idea.rpi.edu/heals/kb/usda#11260
+"Mushrooms, white, cooked",http://idea.rpi.edu/heals/kb/usda#11261
+"Mushrooms, white, stir-fried",http://idea.rpi.edu/heals/kb/usda#11263
+"Mushrooms, canned, drained solids",http://idea.rpi.edu/heals/kb/usda#11264
+"Mushrooms, portabella, raw",http://idea.rpi.edu/heals/kb/usda#11265
+Portabello,http://idea.rpi.edu/heals/kb/usda#11265
+"Mushrooms, brown, italian",http://idea.rpi.edu/heals/kb/usda#11266
+"Mushrooms, shiitake, stir-fried",http://idea.rpi.edu/heals/kb/usda#11267
+"Mushrooms, shiitake, dried",http://idea.rpi.edu/heals/kb/usda#11268
+"Mushrooms, shiitake, cooked",http://idea.rpi.edu/heals/kb/usda#11269
+"Mustard greens, raw",http://idea.rpi.edu/heals/kb/usda#11270
+"Mustard greens, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11271
+"Mustard greens, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11272
+"Mustard greens, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11273
+"Mustard spinach, , raw",http://idea.rpi.edu/heals/kb/usda#11274
+"Mustard spinach, , cooked",http://idea.rpi.edu/heals/kb/usda#11275
+"New Zealand spinach, raw",http://idea.rpi.edu/heals/kb/usda#11276
+"New Zealand spinach, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11277
+"Okra, raw",http://idea.rpi.edu/heals/kb/usda#11278
+"Okra, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11279
+"Okra, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11280
+"Okra, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11281
+"Onions, raw",http://idea.rpi.edu/heals/kb/usda#11282
+"Onions, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11283
+"Onions, dehydrated flakes",http://idea.rpi.edu/heals/kb/usda#11284
+"Onions, canned, solids and liquids",http://idea.rpi.edu/heals/kb/usda#11285
+"Onions, yellow, sauteed",http://idea.rpi.edu/heals/kb/usda#11286
+"Onions, frozen, chopped",http://idea.rpi.edu/heals/kb/usda#11287
+"Onions, frozen, whole",http://idea.rpi.edu/heals/kb/usda#11289
+"Onions, spring or scallions , raw",http://idea.rpi.edu/heals/kb/usda#11291
+"Onions, young green, tops only",http://idea.rpi.edu/heals/kb/usda#11292
+"Onions, welsh, raw",http://idea.rpi.edu/heals/kb/usda#11293
+"Onions, sweet, raw",http://idea.rpi.edu/heals/kb/usda#11294
+"Onion rings, breaded, par fried",http://idea.rpi.edu/heals/kb/usda#11295
+"Parsley, fresh",http://idea.rpi.edu/heals/kb/usda#11297
+"Parsnips, raw",http://idea.rpi.edu/heals/kb/usda#11298
+"Parsnips, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11299
+"Peas, edible-podded, raw",http://idea.rpi.edu/heals/kb/usda#11300
+Snowpeas,http://idea.rpi.edu/heals/kb/usda#11300
+Sugar snap peas,http://idea.rpi.edu/heals/kb/usda#11300
+"Peas, edible-podded, boiled",http://idea.rpi.edu/heals/kb/usda#11301
+Sugar snap peas,http://idea.rpi.edu/heals/kb/usda#11301
+Snowpeas,http://idea.rpi.edu/heals/kb/usda#11301
+"Peas, edible-podded, frozen",http://idea.rpi.edu/heals/kb/usda#11302
+Sugar snap peas,http://idea.rpi.edu/heals/kb/usda#11302
+Snowpeas,http://idea.rpi.edu/heals/kb/usda#11302
+"Peas, green, raw",http://idea.rpi.edu/heals/kb/usda#11304
+"Peas, green, cooked",http://idea.rpi.edu/heals/kb/usda#11305
+"Peas, green, canned",http://idea.rpi.edu/heals/kb/usda#11306
+"Peas, green , canned",http://idea.rpi.edu/heals/kb/usda#11308
+"Peas, green, frozen",http://idea.rpi.edu/heals/kb/usda#11312
+"Peas, mature seeds, sprouted",http://idea.rpi.edu/heals/kb/usda#11316
+"Peas and carrots, canned, regular pack",http://idea.rpi.edu/heals/kb/usda#11318
+"Peas and carrots, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11322
+"Peas and carrots, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11323
+"Peas and onions, canned, solids and liquids",http://idea.rpi.edu/heals/kb/usda#11324
+"Peas and onions, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11326
+"Peas and onions, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11327
+"Peppers, hot chili, green",http://idea.rpi.edu/heals/kb/usda#11329
+"Peppers, sweet, green",http://idea.rpi.edu/heals/kb/usda#11333
+"Pigeonpeas, immature seeds, raw",http://idea.rpi.edu/heals/kb/usda#11344
+"Pigeonpeas, immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11345
+Poi,http://idea.rpi.edu/heals/kb/usda#11349
+"Pokeberry shoots, , raw",http://idea.rpi.edu/heals/kb/usda#11350
+"Pokeberry shoots, , cooked",http://idea.rpi.edu/heals/kb/usda#11351
+"Potatoes, flesh and skin, raw",http://idea.rpi.edu/heals/kb/usda#11352
+"Potatoes, russet, flesh and skin",http://idea.rpi.edu/heals/kb/usda#11353
+"Potatoes, white, flesh and skin",http://idea.rpi.edu/heals/kb/usda#11354
+"Potatoes, red, flesh and skin",http://idea.rpi.edu/heals/kb/usda#11355
+"Potatoes, Russet, flesh and skin",http://idea.rpi.edu/heals/kb/usda#11356
+"Potatoes, french fried, crinkle or regular cut",http://idea.rpi.edu/heals/kb/usda#11359
+"Potatoes, roasted, salt added in processing",http://idea.rpi.edu/heals/kb/usda#11361
+"Potatoes, raw, skin",http://idea.rpi.edu/heals/kb/usda#11362
+"Potatoes, baked, flesh",http://idea.rpi.edu/heals/kb/usda#11363
+"Potatoes, baked, skin",http://idea.rpi.edu/heals/kb/usda#11364
+"Potatoes, boiled, cooked in skin",http://idea.rpi.edu/heals/kb/usda#11365
+"Potatoes, boiled, cooked without skin",http://idea.rpi.edu/heals/kb/usda#11367
+"Potatoes, microwaved, cooked in skin",http://idea.rpi.edu/heals/kb/usda#11368
+"Potatoes, hash brown, home-prepared",http://idea.rpi.edu/heals/kb/usda#11370
+Potatoes,http://idea.rpi.edu/heals/kb/usda#11370
+hashed brown,http://idea.rpi.edu/heals/kb/usda#11370
+"Potatoes, mashed, home-prepared",http://idea.rpi.edu/heals/kb/usda#11371
+"Potatoes, scalloped, home-prepared with butter",http://idea.rpi.edu/heals/kb/usda#11372
+"Potatoes, au gratin, home-prepared from recipe using butter",http://idea.rpi.edu/heals/kb/usda#11373
+"Potatoes, canned, solids and liquids",http://idea.rpi.edu/heals/kb/usda#11374
+"Potatoes, canned, drained solids",http://idea.rpi.edu/heals/kb/usda#11376
+"Potatoes, mashed, dehydrated",http://idea.rpi.edu/heals/kb/usda#11378
+"Potatoes, au gratin, dry mix",http://idea.rpi.edu/heals/kb/usda#11384
+"Potatoes, scalloped, dry mix",http://idea.rpi.edu/heals/kb/usda#11386
+"Potatoes, hash brown, frozen",http://idea.rpi.edu/heals/kb/usda#11390
+Potatoes,http://idea.rpi.edu/heals/kb/usda#11390
+hashed brown,http://idea.rpi.edu/heals/kb/usda#11390
+"Potatoes, french fried, shoestring",http://idea.rpi.edu/heals/kb/usda#11394
+"Potatoes, o'brien, frozen",http://idea.rpi.edu/heals/kb/usda#11396
+"Potato puffs, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11398
+"Potato puffs, frozen, oven-heated",http://idea.rpi.edu/heals/kb/usda#11399
+"Potatoes, frozen, whole",http://idea.rpi.edu/heals/kb/usda#11401
+"Potatoes, french fried, all types",http://idea.rpi.edu/heals/kb/usda#11402
+"Potatoes, french fried, cottage-cut",http://idea.rpi.edu/heals/kb/usda#11406
+"Potatoes, frozen, french fried",http://idea.rpi.edu/heals/kb/usda#11408
+"Potato wedges, frozen ",http://idea.rpi.edu/heals/kb/usda#11410
+"Potatoes, french fried, steak fries",http://idea.rpi.edu/heals/kb/usda#11411
+Potato flour,http://idea.rpi.edu/heals/kb/usda#11413
+"Potato salad, home-prepared",http://idea.rpi.edu/heals/kb/usda#11414
+"Pumpkin flowers, raw",http://idea.rpi.edu/heals/kb/usda#11416
+"Pumpkin flowers, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11417
+"Pumpkin leaves, raw",http://idea.rpi.edu/heals/kb/usda#11418
+"Pumpkin leaves, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11419
+"Pumpkin, raw",http://idea.rpi.edu/heals/kb/usda#11422
+"Pumpkin, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11423
+"Pumpkin, canned, without salt",http://idea.rpi.edu/heals/kb/usda#11424
+"Pumpkin pie mix, canned",http://idea.rpi.edu/heals/kb/usda#11426
+"Purslane, raw",http://idea.rpi.edu/heals/kb/usda#11427
+"Purslane, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11428
+"Radishes, raw",http://idea.rpi.edu/heals/kb/usda#11429
+"Radishes, oriental, raw",http://idea.rpi.edu/heals/kb/usda#11430
+"Radishes, oriental, cooked",http://idea.rpi.edu/heals/kb/usda#11431
+"Radishes, oriental, dried",http://idea.rpi.edu/heals/kb/usda#11432
+"Rutabagas, raw",http://idea.rpi.edu/heals/kb/usda#11435
+"Rutabagas, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11436
+"Salsify, , raw",http://idea.rpi.edu/heals/kb/usda#11437
+"Salsify, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11438
+"Sauerkraut, canned, solids and liquids",http://idea.rpi.edu/heals/kb/usda#11439
+"Seaweed, agar, raw",http://idea.rpi.edu/heals/kb/usda#11442
+"Seaweed, irishmoss, raw",http://idea.rpi.edu/heals/kb/usda#11444
+"Seaweed, kelp, raw",http://idea.rpi.edu/heals/kb/usda#11445
+"Seaweed, laver, raw",http://idea.rpi.edu/heals/kb/usda#11446
+"Sesbania flower, raw",http://idea.rpi.edu/heals/kb/usda#11447
+"Sesbania flower, cooked, steamed",http://idea.rpi.edu/heals/kb/usda#11448
+"Soybeans, green, raw",http://idea.rpi.edu/heals/kb/usda#11450
+"Soybeans, green, cooked",http://idea.rpi.edu/heals/kb/usda#11451
+"Soybeans, mature seeds, sprouted",http://idea.rpi.edu/heals/kb/usda#11452
+"Spinach, raw",http://idea.rpi.edu/heals/kb/usda#11457
+"Spinach, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11458
+"Spinach, canned, regular pack",http://idea.rpi.edu/heals/kb/usda#11459
+"Spinach, frozen, chopped or leaf",http://idea.rpi.edu/heals/kb/usda#11463
+"Squash, summer, crookneck and straightneck",http://idea.rpi.edu/heals/kb/usda#11467
+"Squash, summer, scallop",http://idea.rpi.edu/heals/kb/usda#11475
+"Squash, summer, zucchini",http://idea.rpi.edu/heals/kb/usda#11477
+"Squash, winter, acorn",http://idea.rpi.edu/heals/kb/usda#11482
+"Squash, winter, butternut",http://idea.rpi.edu/heals/kb/usda#11485
+"Squash, winter, hubbard",http://idea.rpi.edu/heals/kb/usda#11489
+"Squash, winter, spaghetti",http://idea.rpi.edu/heals/kb/usda#11492
+"Succotash, , raw",http://idea.rpi.edu/heals/kb/usda#11495
+"Succotash, , cooked",http://idea.rpi.edu/heals/kb/usda#11496
+"Succotash, , canned",http://idea.rpi.edu/heals/kb/usda#11497
+"Succotash, , frozen",http://idea.rpi.edu/heals/kb/usda#11501
+"Water convolvulus,raw",http://idea.rpi.edu/heals/kb/usda#11503
+kangkong,http://idea.rpi.edu/heals/kb/usda#11503
+water spinach,http://idea.rpi.edu/heals/kb/usda#11503
+"Water convolvulus, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11504
+Kangkong,http://idea.rpi.edu/heals/kb/usda#11504
+Water spinach,http://idea.rpi.edu/heals/kb/usda#11504
+"Sweet potato leaves, raw",http://idea.rpi.edu/heals/kb/usda#11505
+Sweetpotato leaves,http://idea.rpi.edu/heals/kb/usda#11505
+"Sweet potato leaves, cooked, steamed",http://idea.rpi.edu/heals/kb/usda#11506
+Sweetpotato leaves,http://idea.rpi.edu/heals/kb/usda#11506
+"Sweet potato, raw, unprepared ",http://idea.rpi.edu/heals/kb/usda#11507
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11507
+"Sweet potato, cooked, baked in skin",http://idea.rpi.edu/heals/kb/usda#11508
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11508
+"Sweet potato, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11510
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11510
+"Sweet potato, canned, vacuum pack",http://idea.rpi.edu/heals/kb/usda#11512
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11512
+"Sweet potato, canned, mashed",http://idea.rpi.edu/heals/kb/usda#11514
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11514
+"Sweet potato, frozen, unprepared ",http://idea.rpi.edu/heals/kb/usda#11516
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11516
+"Sweet potato, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11517
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11517
+"Taro, raw",http://idea.rpi.edu/heals/kb/usda#11518
+"Taro, cooked, without salt",http://idea.rpi.edu/heals/kb/usda#11519
+"Taro leaves, raw",http://idea.rpi.edu/heals/kb/usda#11520
+"Taro leaves, cooked, steamed",http://idea.rpi.edu/heals/kb/usda#11521
+"Taro shoots, raw",http://idea.rpi.edu/heals/kb/usda#11522
+"Taro shoots, cooked, without salt",http://idea.rpi.edu/heals/kb/usda#11523
+"Taro, tahitian, raw",http://idea.rpi.edu/heals/kb/usda#11525
+"Taro, tahitian, cooked",http://idea.rpi.edu/heals/kb/usda#11526
+"Tomatoes, green, raw",http://idea.rpi.edu/heals/kb/usda#11527
+"Tomatoes, red, ripe",http://idea.rpi.edu/heals/kb/usda#11529
+"Tomato juice, canned, with salt added",http://idea.rpi.edu/heals/kb/usda#11540
+"Tomato products, canned, paste",http://idea.rpi.edu/heals/kb/usda#11546
+"Tomato products, canned, puree",http://idea.rpi.edu/heals/kb/usda#11547
+Tomato powder,http://idea.rpi.edu/heals/kb/usda#11548
+"Tomato products, canned, sauce",http://idea.rpi.edu/heals/kb/usda#11549
+"Tree fern, cooked, without salt",http://idea.rpi.edu/heals/kb/usda#11563
+"Turnips, raw",http://idea.rpi.edu/heals/kb/usda#11564
+"Turnips, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11565
+"Turnips, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11566
+"Turnips, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11567
+"Turnip greens, raw",http://idea.rpi.edu/heals/kb/usda#11568
+"Turnip greens, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11569
+"Turnip greens, canned, solids and liquids",http://idea.rpi.edu/heals/kb/usda#11570
+"Turnip greens, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11574
+"Turnip greens, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11575
+"Turnip greens and turnips, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11576
+"Turnip greens and turnips, frozen, cooked",http://idea.rpi.edu/heals/kb/usda#11577
+"Vegetable juice cocktail, canned",http://idea.rpi.edu/heals/kb/usda#11578
+"Vegetables, mixed, canned",http://idea.rpi.edu/heals/kb/usda#11579
+"Vegetables, mixed, frozen",http://idea.rpi.edu/heals/kb/usda#11583
+"Vegetable juice cocktail, low sodium, canned",http://idea.rpi.edu/heals/kb/usda#11585
+"Vinespinach, , raw",http://idea.rpi.edu/heals/kb/usda#11587
+"Waterchestnuts, chinese, ",http://idea.rpi.edu/heals/kb/usda#11588
+"Waterchestnuts, chinese, canned",http://idea.rpi.edu/heals/kb/usda#11590
+"Watercress, raw",http://idea.rpi.edu/heals/kb/usda#11591
+"Waxgourd, , raw",http://idea.rpi.edu/heals/kb/usda#11593
+"Waxgourd, , cooked",http://idea.rpi.edu/heals/kb/usda#11594
+"Winged beans, immature seeds, raw",http://idea.rpi.edu/heals/kb/usda#11595
+"Winged beans, immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11596
+"Winged bean leaves, raw",http://idea.rpi.edu/heals/kb/usda#11597
+"Winged bean tuber, raw",http://idea.rpi.edu/heals/kb/usda#11599
+"Yam, raw",http://idea.rpi.edu/heals/kb/usda#11601
+"Yam, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11602
+"Yambean, raw",http://idea.rpi.edu/heals/kb/usda#11603
+"Yambean, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11604
+"Beets, harvard, canned",http://idea.rpi.edu/heals/kb/usda#11605
+"Beets, pickled, canned",http://idea.rpi.edu/heals/kb/usda#11609
+"Borage, raw",http://idea.rpi.edu/heals/kb/usda#11613
+"Borage, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11614
+"Chives, freeze-dried",http://idea.rpi.edu/heals/kb/usda#11615
+"Dock, raw",http://idea.rpi.edu/heals/kb/usda#11616
+"Dock, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11617
+"Eppaw, raw",http://idea.rpi.edu/heals/kb/usda#11618
+"Drumstick pods, raw",http://idea.rpi.edu/heals/kb/usda#11620
+Horseradish tree pods,http://idea.rpi.edu/heals/kb/usda#11620
+"Drumstick pods, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11621
+Horseradish tree pods,http://idea.rpi.edu/heals/kb/usda#11621
+"Leeks, , freeze-dried",http://idea.rpi.edu/heals/kb/usda#11624
+"Parsley, freeze-dried",http://idea.rpi.edu/heals/kb/usda#11625
+"Beans, mung, mature seeds",http://idea.rpi.edu/heals/kb/usda#11626
+"Peppers, jalapeno, canned",http://idea.rpi.edu/heals/kb/usda#11632
+"Radishes, white icicle, raw",http://idea.rpi.edu/heals/kb/usda#11637
+"Shallots, freeze-dried",http://idea.rpi.edu/heals/kb/usda#11640
+"Squash, summer, all varieties",http://idea.rpi.edu/heals/kb/usda#11641
+"Squash, winter, all varieties",http://idea.rpi.edu/heals/kb/usda#11643
+"Sweet potato, canned, syrup pack",http://idea.rpi.edu/heals/kb/usda#11645
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11645
+"Beans, pinto, mature seeds",http://idea.rpi.edu/heals/kb/usda#11653
+"Carrot juice, canned",http://idea.rpi.edu/heals/kb/usda#11655
+"Corn pudding, home prepared",http://idea.rpi.edu/heals/kb/usda#11656
+Spinach souffle,http://idea.rpi.edu/heals/kb/usda#11658
+"Sweet potato, cooked, candied",http://idea.rpi.edu/heals/kb/usda#11659
+Sweetpotato,http://idea.rpi.edu/heals/kb/usda#11659
+"Seaweed, agar, dried",http://idea.rpi.edu/heals/kb/usda#11663
+"Seaweed, spirulina, raw",http://idea.rpi.edu/heals/kb/usda#11666
+"Seaweed, spirulina, dried",http://idea.rpi.edu/heals/kb/usda#11667
+"Seaweed, wakame, raw",http://idea.rpi.edu/heals/kb/usda#11669
+"Potatoes, o'brien, home-prepared",http://idea.rpi.edu/heals/kb/usda#11671
+Potato pancakes,http://idea.rpi.edu/heals/kb/usda#11672
+"Potatoes, baked, flesh and skin",http://idea.rpi.edu/heals/kb/usda#11674
+"Radish seeds, sprouted, raw",http://idea.rpi.edu/heals/kb/usda#11676
+"Shallots, raw",http://idea.rpi.edu/heals/kb/usda#11677
+"Carrot, dehydrated",http://idea.rpi.edu/heals/kb/usda#11683
+"Tomatoes, crushed, canned",http://idea.rpi.edu/heals/kb/usda#11693
+"Tomatoes, orange, raw",http://idea.rpi.edu/heals/kb/usda#11695
+"Tomatoes, yellow, raw",http://idea.rpi.edu/heals/kb/usda#11696
+"Arrowroot, raw",http://idea.rpi.edu/heals/kb/usda#11697
+"Chrysanthemum leaves, raw",http://idea.rpi.edu/heals/kb/usda#11698
+"Asparagus, canned, no salt added",http://idea.rpi.edu/heals/kb/usda#11707
+"Beans, snap, yellow",http://idea.rpi.edu/heals/kb/usda#11722
+"Beets, cooked, boiled. drained",http://idea.rpi.edu/heals/kb/usda#11734
+"Beets, canned, no salt added",http://idea.rpi.edu/heals/kb/usda#11735
+"Broccoli, leaves, raw",http://idea.rpi.edu/heals/kb/usda#11739
+"Broccoli, flower clusters, raw",http://idea.rpi.edu/heals/kb/usda#11740
+"Broccoli, stalks, raw",http://idea.rpi.edu/heals/kb/usda#11741
+"Cabbage, common (danish, domestic",http://idea.rpi.edu/heals/kb/usda#11749
+"Cabbage, common, cooked",http://idea.rpi.edu/heals/kb/usda#11751
+"Carrots, canned, no salt added",http://idea.rpi.edu/heals/kb/usda#11758
+"New zealand spinach, cooked, boiled",http://idea.rpi.edu/heals/kb/usda#11802
+"Peas, edible-podded, cooked",http://idea.rpi.edu/heals/kb/usda#11809
+Sugar snap peas,http://idea.rpi.edu/heals/kb/usda#11809
+Snowpeas,http://idea.rpi.edu/heals/kb/usda#11809
+"Peas and carrots, canned, no salt added",http://idea.rpi.edu/heals/kb/usda#11816
+"Peppers, hot chili, red",http://idea.rpi.edu/heals/kb/usda#11819
+"Peppers, sweet, red",http://idea.rpi.edu/heals/kb/usda#11821
+"Potatoes, baked, skin only",http://idea.rpi.edu/heals/kb/usda#11830
+"Potatoes, microwaved, cooked",http://idea.rpi.edu/heals/kb/usda#11834
+"Potatoes, au gratin, home-prepared from recipe using margarine",http://idea.rpi.edu/heals/kb/usda#11843
+"Potatoes, scalloped, home-prepared with margarine",http://idea.rpi.edu/heals/kb/usda#11844
+"Pumpkin, canned, with salt",http://idea.rpi.edu/heals/kb/usda#11846
+"Pumpkin, flowers, cooked",http://idea.rpi.edu/heals/kb/usda#11847
+"Spinach, canned, no salt added",http://idea.rpi.edu/heals/kb/usda#11855
+"Taro, cooked, with salt",http://idea.rpi.edu/heals/kb/usda#11878
+"Taro, leaves, cooked",http://idea.rpi.edu/heals/kb/usda#11879
+"Taro, shoots, cooked",http://idea.rpi.edu/heals/kb/usda#11880
+"Tomato juice, canned, without salt added",http://idea.rpi.edu/heals/kb/usda#11886
+"Winged bean, immature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#11896
+"Corn, sweet, white",http://idea.rpi.edu/heals/kb/usda#11900
+"Tree fern, cooked, with salt",http://idea.rpi.edu/heals/kb/usda#11928
+"Potatoes, mashed, prepared from granules",http://idea.rpi.edu/heals/kb/usda#11929
+Catsup,http://idea.rpi.edu/heals/kb/usda#11935
+Ketchup,http://idea.rpi.edu/heals/kb/usda#11935
+"Pickles, cucumber, dill or kosher dill",http://idea.rpi.edu/heals/kb/usda#11937
+"Mushroom, white, exposed to ultraviolet light",http://idea.rpi.edu/heals/kb/usda#11938
+"Mushrooms, portabella, exposed to ultraviolet light",http://idea.rpi.edu/heals/kb/usda#11939
+portobella,http://idea.rpi.edu/heals/kb/usda#11939
+"Pickles, cucumber, sweet ",http://idea.rpi.edu/heals/kb/usda#11940
+"Pickles, cucumber, sour",http://idea.rpi.edu/heals/kb/usda#11941
+"Pimento, canned",http://idea.rpi.edu/heals/kb/usda#11943
+"Pickle relish, hot dog",http://idea.rpi.edu/heals/kb/usda#11944
+"Pickle relish, sweet",http://idea.rpi.edu/heals/kb/usda#11945
+"Pickles, cucumber, dill",http://idea.rpi.edu/heals/kb/usda#11947
+"Pickles, cucumber, sweet",http://idea.rpi.edu/heals/kb/usda#11948
+"Catsup, low sodium",http://idea.rpi.edu/heals/kb/usda#11949
+Ketchup,http://idea.rpi.edu/heals/kb/usda#11949
+low sodium,http://idea.rpi.edu/heals/kb/usda#11949
+"Mushrooms, enoki, raw",http://idea.rpi.edu/heals/kb/usda#11950
+"Peppers, sweet, yellow",http://idea.rpi.edu/heals/kb/usda#11951
+"Radicchio, raw",http://idea.rpi.edu/heals/kb/usda#11952
+"Squash, zucchini, baby",http://idea.rpi.edu/heals/kb/usda#11953
+"Tomatillos, raw",http://idea.rpi.edu/heals/kb/usda#11954
+"Tomatoes, sun-dried",http://idea.rpi.edu/heals/kb/usda#11955
+"Tomatoes, sun-dried, packed in oil",http://idea.rpi.edu/heals/kb/usda#11956
+"Fennel, bulb, raw",http://idea.rpi.edu/heals/kb/usda#11957
+"Pickle relish, hamburger",http://idea.rpi.edu/heals/kb/usda#11958
+"Arugula, raw",http://idea.rpi.edu/heals/kb/usda#11959
+"Carrots, baby, raw",http://idea.rpi.edu/heals/kb/usda#11960
+"Hearts of palm, canned",http://idea.rpi.edu/heals/kb/usda#11961
+"Peppers, hot chile, sun-dried",http://idea.rpi.edu/heals/kb/usda#11962
+"Nopales, raw",http://idea.rpi.edu/heals/kb/usda#11963
+"Nopales, cooked, without salt",http://idea.rpi.edu/heals/kb/usda#11964
+"Cauliflower, green, raw",http://idea.rpi.edu/heals/kb/usda#11965
+"Cauliflower, green, cooked",http://idea.rpi.edu/heals/kb/usda#11967
+"Broccoli, chinese, cooked",http://idea.rpi.edu/heals/kb/usda#11969
+"Cabbage, napa, cooked",http://idea.rpi.edu/heals/kb/usda#11970
+"Lemon grass , raw",http://idea.rpi.edu/heals/kb/usda#11972
+"Beans, fava, in pod",http://idea.rpi.edu/heals/kb/usda#11973
+"Grape leaves, raw",http://idea.rpi.edu/heals/kb/usda#11974
+"Grape leaves, canned",http://idea.rpi.edu/heals/kb/usda#11975
+"Pepper, banana, raw",http://idea.rpi.edu/heals/kb/usda#11976
+"Peppers, serrano, raw",http://idea.rpi.edu/heals/kb/usda#11977
+"Peppers, ancho, dried",http://idea.rpi.edu/heals/kb/usda#11978
+"Peppers, jalapeno, raw",http://idea.rpi.edu/heals/kb/usda#11979
+"Peppers, chili, green",http://idea.rpi.edu/heals/kb/usda#11980
+"Peppers, hungarian, raw",http://idea.rpi.edu/heals/kb/usda#11981
+"Peppers, pasilla, dried",http://idea.rpi.edu/heals/kb/usda#11982
+"Pickles, chowchow, with cauliflower onion mustard",http://idea.rpi.edu/heals/kb/usda#11983
+"Epazote, raw",http://idea.rpi.edu/heals/kb/usda#11984
+"Fireweed, leaves, raw",http://idea.rpi.edu/heals/kb/usda#11985
+"Malabar spinach, cooked",http://idea.rpi.edu/heals/kb/usda#11986
+"Mushrooms, oyster, raw",http://idea.rpi.edu/heals/kb/usda#11987
+"Fungi, Cloud ears, dried",http://idea.rpi.edu/heals/kb/usda#11988
+"Mushrooms, straw, canned",http://idea.rpi.edu/heals/kb/usda#11989
+"Wasabi, root, raw",http://idea.rpi.edu/heals/kb/usda#11990
+"Yautia , raw",http://idea.rpi.edu/heals/kb/usda#11991
+"Mushrooms, white, microwaved",http://idea.rpi.edu/heals/kb/usda#11992
+"Mushrooms, maitake, raw",http://idea.rpi.edu/heals/kb/usda#11993
+"Broccoli, chinese, raw",http://idea.rpi.edu/heals/kb/usda#11994
+gai-lan,http://idea.rpi.edu/heals/kb/usda#11994
+kai-lan,http://idea.rpi.edu/heals/kb/usda#11994
+"Fiddlehead ferns, raw",http://idea.rpi.edu/heals/kb/usda#11995
+"Fiddlehead ferns, frozen, unprepared",http://idea.rpi.edu/heals/kb/usda#11996
+"Seeds, breadfruit seeds, raw",http://idea.rpi.edu/heals/kb/usda#12001
+"Seeds, breadfruit seeds, boiled",http://idea.rpi.edu/heals/kb/usda#12003
+"Seeds, breadnut tree seeds, raw",http://idea.rpi.edu/heals/kb/usda#12004
+"Seeds, breadnut tree seeds, dried",http://idea.rpi.edu/heals/kb/usda#12005
+"Seeds, chia seeds, dried",http://idea.rpi.edu/heals/kb/usda#12006
+"Seeds, cottonseed flour, partially defatted ",http://idea.rpi.edu/heals/kb/usda#12007
+"Seeds, cottonseed flour, low fat ",http://idea.rpi.edu/heals/kb/usda#12008
+"Seeds, cottonseed meal, partially defatted ",http://idea.rpi.edu/heals/kb/usda#12011
+"Seeds, hemp seed, hulled",http://idea.rpi.edu/heals/kb/usda#12012
+"Seeds, lotus seeds, dried",http://idea.rpi.edu/heals/kb/usda#12013
+"Seeds, pumpkin and squash seed kernels, dried",http://idea.rpi.edu/heals/kb/usda#12014
+pepitas,http://idea.rpi.edu/heals/kb/usda#12014
+"Seeds, pumpkin and squash seed kernels, roasted",http://idea.rpi.edu/heals/kb/usda#12016
+pepitas,http://idea.rpi.edu/heals/kb/usda#12016
+"Seeds, safflower seed kernels, dried",http://idea.rpi.edu/heals/kb/usda#12021
+"Seeds, safflower seed meal, partially defatted",http://idea.rpi.edu/heals/kb/usda#12022
+"Seeds, sesame seeds, whole",http://idea.rpi.edu/heals/kb/usda#12023
+"Seeds, sesame seed kernels, toasted",http://idea.rpi.edu/heals/kb/usda#12029
+"Seeds, sesame flour, partially defatted",http://idea.rpi.edu/heals/kb/usda#12032
+"Seeds, sesame flour, low-fat",http://idea.rpi.edu/heals/kb/usda#12033
+"Seeds, sesame meal, partially defatted",http://idea.rpi.edu/heals/kb/usda#12034
+"Seeds, sunflower seed kernels, dried",http://idea.rpi.edu/heals/kb/usda#12036
+"Seeds, sunflower seed kernels, dry roasted",http://idea.rpi.edu/heals/kb/usda#12037
+"Seeds, sunflower seed kernels, oil roasted",http://idea.rpi.edu/heals/kb/usda#12038
+"Seeds, sunflower seed kernels, toasted",http://idea.rpi.edu/heals/kb/usda#12039
+"Seeds, sunflower seed butter, without salt",http://idea.rpi.edu/heals/kb/usda#12040
+"Seeds, sunflower seed flour, partially defatted",http://idea.rpi.edu/heals/kb/usda#12041
+"Nuts, acorns, raw",http://idea.rpi.edu/heals/kb/usda#12058
+"Nuts, acorns, dried",http://idea.rpi.edu/heals/kb/usda#12059
+"Nuts, acorn flour, full fat",http://idea.rpi.edu/heals/kb/usda#12060
+"Nuts, almonds",http://idea.rpi.edu/heals/kb/usda#12061
+"Nuts, almonds, blanched",http://idea.rpi.edu/heals/kb/usda#12062
+"Nuts, almonds, dry roasted",http://idea.rpi.edu/heals/kb/usda#12063
+Includes USDA commodity food A255,http://idea.rpi.edu/heals/kb/usda#12063
+A263,http://idea.rpi.edu/heals/kb/usda#12063
+"Nuts, almonds, oil roasted",http://idea.rpi.edu/heals/kb/usda#12065
+"Nuts, almond paste",http://idea.rpi.edu/heals/kb/usda#12071
+"Nuts, beechnuts, dried",http://idea.rpi.edu/heals/kb/usda#12077
+"Nuts, brazilnuts, dried",http://idea.rpi.edu/heals/kb/usda#12078
+brazil nuts,http://idea.rpi.edu/heals/kb/usda#12078
+"Nuts, butternuts, dried",http://idea.rpi.edu/heals/kb/usda#12084
+"Nuts, cashew nuts, dry roasted",http://idea.rpi.edu/heals/kb/usda#12085
+"Nuts, cashew nuts, oil roasted",http://idea.rpi.edu/heals/kb/usda#12086
+"Nuts, cashew nuts, raw",http://idea.rpi.edu/heals/kb/usda#12087
+"Nuts, cashew butter, plain",http://idea.rpi.edu/heals/kb/usda#12088
+"Nuts, chestnuts, chinese",http://idea.rpi.edu/heals/kb/usda#12093
+"Nuts, chestnuts, european",http://idea.rpi.edu/heals/kb/usda#12097
+"Nuts, coconut meat, raw",http://idea.rpi.edu/heals/kb/usda#12104
+"Nuts, coconut meat, dried ",http://idea.rpi.edu/heals/kb/usda#12108
+"Nuts, coconut cream, raw ",http://idea.rpi.edu/heals/kb/usda#12115
+"Nuts, coconut cream, canned",http://idea.rpi.edu/heals/kb/usda#12116
+"Nuts, coconut milk, raw ",http://idea.rpi.edu/heals/kb/usda#12117
+"Nuts, coconut milk, canned ",http://idea.rpi.edu/heals/kb/usda#12118
+"Nuts, coconut water ",http://idea.rpi.edu/heals/kb/usda#12119
+"Nuts, hazelnuts or filberts",http://idea.rpi.edu/heals/kb/usda#12120
+"Nuts, hazelnuts or filberts, blanched",http://idea.rpi.edu/heals/kb/usda#12121
+"Nuts, hazelnuts or filberts, dry roasted",http://idea.rpi.edu/heals/kb/usda#12122
+"Nuts, ginkgo nuts, raw",http://idea.rpi.edu/heals/kb/usda#12127
+"Nuts, ginkgo nuts, dried",http://idea.rpi.edu/heals/kb/usda#12128
+"Nuts, ginkgo nuts, canned",http://idea.rpi.edu/heals/kb/usda#12129
+"Nuts, hickorynuts, dried",http://idea.rpi.edu/heals/kb/usda#12130
+"Nuts, macadamia nuts, raw",http://idea.rpi.edu/heals/kb/usda#12131
+"Nuts, macadamia nuts, dry roasted",http://idea.rpi.edu/heals/kb/usda#12132
+"Nuts, mixed nuts, dry roasted",http://idea.rpi.edu/heals/kb/usda#12135
+"Nuts, mixed nuts, oil roasted",http://idea.rpi.edu/heals/kb/usda#12137
+"Nuts, formulated, wheat-based",http://idea.rpi.edu/heals/kb/usda#12140
+"Nuts, pecans",http://idea.rpi.edu/heals/kb/usda#12142
+"Nuts, pecans, dry roasted",http://idea.rpi.edu/heals/kb/usda#12143
+"Nuts, pecans, oil roasted",http://idea.rpi.edu/heals/kb/usda#12144
+"Nuts, pilinuts, dried",http://idea.rpi.edu/heals/kb/usda#12145
+"Nuts, pine nuts, dried",http://idea.rpi.edu/heals/kb/usda#12147
+"Nuts, pine nuts, pinyon",http://idea.rpi.edu/heals/kb/usda#12149
+pinon,http://idea.rpi.edu/heals/kb/usda#12149
+"Nuts, pistachio nuts, raw",http://idea.rpi.edu/heals/kb/usda#12151
+"Nuts, pistachio nuts, dry roasted",http://idea.rpi.edu/heals/kb/usda#12152
+"Nuts, walnuts, black",http://idea.rpi.edu/heals/kb/usda#12154
+"Nuts, walnuts, english",http://idea.rpi.edu/heals/kb/usda#12155
+"Nuts, walnuts, glazed",http://idea.rpi.edu/heals/kb/usda#12156
+"Nuts, walnuts, dry roasted",http://idea.rpi.edu/heals/kb/usda#12157
+"Seeds, breadfruit seeds, roasted",http://idea.rpi.edu/heals/kb/usda#12158
+"Seeds, cottonseed kernels, roasted ",http://idea.rpi.edu/heals/kb/usda#12160
+"Seeds, pumpkin and squash seeds, whole",http://idea.rpi.edu/heals/kb/usda#12163
+"Seeds, sesame butter, tahini",http://idea.rpi.edu/heals/kb/usda#12166
+"Seeds, sesame butter, paste",http://idea.rpi.edu/heals/kb/usda#12169
+"Seeds, sesame flour, high-fat",http://idea.rpi.edu/heals/kb/usda#12170
+"Seeds, watermelon seed kernels, dried",http://idea.rpi.edu/heals/kb/usda#12174
+"Nuts, chestnuts, japanese",http://idea.rpi.edu/heals/kb/usda#12175
+"Nuts, coconut milk, frozen ",http://idea.rpi.edu/heals/kb/usda#12176
+"Seeds, sisymbrium sp. seeds, whole",http://idea.rpi.edu/heals/kb/usda#12193
+"Nuts, almond butter, plain",http://idea.rpi.edu/heals/kb/usda#12195
+"Seeds, sesame seed kernels, dried ",http://idea.rpi.edu/heals/kb/usda#12201
+"Seeds, lotus seeds, raw",http://idea.rpi.edu/heals/kb/usda#12205
+"Nuts, almonds, honey roasted",http://idea.rpi.edu/heals/kb/usda#12206
+"Seeds, flaxseed",http://idea.rpi.edu/heals/kb/usda#12220
+"Seeds, sunflower seed kernels from shell, dry roasted",http://idea.rpi.edu/heals/kb/usda#12536
+"Seeds, sunflower seed butter, with salt added ",http://idea.rpi.edu/heals/kb/usda#12540
+"Beef, grass-fed, strip steaks",http://idea.rpi.edu/heals/kb/usda#13000
+"Beef, carcass, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#13001
+"Beef, retail cuts, separable fat",http://idea.rpi.edu/heals/kb/usda#13019
+"Beef, brisket, whole",http://idea.rpi.edu/heals/kb/usda#13023
+"Beef, grass-fed, ground",http://idea.rpi.edu/heals/kb/usda#13047
+Hamburger,http://idea.rpi.edu/heals/kb/usda#13047
+"Beef, brisket, flat half",http://idea.rpi.edu/heals/kb/usda#13055
+URMIS #1623,http://idea.rpi.edu/heals/kb/usda#13055
+"Beef, flank, steak",http://idea.rpi.edu/heals/kb/usda#13065
+URMIS #2399,http://idea.rpi.edu/heals/kb/usda#13065
+"Beef, rib, eye",http://idea.rpi.edu/heals/kb/usda#13095
+ribeye,http://idea.rpi.edu/heals/kb/usda#13095
+Delmonico,http://idea.rpi.edu/heals/kb/usda#13095
+"Beef, rib, shortribs",http://idea.rpi.edu/heals/kb/usda#13147
+URMIS #2074,http://idea.rpi.edu/heals/kb/usda#13147
+"Beef, round, full cut",http://idea.rpi.edu/heals/kb/usda#13156
+"Beef, shank crosscuts, separable lean only",http://idea.rpi.edu/heals/kb/usda#13227
+"Beef, short loin, porterhouse steak",http://idea.rpi.edu/heals/kb/usda#13231
+Porterhouse Steak,http://idea.rpi.edu/heals/kb/usda#13231
+URMIS # 2145,http://idea.rpi.edu/heals/kb/usda#13231
+"Beef, short loin, t-bone steak",http://idea.rpi.edu/heals/kb/usda#13235
+T-Bone Steak,http://idea.rpi.edu/heals/kb/usda#13235
+URMIS # 2184,http://idea.rpi.edu/heals/kb/usda#13235
+"Beef, rib eye, small end ",http://idea.rpi.edu/heals/kb/usda#13284
+"Beef, chuck, under blade pot roast",http://idea.rpi.edu/heals/kb/usda#13285
+URMIS #1151,http://idea.rpi.edu/heals/kb/usda#13285
+Beef,http://idea.rpi.edu/heals/kb/usda#13285
+Chuck,http://idea.rpi.edu/heals/kb/usda#13285
+Under Blade Pot Roast,http://idea.rpi.edu/heals/kb/usda#13285
+"Beef, chuck, under blade pot roast or steak",http://idea.rpi.edu/heals/kb/usda#13293
+Beef,http://idea.rpi.edu/heals/kb/usda#13293
+Chuck,http://idea.rpi.edu/heals/kb/usda#13293
+Under Blade Pot Roast or Steak,http://idea.rpi.edu/heals/kb/usda#13293
+URMIS #1151,http://idea.rpi.edu/heals/kb/usda#13293
+URMIS #1158,http://idea.rpi.edu/heals/kb/usda#13293
+"Beef, ground, patties",http://idea.rpi.edu/heals/kb/usda#13317
+hamburger,http://idea.rpi.edu/heals/kb/usda#13317
+"Beef, variety meats and by-products, brain",http://idea.rpi.edu/heals/kb/usda#13318
+"Beef, variety meats and by-products, heart",http://idea.rpi.edu/heals/kb/usda#13321
+"Beef, variety meats and by-products, kidneys",http://idea.rpi.edu/heals/kb/usda#13323
+"Beef, variety meats and by-products, liver",http://idea.rpi.edu/heals/kb/usda#13325
+"Beef, variety meats and by-products, lungs",http://idea.rpi.edu/heals/kb/usda#13328
+"Beef, variety meats and by-products, mechanically separated beef",http://idea.rpi.edu/heals/kb/usda#13330
+"Beef, variety meats and by-products, pancreas",http://idea.rpi.edu/heals/kb/usda#13331
+"Beef, variety meats and by-products, spleen",http://idea.rpi.edu/heals/kb/usda#13333
+"Beef, variety meats and by-products, suet",http://idea.rpi.edu/heals/kb/usda#13335
+"Beef, variety meats and by-products, thymus",http://idea.rpi.edu/heals/kb/usda#13337
+"Beef, variety meats and by-products, tongue",http://idea.rpi.edu/heals/kb/usda#13339
+"Beef, variety meats and by-products, tripe",http://idea.rpi.edu/heals/kb/usda#13341
+"Beef, sandwich steaks, flaked",http://idea.rpi.edu/heals/kb/usda#13342
+"Beef, cured, breakfast strips",http://idea.rpi.edu/heals/kb/usda#13344
+"Beef, cured, corned beef",http://idea.rpi.edu/heals/kb/usda#13346
+"Beef, cured, dried",http://idea.rpi.edu/heals/kb/usda#13350
+"Beef, chuck, under blade center steak",http://idea.rpi.edu/heals/kb/usda#13351
+Beef,http://idea.rpi.edu/heals/kb/usda#13351
+Chuck,http://idea.rpi.edu/heals/kb/usda#13351
+Denver Cut (Serratus Ventralis Steaks),http://idea.rpi.edu/heals/kb/usda#13351
+URMIS #1098,http://idea.rpi.edu/heals/kb/usda#13351
+"Beef, cured, luncheon meat",http://idea.rpi.edu/heals/kb/usda#13353
+"Beef, cured, pastrami",http://idea.rpi.edu/heals/kb/usda#13355
+"Sausage, beef, cured",http://idea.rpi.edu/heals/kb/usda#13357
+"Beef, chopped, cured",http://idea.rpi.edu/heals/kb/usda#13358
+"Beef, composite of trimmed retail cuts, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#13361
+"Beef, composite of trimmed retail cuts, separable lean only",http://idea.rpi.edu/heals/kb/usda#13364
+"Beef, brisket, point half",http://idea.rpi.edu/heals/kb/usda#13371
+URMIS #1628,http://idea.rpi.edu/heals/kb/usda#13371
+"Beef, chuck, arm pot roast",http://idea.rpi.edu/heals/kb/usda#13373
+"Beef, chuck, blade roast",http://idea.rpi.edu/heals/kb/usda#13379
+Top Blade Steak,http://idea.rpi.edu/heals/kb/usda#13379
+"Beef, rib, large end ",http://idea.rpi.edu/heals/kb/usda#13386
+"Beef, rib, small end ",http://idea.rpi.edu/heals/kb/usda#13391
+"Beef, round, bottom round",http://idea.rpi.edu/heals/kb/usda#13398
+Cube Steak,http://idea.rpi.edu/heals/kb/usda#13398
+"Beef, round, bottom round roast",http://idea.rpi.edu/heals/kb/usda#13414
+URMIS #1464,http://idea.rpi.edu/heals/kb/usda#13414
+"Beef, round, eye of round roast",http://idea.rpi.edu/heals/kb/usda#13415
+Eye of Round Roast,http://idea.rpi.edu/heals/kb/usda#13415
+"Beef, round, tip round",http://idea.rpi.edu/heals/kb/usda#13421
+Cube steak,http://idea.rpi.edu/heals/kb/usda#13421
+"Beef, round, top round",http://idea.rpi.edu/heals/kb/usda#13428
+London Broil,http://idea.rpi.edu/heals/kb/usda#13428
+Cube steak,http://idea.rpi.edu/heals/kb/usda#13428
+Round Steak,http://idea.rpi.edu/heals/kb/usda#13428
+Minute Steak,http://idea.rpi.edu/heals/kb/usda#13428
+"Beef, loin, tenderloin steak",http://idea.rpi.edu/heals/kb/usda#13439
+Filet Mignon,http://idea.rpi.edu/heals/kb/usda#13439
+Tenderloin Steak,http://idea.rpi.edu/heals/kb/usda#13439
+Beef Medallions,http://idea.rpi.edu/heals/kb/usda#13439
+"Beef, loin, top loin steak",http://idea.rpi.edu/heals/kb/usda#13445
+Kansas City Strip,http://idea.rpi.edu/heals/kb/usda#13445
+Boneless Strip Steak,http://idea.rpi.edu/heals/kb/usda#13445
+Club Steak,http://idea.rpi.edu/heals/kb/usda#13445
+New York Strip,http://idea.rpi.edu/heals/kb/usda#13445
+"Beef, top sirloin, steak",http://idea.rpi.edu/heals/kb/usda#13451
+Sirloin strip,http://idea.rpi.edu/heals/kb/usda#13451
+Sirloin steak,http://idea.rpi.edu/heals/kb/usda#13451
+"Beef, round, top round steak",http://idea.rpi.edu/heals/kb/usda#13491
+Top Round Steak,http://idea.rpi.edu/heals/kb/usda#13491
+"Beef, ground, 70% lean meat / 30% fat",http://idea.rpi.edu/heals/kb/usda#13494
+Hamburger,http://idea.rpi.edu/heals/kb/usda#13494
+"Beef, shoulder top blade steak, boneless",http://idea.rpi.edu/heals/kb/usda#13500
+Beef,http://idea.rpi.edu/heals/kb/usda#13500
+Chuck,http://idea.rpi.edu/heals/kb/usda#13500
+Top Blade Steak,http://idea.rpi.edu/heals/kb/usda#13500
+URMIS #1144,http://idea.rpi.edu/heals/kb/usda#13500
+"Beef, shoulder pot roast or steak, boneless",http://idea.rpi.edu/heals/kb/usda#13647
+URMIS #1132,http://idea.rpi.edu/heals/kb/usda#13647
+URMIS #1133,http://idea.rpi.edu/heals/kb/usda#13647
+Beef,http://idea.rpi.edu/heals/kb/usda#13647
+Chuck,http://idea.rpi.edu/heals/kb/usda#13647
+Clod (Shoulder) Roast or Steak,http://idea.rpi.edu/heals/kb/usda#13647
+"Beef, chuck eye roast, boneless",http://idea.rpi.edu/heals/kb/usda#13786
+URMIS #1095,http://idea.rpi.edu/heals/kb/usda#13786
+"Beef, rib, whole ",http://idea.rpi.edu/heals/kb/usda#13824
+"Beef, round, eye of round",http://idea.rpi.edu/heals/kb/usda#13877
+"Beef, short loin, top loin",http://idea.rpi.edu/heals/kb/usda#13909
+Kansas City Strip,http://idea.rpi.edu/heals/kb/usda#13909
+Club Steak,http://idea.rpi.edu/heals/kb/usda#13909
+Boneless Strip Steak,http://idea.rpi.edu/heals/kb/usda#13909
+New York Strip,http://idea.rpi.edu/heals/kb/usda#13909
+"Beef, loin, top loin",http://idea.rpi.edu/heals/kb/usda#13910
+Kansas City Strip,http://idea.rpi.edu/heals/kb/usda#13910
+Club Steak,http://idea.rpi.edu/heals/kb/usda#13910
+Boneless Strip Steak,http://idea.rpi.edu/heals/kb/usda#13910
+New York Strip,http://idea.rpi.edu/heals/kb/usda#13910
+"Beef, tenderloin, steak",http://idea.rpi.edu/heals/kb/usda#13917
+Filet Mignon,http://idea.rpi.edu/heals/kb/usda#13917
+Beef Medallions,http://idea.rpi.edu/heals/kb/usda#13917
+"Beef, tenderloin, roast",http://idea.rpi.edu/heals/kb/usda#13919
+Filet Mignon,http://idea.rpi.edu/heals/kb/usda#13919
+Beef Medallions,http://idea.rpi.edu/heals/kb/usda#13919
+"Beef, tenderloin, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#13926
+Filet Mignon,http://idea.rpi.edu/heals/kb/usda#13926
+Beef Medallions,http://idea.rpi.edu/heals/kb/usda#13926
+"Beef, chuck, clod roast",http://idea.rpi.edu/heals/kb/usda#13937
+URMIS #1947,http://idea.rpi.edu/heals/kb/usda#13937
+"Beef, shoulder steak, boneless",http://idea.rpi.edu/heals/kb/usda#13943
+URMIS #1133,http://idea.rpi.edu/heals/kb/usda#13943
+"Beef, bottom sirloin, tri-tip roast",http://idea.rpi.edu/heals/kb/usda#13953
+"Beef, chuck, mock tender steak",http://idea.rpi.edu/heals/kb/usda#13961
+URMIS #1931,http://idea.rpi.edu/heals/kb/usda#13961
+Mock Tender Steak,http://idea.rpi.edu/heals/kb/usda#13961
+"Beef, chuck, top blade",http://idea.rpi.edu/heals/kb/usda#13965
+URMIS #1959,http://idea.rpi.edu/heals/kb/usda#13965
+Top Blade Roast,http://idea.rpi.edu/heals/kb/usda#13965
+Boneless,http://idea.rpi.edu/heals/kb/usda#13965
+"Beef, plate, inside skirt steak",http://idea.rpi.edu/heals/kb/usda#13977
+Plate Skirt Steak,http://idea.rpi.edu/heals/kb/usda#13977
+"Beef, plate, outside skirt steak",http://idea.rpi.edu/heals/kb/usda#13979
+Plate Skirt Steak,http://idea.rpi.edu/heals/kb/usda#13979
+"Beef, chuck, short ribs",http://idea.rpi.edu/heals/kb/usda#13980
+Beef,http://idea.rpi.edu/heals/kb/usda#13980
+Chuck,http://idea.rpi.edu/heals/kb/usda#13980
+Short Ribs,http://idea.rpi.edu/heals/kb/usda#13980
+URMIS #1127,http://idea.rpi.edu/heals/kb/usda#13980
+"Beef, loin, bottom sirloin butt",http://idea.rpi.edu/heals/kb/usda#13985
+"Fish, anchovy, european",http://idea.rpi.edu/heals/kb/usda#15001
+"Fish, bass, fresh water",http://idea.rpi.edu/heals/kb/usda#15003
+"Fish, bass, striped",http://idea.rpi.edu/heals/kb/usda#15004
+"Fish, bluefish, raw",http://idea.rpi.edu/heals/kb/usda#15005
+"Fish, burbot, raw",http://idea.rpi.edu/heals/kb/usda#15006
+"Fish, butterfish, raw",http://idea.rpi.edu/heals/kb/usda#15007
+"Fish, carp, raw",http://idea.rpi.edu/heals/kb/usda#15008
+"Fish, carp, cooked",http://idea.rpi.edu/heals/kb/usda#15009
+"Fish, catfish, channel",http://idea.rpi.edu/heals/kb/usda#15010
+"Fish, caviar, black and red",http://idea.rpi.edu/heals/kb/usda#15012
+"Fish, cisco, raw",http://idea.rpi.edu/heals/kb/usda#15013
+"Fish, cisco, smoked",http://idea.rpi.edu/heals/kb/usda#15014
+"Fish, cod, Atlantic",http://idea.rpi.edu/heals/kb/usda#15015
+"Fish, cod, Pacific",http://idea.rpi.edu/heals/kb/usda#15019
+"Fish, croaker, Atlantic",http://idea.rpi.edu/heals/kb/usda#15020
+"Fish, cusk, raw",http://idea.rpi.edu/heals/kb/usda#15022
+"Fish, mahimahi, raw",http://idea.rpi.edu/heals/kb/usda#15023
+"Fish, drum, freshwater",http://idea.rpi.edu/heals/kb/usda#15024
+"Fish, eel, mixed species",http://idea.rpi.edu/heals/kb/usda#15025
+"Fish, fish sticks, frozen",http://idea.rpi.edu/heals/kb/usda#15027
+"Fish, flatfish , raw",http://idea.rpi.edu/heals/kb/usda#15028
+"Fish, flatfish , cooked",http://idea.rpi.edu/heals/kb/usda#15029
+"Fish, gefiltefish, commercial",http://idea.rpi.edu/heals/kb/usda#15030
+"Fish, grouper, mixed species",http://idea.rpi.edu/heals/kb/usda#15031
+"Fish, haddock, raw",http://idea.rpi.edu/heals/kb/usda#15033
+"Fish, haddock, cooked",http://idea.rpi.edu/heals/kb/usda#15034
+"Fish, haddock, smoked",http://idea.rpi.edu/heals/kb/usda#15035
+"Fish, halibut, Atlantic and Pacific",http://idea.rpi.edu/heals/kb/usda#15036
+"Fish, halibut, Greenland",http://idea.rpi.edu/heals/kb/usda#15038
+"Fish, herring, Atlantic",http://idea.rpi.edu/heals/kb/usda#15039
+"Fish, herring, Pacific",http://idea.rpi.edu/heals/kb/usda#15043
+"Fish, ling, raw",http://idea.rpi.edu/heals/kb/usda#15044
+"Fish, lingcod, raw",http://idea.rpi.edu/heals/kb/usda#15045
+"Fish, mackerel, Atlantic",http://idea.rpi.edu/heals/kb/usda#15046
+"Fish, mackerel, jack",http://idea.rpi.edu/heals/kb/usda#15048
+"Fish, mackerel, king",http://idea.rpi.edu/heals/kb/usda#15049
+"Fish, mackerel, Pacific and jack",http://idea.rpi.edu/heals/kb/usda#15050
+"Fish, mackerel, spanish",http://idea.rpi.edu/heals/kb/usda#15051
+"Fish, milkfish, raw",http://idea.rpi.edu/heals/kb/usda#15053
+"Fish, monkfish, raw",http://idea.rpi.edu/heals/kb/usda#15054
+"Fish, mullet, striped",http://idea.rpi.edu/heals/kb/usda#15055
+"Fish, ocean perch, Atlantic",http://idea.rpi.edu/heals/kb/usda#15057
+"Fish, pout, ocean",http://idea.rpi.edu/heals/kb/usda#15059
+"Fish, perch, mixed species",http://idea.rpi.edu/heals/kb/usda#15060
+"Fish, pike, northern",http://idea.rpi.edu/heals/kb/usda#15062
+"Fish, pike, walleye",http://idea.rpi.edu/heals/kb/usda#15064
+"Fish, pollock, Atlantic",http://idea.rpi.edu/heals/kb/usda#15065
+"Fish, pollock, Alaska",http://idea.rpi.edu/heals/kb/usda#15066
+"Fish, pompano, florida",http://idea.rpi.edu/heals/kb/usda#15068
+"Fish, rockfish, Pacific",http://idea.rpi.edu/heals/kb/usda#15070
+"Fish, roe, mixed species",http://idea.rpi.edu/heals/kb/usda#15072
+"Fish, roughy, orange",http://idea.rpi.edu/heals/kb/usda#15073
+"Fish, sablefish, raw",http://idea.rpi.edu/heals/kb/usda#15074
+"Fish, sablefish, smoked",http://idea.rpi.edu/heals/kb/usda#15075
+"Fish, salmon, Atlantic",http://idea.rpi.edu/heals/kb/usda#15076
+"Fish, salmon, chinook",http://idea.rpi.edu/heals/kb/usda#15077
+"Fish, salmon, chum",http://idea.rpi.edu/heals/kb/usda#15079
+"Fish, salmon, coho",http://idea.rpi.edu/heals/kb/usda#15081
+"Fish, salmon, pink",http://idea.rpi.edu/heals/kb/usda#15083
+"Fish, salmon, sockeye",http://idea.rpi.edu/heals/kb/usda#15085
+"Fish, sardine, Atlantic",http://idea.rpi.edu/heals/kb/usda#15088
+"Fish, sardine, Pacific",http://idea.rpi.edu/heals/kb/usda#15089
+"Fish, scup, raw",http://idea.rpi.edu/heals/kb/usda#15090
+"Fish, sea bass, mixed species",http://idea.rpi.edu/heals/kb/usda#15091
+"Fish, seatrout, mixed species",http://idea.rpi.edu/heals/kb/usda#15093
+"Fish, shad, american",http://idea.rpi.edu/heals/kb/usda#15094
+"Fish, shark, mixed species",http://idea.rpi.edu/heals/kb/usda#15095
+"Fish, sheepshead, raw",http://idea.rpi.edu/heals/kb/usda#15097
+"Fish, sheepshead, cooked",http://idea.rpi.edu/heals/kb/usda#15098
+"Fish, smelt, rainbow",http://idea.rpi.edu/heals/kb/usda#15099
+"Fish, snapper, mixed species",http://idea.rpi.edu/heals/kb/usda#15101
+"Fish, spot, raw",http://idea.rpi.edu/heals/kb/usda#15103
+"Fish, sturgeon, mixed species",http://idea.rpi.edu/heals/kb/usda#15104
+"Fish, sucker, white",http://idea.rpi.edu/heals/kb/usda#15107
+"Fish, sunfish, pumpkin seed",http://idea.rpi.edu/heals/kb/usda#15108
+"Fish, surimi",http://idea.rpi.edu/heals/kb/usda#15109
+"Fish, swordfish, raw",http://idea.rpi.edu/heals/kb/usda#15110
+"Fish, swordfish, cooked",http://idea.rpi.edu/heals/kb/usda#15111
+"Fish, tilefish, raw",http://idea.rpi.edu/heals/kb/usda#15112
+"Fish, tilefish, cooked",http://idea.rpi.edu/heals/kb/usda#15113
+"Fish, trout, mixed species",http://idea.rpi.edu/heals/kb/usda#15114
+"Fish, trout, rainbow",http://idea.rpi.edu/heals/kb/usda#15115
+"Fish, tuna, fresh",http://idea.rpi.edu/heals/kb/usda#15117
+"Fish, tuna, light",http://idea.rpi.edu/heals/kb/usda#15119
+"Fish, tuna, white",http://idea.rpi.edu/heals/kb/usda#15124
+"Fish, tuna salad",http://idea.rpi.edu/heals/kb/usda#15128
+"Fish, turbot, european",http://idea.rpi.edu/heals/kb/usda#15129
+"Fish, whitefish, mixed species",http://idea.rpi.edu/heals/kb/usda#15130
+"Fish, whiting, mixed species",http://idea.rpi.edu/heals/kb/usda#15132
+"Fish, wolffish, Atlantic",http://idea.rpi.edu/heals/kb/usda#15134
+"Fish, yellowtail, mixed species",http://idea.rpi.edu/heals/kb/usda#15135
+"Crustaceans, crab, alaska king",http://idea.rpi.edu/heals/kb/usda#15136
+"Crustaceans, crab, blue",http://idea.rpi.edu/heals/kb/usda#15139
+"Crustaceans, crab, dungeness",http://idea.rpi.edu/heals/kb/usda#15143
+"Crustaceans, crab, queen",http://idea.rpi.edu/heals/kb/usda#15144
+"Crustaceans, crayfish, mixed species",http://idea.rpi.edu/heals/kb/usda#15145
+"Crustaceans, lobster, northern",http://idea.rpi.edu/heals/kb/usda#15147
+"Crustaceans, shrimp, mixed species",http://idea.rpi.edu/heals/kb/usda#15149
+"Crustaceans, spiny lobster, mixed species",http://idea.rpi.edu/heals/kb/usda#15154
+"Mollusks, abalone, mixed species",http://idea.rpi.edu/heals/kb/usda#15155
+"Mollusks, clam, mixed species",http://idea.rpi.edu/heals/kb/usda#15157
+"Mollusks, cuttlefish, mixed species",http://idea.rpi.edu/heals/kb/usda#15163
+"Mollusks, mussel, blue",http://idea.rpi.edu/heals/kb/usda#15164
+"Mollusks, octopus, common",http://idea.rpi.edu/heals/kb/usda#15166
+"Mollusks, oyster, eastern",http://idea.rpi.edu/heals/kb/usda#15167
+"Mollusks, oyster, Pacific",http://idea.rpi.edu/heals/kb/usda#15171
+"Mollusks, scallop, mixed species",http://idea.rpi.edu/heals/kb/usda#15172
+"Mollusks, squid, mixed species",http://idea.rpi.edu/heals/kb/usda#15175
+"Mollusks, whelk, unspecified",http://idea.rpi.edu/heals/kb/usda#15177
+"Fish, bass, freshwater",http://idea.rpi.edu/heals/kb/usda#15187
+"Fish, bluefish, cooked",http://idea.rpi.edu/heals/kb/usda#15189
+"Fish, burbot, cooked",http://idea.rpi.edu/heals/kb/usda#15190
+"Fish, butterfish, cooked",http://idea.rpi.edu/heals/kb/usda#15191
+"Fish, cusk, cooked",http://idea.rpi.edu/heals/kb/usda#15193
+"Fish, mahimahi, cooked",http://idea.rpi.edu/heals/kb/usda#15194
+"Fish, halibut, greenland",http://idea.rpi.edu/heals/kb/usda#15196
+"Fish, ling, cooked",http://idea.rpi.edu/heals/kb/usda#15198
+"Fish, lingcod, cooked",http://idea.rpi.edu/heals/kb/usda#15199
+"Fish, milkfish, cooked",http://idea.rpi.edu/heals/kb/usda#15202
+"Fish, monkfish, cooked",http://idea.rpi.edu/heals/kb/usda#15203
+"Fish, sablefish, cooked",http://idea.rpi.edu/heals/kb/usda#15208
+"Fish, scup, cooked",http://idea.rpi.edu/heals/kb/usda#15213
+"Fish, spot, cooked",http://idea.rpi.edu/heals/kb/usda#15216
+"Fish, tuna, skipjack",http://idea.rpi.edu/heals/kb/usda#15220
+"Fish, tuna, yellowfin",http://idea.rpi.edu/heals/kb/usda#15221
+"Mollusks, conch, baked or broiled",http://idea.rpi.edu/heals/kb/usda#15250
+"Salmon nuggets, breaded, frozen",http://idea.rpi.edu/heals/kb/usda#15251
+"Salmon nuggets, cooked as purchased, unheated",http://idea.rpi.edu/heals/kb/usda#15252
+"Salmon, sockeye, canned",http://idea.rpi.edu/heals/kb/usda#15253
+"Fish, tilapia, raw",http://idea.rpi.edu/heals/kb/usda#15261
+"Fish, tilapia, cooked",http://idea.rpi.edu/heals/kb/usda#15262
+"Fish, Salmon, pink",http://idea.rpi.edu/heals/kb/usda#15265
+"Crustaceans, shrimp, raw",http://idea.rpi.edu/heals/kb/usda#15270
+"Crustaceans, shrimp, cooked",http://idea.rpi.edu/heals/kb/usda#15271
+"Fish, trout, brook",http://idea.rpi.edu/heals/kb/usda#15274
+"Beans, adzuki, mature seeds",http://idea.rpi.edu/heals/kb/usda#16001
+"Yokan, prepared from adzuki beans and sugar",http://idea.rpi.edu/heals/kb/usda#16004
+"Beans, baked, home prepared",http://idea.rpi.edu/heals/kb/usda#16005
+"Beans, baked, canned",http://idea.rpi.edu/heals/kb/usda#16006
+"Beans, black, mature seeds",http://idea.rpi.edu/heals/kb/usda#16014
+"Beans, black turtle, mature seeds",http://idea.rpi.edu/heals/kb/usda#16016
+"Beans, cranberry , mature seeds",http://idea.rpi.edu/heals/kb/usda#16019
+"Beans, french, mature seeds",http://idea.rpi.edu/heals/kb/usda#16022
+"Beans, great northern, mature seeds",http://idea.rpi.edu/heals/kb/usda#16024
+"Beans, kidney, all types",http://idea.rpi.edu/heals/kb/usda#16027
+"Beans, kidney, california red",http://idea.rpi.edu/heals/kb/usda#16030
+"Beans, kidney, red",http://idea.rpi.edu/heals/kb/usda#16032
+"Beans, kidney, royal red",http://idea.rpi.edu/heals/kb/usda#16035
+"Beans, pink, mature seeds",http://idea.rpi.edu/heals/kb/usda#16040
+"Beans, small white, mature seeds",http://idea.rpi.edu/heals/kb/usda#16045
+"Beans, yellow, mature seeds",http://idea.rpi.edu/heals/kb/usda#16047
+"Beans, white, mature seeds",http://idea.rpi.edu/heals/kb/usda#16049
+"Broadbeans , mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16052
+"Broadbeans , mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16053
+"Broadbeans , mature seeds, canned",http://idea.rpi.edu/heals/kb/usda#16054
+Carob flour,http://idea.rpi.edu/heals/kb/usda#16055
+"Chickpeas , mature seeds",http://idea.rpi.edu/heals/kb/usda#16056
+"Chili with beans, canned",http://idea.rpi.edu/heals/kb/usda#16059
+"Cowpeas, catjang, mature seeds",http://idea.rpi.edu/heals/kb/usda#16060
+"Cowpeas, common (blackeyes, crowder",http://idea.rpi.edu/heals/kb/usda#16062
+"Hyacinth beans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16067
+"Hyacinth beans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16068
+"Lentils, raw",http://idea.rpi.edu/heals/kb/usda#16069
+"Lentils, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16070
+"Lima beans, large, mature seeds",http://idea.rpi.edu/heals/kb/usda#16071
+"Lima beans, thin seeded , mature seeds",http://idea.rpi.edu/heals/kb/usda#16074
+"Lupins, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16076
+"Lupins, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16077
+"Mothbeans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16078
+mat bean,http://idea.rpi.edu/heals/kb/usda#16078
+moth bean,http://idea.rpi.edu/heals/kb/usda#16078
+"Mothbeans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16079
+mat bean,http://idea.rpi.edu/heals/kb/usda#16079
+moth bean,http://idea.rpi.edu/heals/kb/usda#16079
+"Mung beans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16080
+"Mung beans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16081
+"Noodles, chinese, cellophane or long rice ",http://idea.rpi.edu/heals/kb/usda#16082
+"Mungo beans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16083
+"Mungo beans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16084
+"Peas, green, split",http://idea.rpi.edu/heals/kb/usda#16085
+"Peas, split, mature seeds",http://idea.rpi.edu/heals/kb/usda#16086
+"Peanuts, all types, raw",http://idea.rpi.edu/heals/kb/usda#16087
+"Peanuts, all types, cooked",http://idea.rpi.edu/heals/kb/usda#16088
+"Peanuts, all types, oil-roasted",http://idea.rpi.edu/heals/kb/usda#16089
+"Peanuts, all types, dry-roasted",http://idea.rpi.edu/heals/kb/usda#16090
+"Peanuts, spanish, raw",http://idea.rpi.edu/heals/kb/usda#16091
+"Peanuts, spanish, oil-roasted",http://idea.rpi.edu/heals/kb/usda#16092
+"Peanuts, valencia, raw",http://idea.rpi.edu/heals/kb/usda#16093
+"Peanuts, valencia, oil-roasted",http://idea.rpi.edu/heals/kb/usda#16094
+"Peanuts, virginia, raw",http://idea.rpi.edu/heals/kb/usda#16095
+"Peanuts, virginia, oil-roasted",http://idea.rpi.edu/heals/kb/usda#16096
+"Peanut butter, chunk style, with salt",http://idea.rpi.edu/heals/kb/usda#16097
+"Peanut butter, smooth style, with salt ",http://idea.rpi.edu/heals/kb/usda#16098
+"Peanut flour, defatted",http://idea.rpi.edu/heals/kb/usda#16099
+"Peanut flour, low fat",http://idea.rpi.edu/heals/kb/usda#16100
+"Pigeon peas , mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16101
+"Pigeon peas , mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16102
+"Refried beans, canned, traditional style",http://idea.rpi.edu/heals/kb/usda#16103
+"Bacon, meatless",http://idea.rpi.edu/heals/kb/usda#16104
+Meat extender,http://idea.rpi.edu/heals/kb/usda#16106
+"Sausage, meatless",http://idea.rpi.edu/heals/kb/usda#16107
+"Soybeans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16108
+"Soybeans, mature cooked, boiled",http://idea.rpi.edu/heals/kb/usda#16109
+"Soybeans, mature seeds, roasted",http://idea.rpi.edu/heals/kb/usda#16110
+"Soybeans, mature seeds, dry roasted",http://idea.rpi.edu/heals/kb/usda#16111
+Soy nuts,http://idea.rpi.edu/heals/kb/usda#16111
+Miso,http://idea.rpi.edu/heals/kb/usda#16112
+Natto,http://idea.rpi.edu/heals/kb/usda#16113
+Tempeh,http://idea.rpi.edu/heals/kb/usda#16114
+"Soy flour, full-fat, raw",http://idea.rpi.edu/heals/kb/usda#16115
+"Soy flour, full-fat, roasted",http://idea.rpi.edu/heals/kb/usda#16116
+"Soy flour, defatted",http://idea.rpi.edu/heals/kb/usda#16117
+"Soy flour, low-fat",http://idea.rpi.edu/heals/kb/usda#16118
+"Soy meal, defatted, raw",http://idea.rpi.edu/heals/kb/usda#16119
+"Soymilk, original and vanilla, unfortified",http://idea.rpi.edu/heals/kb/usda#16120
+"Soy protein concentrate, produced by alcohol extraction",http://idea.rpi.edu/heals/kb/usda#16121
+Soy protein isolate,http://idea.rpi.edu/heals/kb/usda#16122
+Soy sauce made from soy and wheat ,http://idea.rpi.edu/heals/kb/usda#16123
+Soy sauce made from soy ,http://idea.rpi.edu/heals/kb/usda#16124
+Soy sauce made from hydrolyzed vegetable protein,http://idea.rpi.edu/heals/kb/usda#16125
+"Tofu, firm, prepared with calcium sulfate and magnesium chloride ",http://idea.rpi.edu/heals/kb/usda#16126
+"Tofu, soft, prepared with calcium sulfate and magnesium chloride ",http://idea.rpi.edu/heals/kb/usda#16127
+"Tofu, dried-frozen ",http://idea.rpi.edu/heals/kb/usda#16128
+"Tofu, fried",http://idea.rpi.edu/heals/kb/usda#16129
+Okara,http://idea.rpi.edu/heals/kb/usda#16130
+"Tofu, salted and fermented ",http://idea.rpi.edu/heals/kb/usda#16132
+"Yardlong beans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16133
+"Yardlong beans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16134
+"Winged beans, mature seeds, raw",http://idea.rpi.edu/heals/kb/usda#16135
+"Winged beans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16136
+"Hummus, home prepared",http://idea.rpi.edu/heals/kb/usda#16137
+"Falafel, home-prepared",http://idea.rpi.edu/heals/kb/usda#16138
+"Soymilk, original and vanilla, with added calcium",http://idea.rpi.edu/heals/kb/usda#16139
+"Lentils, pink or red, raw",http://idea.rpi.edu/heals/kb/usda#16144
+"Beans, pinto, canned",http://idea.rpi.edu/heals/kb/usda#16146
+"Veggie burgers or soyburgers, unprepared",http://idea.rpi.edu/heals/kb/usda#16147
+"Peanut spread, reduced sugar",http://idea.rpi.edu/heals/kb/usda#16149
+"Peanut butter, smooth, reduced fat",http://idea.rpi.edu/heals/kb/usda#16150
+"Peanut butter, smooth, vitamin and mineral fortified",http://idea.rpi.edu/heals/kb/usda#16155
+"Peanut butter, chunky, vitamin and mineral fortified",http://idea.rpi.edu/heals/kb/usda#16156
+Chickpea flour ,http://idea.rpi.edu/heals/kb/usda#16157
+"Hummus, commercial",http://idea.rpi.edu/heals/kb/usda#16158
+"Tofu, extra firm, prepared with nigari",http://idea.rpi.edu/heals/kb/usda#16159
+"Tofu, hard, prepared with nigari",http://idea.rpi.edu/heals/kb/usda#16160
+"Tofu, silken",http://idea.rpi.edu/heals/kb/usda#16161
+"Soymilk, chocolate, unfortified",http://idea.rpi.edu/heals/kb/usda#16166
+"Peanut Butter, smooth ",http://idea.rpi.edu/heals/kb/usda#16167
+"Soymilk, chocolate, with added calcium",http://idea.rpi.edu/heals/kb/usda#16168
+"Refried beans, canned, vegetarian",http://idea.rpi.edu/heals/kb/usda#16171
+"Refried beans, canned, fat-free",http://idea.rpi.edu/heals/kb/usda#16172
+Frijoles rojos volteados ,http://idea.rpi.edu/heals/kb/usda#16173
+"Tempeh, cooked",http://idea.rpi.edu/heals/kb/usda#16174
+"Vitasoy USA, Nasoya Lite Firm Tofu",http://idea.rpi.edu/heals/kb/usda#16210
+"Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu",http://idea.rpi.edu/heals/kb/usda#16211
+"Vitasoy USA, Organic Nasoya Extra Firm Tofu",http://idea.rpi.edu/heals/kb/usda#16212
+"Vitasoy USA, Organic Nasoya Firm Tofu",http://idea.rpi.edu/heals/kb/usda#16213
+"Vitasoy USA, Organic Nasoya Silken Tofu",http://idea.rpi.edu/heals/kb/usda#16214
+"Vitasoy USA, Vitasoy Organic Creamy Original Soymilk",http://idea.rpi.edu/heals/kb/usda#16215
+"Vitasoy USA, Vitasoy Organic Classic Original Soymilk",http://idea.rpi.edu/heals/kb/usda#16216
+"Vitasoy USA, Vitasoy Light Vanilla Soymilk",http://idea.rpi.edu/heals/kb/usda#16219
+"Soymilk , unsweetened, with added calcium",http://idea.rpi.edu/heals/kb/usda#16222
+"Soymilk , enhanced",http://idea.rpi.edu/heals/kb/usda#16223
+"Soymilk, original and vanilla, light",http://idea.rpi.edu/heals/kb/usda#16225
+"Soymilk, chocolate and other flavors, light",http://idea.rpi.edu/heals/kb/usda#16227
+"Soymilk , lowfat, with added calcium",http://idea.rpi.edu/heals/kb/usda#16229
+"Soymilk , nonfat, with added calcium",http://idea.rpi.edu/heals/kb/usda#16230
+"Soymilk, chocolate, nonfat",http://idea.rpi.edu/heals/kb/usda#16231
+"SILK Plain, soymilk",http://idea.rpi.edu/heals/kb/usda#16235
+"SILK Vanilla, soymilk",http://idea.rpi.edu/heals/kb/usda#16236
+"SILK Chocolate, soymilk",http://idea.rpi.edu/heals/kb/usda#16237
+"SILK Light Plain, soymilk",http://idea.rpi.edu/heals/kb/usda#16238
+"SILK Light Vanilla, soymilk",http://idea.rpi.edu/heals/kb/usda#16239
+"SILK Light Chocolate, soymilk",http://idea.rpi.edu/heals/kb/usda#16240
+"SILK Plus Omega-3 DHA, soymilk",http://idea.rpi.edu/heals/kb/usda#16241
+"SILK Plus for Bone Health, soymilk",http://idea.rpi.edu/heals/kb/usda#16242
+"SILK Plus Fiber, soymilk",http://idea.rpi.edu/heals/kb/usda#16243
+"SILK Unsweetened, soymilk",http://idea.rpi.edu/heals/kb/usda#16244
+"SILK Very Vanilla, soymilk",http://idea.rpi.edu/heals/kb/usda#16245
+"SILK Nog, soymilk",http://idea.rpi.edu/heals/kb/usda#16246
+"SILK Chai, soymilk",http://idea.rpi.edu/heals/kb/usda#16247
+"SILK Mocha, soymilk",http://idea.rpi.edu/heals/kb/usda#16248
+"SILK Coffee, soymilk",http://idea.rpi.edu/heals/kb/usda#16249
+SILK Vanilla soy yogurt ,http://idea.rpi.edu/heals/kb/usda#16250
+SILK Plain soy yogurt,http://idea.rpi.edu/heals/kb/usda#16252
+SILK Strawberry soy yogurt,http://idea.rpi.edu/heals/kb/usda#16253
+SILK Raspberry soy yogurt,http://idea.rpi.edu/heals/kb/usda#16254
+SILK Peach soy yogurt,http://idea.rpi.edu/heals/kb/usda#16255
+SILK Black Cherry soy yogurt,http://idea.rpi.edu/heals/kb/usda#16256
+SILK Blueberry soy yogurt,http://idea.rpi.edu/heals/kb/usda#16257
+SILK Key Lime soy yogurt,http://idea.rpi.edu/heals/kb/usda#16258
+SILK Banana-Strawberry soy yogurt,http://idea.rpi.edu/heals/kb/usda#16259
+SILK Original Creamer,http://idea.rpi.edu/heals/kb/usda#16260
+SILK French Vanilla Creamer,http://idea.rpi.edu/heals/kb/usda#16261
+SILK Hazelnut Creamer,http://idea.rpi.edu/heals/kb/usda#16262
+"Vitasoy USA Organic Nasoya, Soft Tofu",http://idea.rpi.edu/heals/kb/usda#16271
+"Vitasoy USA Nasoya, Lite Silken Tofu",http://idea.rpi.edu/heals/kb/usda#16272
+"Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm",http://idea.rpi.edu/heals/kb/usda#16273
+"Vitasoy USA Organic Nasoya, Tofu Plus Firm",http://idea.rpi.edu/heals/kb/usda#16274
+"Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Super Firm",http://idea.rpi.edu/heals/kb/usda#16275
+"Vitasoy USA Azumaya, Extra Firm Tofu",http://idea.rpi.edu/heals/kb/usda#16276
+"Vitasoy USA Azumaya, Firm Tofu",http://idea.rpi.edu/heals/kb/usda#16277
+"Vitasoy USA Azumaya, Silken Tofu",http://idea.rpi.edu/heals/kb/usda#16278
+HOUSE FOODS Premium Soft Tofu,http://idea.rpi.edu/heals/kb/usda#16279
+HOUSE FOODS Premium Firm Tofu,http://idea.rpi.edu/heals/kb/usda#16281
+"Beans, adzuki, mature seed",http://idea.rpi.edu/heals/kb/usda#16302
+"Peanut butter, chunk style, without salt",http://idea.rpi.edu/heals/kb/usda#16397
+"Peanut butter, smooth style, without salt",http://idea.rpi.edu/heals/kb/usda#16398
+"Peanut butter with omega-3, creamy",http://idea.rpi.edu/heals/kb/usda#16399
+"Refried beans, canned, traditional",http://idea.rpi.edu/heals/kb/usda#16403
+"Soybeans, mature seeds, cooked",http://idea.rpi.edu/heals/kb/usda#16409
+"Soy protein concentrate, produced by acid wash",http://idea.rpi.edu/heals/kb/usda#16420
+"Soy protein isolate, potassium type",http://idea.rpi.edu/heals/kb/usda#16422
+"Soy sauce made from soy and wheat , low sodium",http://idea.rpi.edu/heals/kb/usda#16424
+"Soy sauce, reduced sodium, made from hydrolyzed vegetable protein",http://idea.rpi.edu/heals/kb/usda#16425
+"Tofu, raw, firm",http://idea.rpi.edu/heals/kb/usda#16426
+"Tofu, raw, regular",http://idea.rpi.edu/heals/kb/usda#16427
+"Tofu, dried-frozen , prepared with calcium sulfate",http://idea.rpi.edu/heals/kb/usda#16428
+"Tofu, fried, prepared with calcium sulfate",http://idea.rpi.edu/heals/kb/usda#16429
+"Tofu, salted and fermented , prepared with calcium sulfate",http://idea.rpi.edu/heals/kb/usda#16432
+"Veal, Australian, rib",http://idea.rpi.edu/heals/kb/usda#17000
+"Lamb, composite of trimmed retail cuts, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17001
+"Lamb, composite of trimmed retail cuts, separable lean only",http://idea.rpi.edu/heals/kb/usda#17003
+"Lamb, composite of trimmed retail cuts, separable fat",http://idea.rpi.edu/heals/kb/usda#17005
+"Lamb, foreshank, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17007
+"Lamb, foreshank, separable lean only",http://idea.rpi.edu/heals/kb/usda#17009
+"Lamb, leg, whole ",http://idea.rpi.edu/heals/kb/usda#17011
+"Lamb, leg, shank half",http://idea.rpi.edu/heals/kb/usda#17015
+"Lamb, leg, sirloin half",http://idea.rpi.edu/heals/kb/usda#17019
+"Lamb, loin, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17023
+"Lamb, loin, separable lean only",http://idea.rpi.edu/heals/kb/usda#17026
+"Lamb, rib, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17029
+"Lamb, rib, separable lean only",http://idea.rpi.edu/heals/kb/usda#17032
+"Lamb, shoulder, whole ",http://idea.rpi.edu/heals/kb/usda#17035
+"Lamb, shoulder, arm",http://idea.rpi.edu/heals/kb/usda#17043
+"Lamb, shoulder, blade",http://idea.rpi.edu/heals/kb/usda#17051
+"Lamb, cubed for stew or kabob , separable lean only",http://idea.rpi.edu/heals/kb/usda#17059
+"Lamb, New Zealand, imported",http://idea.rpi.edu/heals/kb/usda#17062
+"Veal, composite of trimmed retail cuts, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17088
+"Veal, composite of trimmed retail cuts, separable lean only",http://idea.rpi.edu/heals/kb/usda#17090
+"Veal, composite of trimmed retail cuts, separable fat",http://idea.rpi.edu/heals/kb/usda#17092
+"Veal, leg , separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17094
+"Veal, leg , separable lean only",http://idea.rpi.edu/heals/kb/usda#17099
+"Veal, loin, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17104
+IMPS# 332,http://idea.rpi.edu/heals/kb/usda#17104
+"Veal, loin, separable lean only",http://idea.rpi.edu/heals/kb/usda#17107
+IMPS # 332,http://idea.rpi.edu/heals/kb/usda#17107
+"Veal, rib, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17110
+"Veal, rib, separable lean only",http://idea.rpi.edu/heals/kb/usda#17113
+"Veal, shoulder, whole ",http://idea.rpi.edu/heals/kb/usda#17116
+"Veal, shoulder, arm",http://idea.rpi.edu/heals/kb/usda#17122
+"Veal, shoulder, blade chop",http://idea.rpi.edu/heals/kb/usda#17128
+IMPS# 1309,http://idea.rpi.edu/heals/kb/usda#17128
+"Veal, shoulder, blade",http://idea.rpi.edu/heals/kb/usda#17129
+"Veal, sirloin, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17134
+"Veal, sirloin, separable lean only",http://idea.rpi.edu/heals/kb/usda#17137
+"Veal, cubed for stew , separable lean only",http://idea.rpi.edu/heals/kb/usda#17140
+"Veal, ground, raw",http://idea.rpi.edu/heals/kb/usda#17142
+IMPS 396,http://idea.rpi.edu/heals/kb/usda#17142
+"Veal, ground, cooked",http://idea.rpi.edu/heals/kb/usda#17143
+"Game meat, antelope, raw",http://idea.rpi.edu/heals/kb/usda#17144
+"Game meat, antelope, cooked",http://idea.rpi.edu/heals/kb/usda#17145
+"Game meat, bear, raw",http://idea.rpi.edu/heals/kb/usda#17146
+"Game meat, bear, cooked",http://idea.rpi.edu/heals/kb/usda#17147
+"Bison, ground, grass-fed",http://idea.rpi.edu/heals/kb/usda#17148
+Buffalo,http://idea.rpi.edu/heals/kb/usda#17148
+"Game meat, beaver, raw",http://idea.rpi.edu/heals/kb/usda#17150
+"Game meat, beaver, cooked",http://idea.rpi.edu/heals/kb/usda#17151
+"Game meat, beefalo, composite of cuts",http://idea.rpi.edu/heals/kb/usda#17152
+"Veal, Australian, separable fat",http://idea.rpi.edu/heals/kb/usda#17154
+"Game meat, bison, separable lean only",http://idea.rpi.edu/heals/kb/usda#17156
+buffalo,http://idea.rpi.edu/heals/kb/usda#17156
+"Game meat, boar, wild",http://idea.rpi.edu/heals/kb/usda#17158
+"Game meat, buffalo, water",http://idea.rpi.edu/heals/kb/usda#17160
+"Game meat, caribou, raw",http://idea.rpi.edu/heals/kb/usda#17162
+"Game meat, caribou, cooked",http://idea.rpi.edu/heals/kb/usda#17163
+"Game meat, deer, raw",http://idea.rpi.edu/heals/kb/usda#17164
+"Game meat, deer, cooked",http://idea.rpi.edu/heals/kb/usda#17165
+"Game meat, elk, raw",http://idea.rpi.edu/heals/kb/usda#17166
+"Game meat, elk, cooked",http://idea.rpi.edu/heals/kb/usda#17167
+"Game meat, goat, raw",http://idea.rpi.edu/heals/kb/usda#17168
+"Game meat, goat, cooked",http://idea.rpi.edu/heals/kb/usda#17169
+"Game meat, horse, raw",http://idea.rpi.edu/heals/kb/usda#17170
+"Game meat, horse, cooked",http://idea.rpi.edu/heals/kb/usda#17171
+"Game meat, moose, raw",http://idea.rpi.edu/heals/kb/usda#17172
+"Game meat, moose, cooked",http://idea.rpi.edu/heals/kb/usda#17173
+"Game meat, muskrat, raw",http://idea.rpi.edu/heals/kb/usda#17174
+"Game meat, muskrat, cooked",http://idea.rpi.edu/heals/kb/usda#17175
+"Game meat, opossum, cooked",http://idea.rpi.edu/heals/kb/usda#17176
+"Game meat, rabbit, domesticated",http://idea.rpi.edu/heals/kb/usda#17177
+"Game meat, rabbit, wild",http://idea.rpi.edu/heals/kb/usda#17180
+"Game meat, raccoon, cooked",http://idea.rpi.edu/heals/kb/usda#17182
+"Game meat, squirrel, raw",http://idea.rpi.edu/heals/kb/usda#17183
+"Game meat, squirrel, cooked",http://idea.rpi.edu/heals/kb/usda#17184
+"Lamb, variety meats and by-products, brain",http://idea.rpi.edu/heals/kb/usda#17185
+"Veal, variety meats and by-products, brain",http://idea.rpi.edu/heals/kb/usda#17188
+"Lamb, variety meats and by-products, heart",http://idea.rpi.edu/heals/kb/usda#17191
+"Veal, variety meats and by-products, heart",http://idea.rpi.edu/heals/kb/usda#17193
+"Lamb, variety meats and by-products, kidneys",http://idea.rpi.edu/heals/kb/usda#17195
+"Veal, variety meats and by-products, kidneys",http://idea.rpi.edu/heals/kb/usda#17197
+"Lamb, variety meats and by-products, liver",http://idea.rpi.edu/heals/kb/usda#17199
+"Veal, variety meats and by-products, liver",http://idea.rpi.edu/heals/kb/usda#17202
+calf liver,http://idea.rpi.edu/heals/kb/usda#17202
+"Lamb, variety meats and by-products, lungs",http://idea.rpi.edu/heals/kb/usda#17205
+"Veal, variety meats and by-products, lungs",http://idea.rpi.edu/heals/kb/usda#17207
+"Lamb, variety meats and by-products, mechanically separated",http://idea.rpi.edu/heals/kb/usda#17209
+"Lamb, variety meats and by-products, pancreas",http://idea.rpi.edu/heals/kb/usda#17210
+"Veal, variety meats and by-products, pancreas",http://idea.rpi.edu/heals/kb/usda#17212
+"Lamb, variety meats and by-products, spleen",http://idea.rpi.edu/heals/kb/usda#17214
+"Veal, variety meats and by-products, spleen",http://idea.rpi.edu/heals/kb/usda#17216
+"Veal, variety meats and by-products, thymus",http://idea.rpi.edu/heals/kb/usda#17218
+"Lamb, variety meats and by-products, tongue",http://idea.rpi.edu/heals/kb/usda#17220
+"Veal, variety meats and by-products, tongue",http://idea.rpi.edu/heals/kb/usda#17222
+"Lamb, ground, raw",http://idea.rpi.edu/heals/kb/usda#17224
+"Lamb, ground, cooked",http://idea.rpi.edu/heals/kb/usda#17225
+"Lamb, new zealand, imported",http://idea.rpi.edu/heals/kb/usda#17262
+"Game meat, bison, top sirloin",http://idea.rpi.edu/heals/kb/usda#17267
+buffalo,http://idea.rpi.edu/heals/kb/usda#17267
+"Game meat, bison, ribeye",http://idea.rpi.edu/heals/kb/usda#17268
+buffalo,http://idea.rpi.edu/heals/kb/usda#17268
+"Game meat, bison, shoulder clod",http://idea.rpi.edu/heals/kb/usda#17269
+buffalo,http://idea.rpi.edu/heals/kb/usda#17269
+"Veal, breast, separable fat",http://idea.rpi.edu/heals/kb/usda#17270
+"Veal, breast, whole",http://idea.rpi.edu/heals/kb/usda#17271
+"Veal, breast, plate half",http://idea.rpi.edu/heals/kb/usda#17273
+"Veal, breast, point half",http://idea.rpi.edu/heals/kb/usda#17274
+"Veal, shank , separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17276
+"Veal, shank , separable lean only",http://idea.rpi.edu/heals/kb/usda#17278
+"Lamb, Australian, imported",http://idea.rpi.edu/heals/kb/usda#17280
+"Game meat , bison, ground",http://idea.rpi.edu/heals/kb/usda#17330
+buffalo,http://idea.rpi.edu/heals/kb/usda#17330
+"Game meat, bison, ground",http://idea.rpi.edu/heals/kb/usda#17331
+buffalo,http://idea.rpi.edu/heals/kb/usda#17331
+"Game meat , bison, top sirloin",http://idea.rpi.edu/heals/kb/usda#17332
+buffalo,http://idea.rpi.edu/heals/kb/usda#17332
+"Game meat, bison, chuck",http://idea.rpi.edu/heals/kb/usda#17333
+buffalo,http://idea.rpi.edu/heals/kb/usda#17333
+"Game meat, bison, top round",http://idea.rpi.edu/heals/kb/usda#17336
+buffalo,http://idea.rpi.edu/heals/kb/usda#17336
+"Game meat, elk, ground",http://idea.rpi.edu/heals/kb/usda#17338
+"Game meat, elk, loin",http://idea.rpi.edu/heals/kb/usda#17340
+"Game meat, elk, round",http://idea.rpi.edu/heals/kb/usda#17341
+"Game meat, elk, tenderloin",http://idea.rpi.edu/heals/kb/usda#17342
+"Game meat, deer, ground",http://idea.rpi.edu/heals/kb/usda#17343
+venison,http://idea.rpi.edu/heals/kb/usda#17343
+"Game meat, deer, loin",http://idea.rpi.edu/heals/kb/usda#17345
+venison,http://idea.rpi.edu/heals/kb/usda#17345
+"Game meat, deer, shoulder clod",http://idea.rpi.edu/heals/kb/usda#17346
+venison,http://idea.rpi.edu/heals/kb/usda#17346
+"Game meat, deer, tenderloin",http://idea.rpi.edu/heals/kb/usda#17347
+venison,http://idea.rpi.edu/heals/kb/usda#17347
+"Game meat, deer, top round",http://idea.rpi.edu/heals/kb/usda#17348
+venison,http://idea.rpi.edu/heals/kb/usda#17348
+"Veal, Australian, shank",http://idea.rpi.edu/heals/kb/usda#17349
+"Lamb, Australian, ground",http://idea.rpi.edu/heals/kb/usda#17353
+"Veal, leg, top round",http://idea.rpi.edu/heals/kb/usda#17425
+IMPS#1336,http://idea.rpi.edu/heals/kb/usda#17425
+"Veal, loin, chop",http://idea.rpi.edu/heals/kb/usda#17427
+IMPS #1332,http://idea.rpi.edu/heals/kb/usda#17427
+"Veal, shank, separable lean only",http://idea.rpi.edu/heals/kb/usda#17428
+IMPS #312,http://idea.rpi.edu/heals/kb/usda#17428
+"Veal, foreshank, osso buco",http://idea.rpi.edu/heals/kb/usda#17429
+IMPS # 1312,http://idea.rpi.edu/heals/kb/usda#17429
+"Veal, external fat only, raw",http://idea.rpi.edu/heals/kb/usda#17431
+"Veal, external fat only, cooked",http://idea.rpi.edu/heals/kb/usda#17432
+"Veal, seam fat only, raw",http://idea.rpi.edu/heals/kb/usda#17433
+"Veal, seam fat only, cooked",http://idea.rpi.edu/heals/kb/usda#17434
+"Veal, shank, separable lean and fat",http://idea.rpi.edu/heals/kb/usda#17435
+IMPS# 312,http://idea.rpi.edu/heals/kb/usda#17435
+"Amaranth grain, uncooked",http://idea.rpi.edu/heals/kb/usda#20001
+"Amaranth grain, cooked",http://idea.rpi.edu/heals/kb/usda#20002
+Arrowroot flour,http://idea.rpi.edu/heals/kb/usda#20003
+"Barley, hulled",http://idea.rpi.edu/heals/kb/usda#20004
+"Barley, pearled, raw",http://idea.rpi.edu/heals/kb/usda#20005
+"Barley, pearled, cooked",http://idea.rpi.edu/heals/kb/usda#20006
+Buckwheat,http://idea.rpi.edu/heals/kb/usda#20008
+"Buckwheat groats, roasted, dry",http://idea.rpi.edu/heals/kb/usda#20009
+kasha,http://idea.rpi.edu/heals/kb/usda#20009
+"Buckwheat groats, roasted, cooked",http://idea.rpi.edu/heals/kb/usda#20010
+kasha,http://idea.rpi.edu/heals/kb/usda#20010
+"Buckwheat flour, whole-groat",http://idea.rpi.edu/heals/kb/usda#20011
+"Bulgur, dry",http://idea.rpi.edu/heals/kb/usda#20012
+"Bulgur, cooked",http://idea.rpi.edu/heals/kb/usda#20013
+"Corn grain, yellow",http://idea.rpi.edu/heals/kb/usda#20014
+dent corn,http://idea.rpi.edu/heals/kb/usda#20014
+field corn,http://idea.rpi.edu/heals/kb/usda#20014
+"Corn bran, crude",http://idea.rpi.edu/heals/kb/usda#20015
+"Corn flour, whole-grain, yellow",http://idea.rpi.edu/heals/kb/usda#20016
+"Corn flour, masa, enriched",http://idea.rpi.edu/heals/kb/usda#20017
+"Corn flour, yellow, degermed",http://idea.rpi.edu/heals/kb/usda#20018
+"Corn flour, masa, unenriched",http://idea.rpi.edu/heals/kb/usda#20019
+"Cornmeal, whole-grain, yellow",http://idea.rpi.edu/heals/kb/usda#20020
+"Cornmeal, degermed, enriched",http://idea.rpi.edu/heals/kb/usda#20022
+"Cornmeal, yellow, self-rising",http://idea.rpi.edu/heals/kb/usda#20023
+Cornstarch,http://idea.rpi.edu/heals/kb/usda#20027
+"Couscous, dry",http://idea.rpi.edu/heals/kb/usda#20028
+"Couscous, cooked",http://idea.rpi.edu/heals/kb/usda#20029
+"Hominy, canned, white",http://idea.rpi.edu/heals/kb/usda#20030
+"Millet, raw",http://idea.rpi.edu/heals/kb/usda#20031
+"Millet, cooked",http://idea.rpi.edu/heals/kb/usda#20032
+"Oat bran, raw",http://idea.rpi.edu/heals/kb/usda#20033
+"Oat bran, cooked",http://idea.rpi.edu/heals/kb/usda#20034
+"Quinoa, uncooked",http://idea.rpi.edu/heals/kb/usda#20035
+"Rice, brown, long-grain",http://idea.rpi.edu/heals/kb/usda#20036
+Oats ,http://idea.rpi.edu/heals/kb/usda#20038
+"Rice, brown, medium-grain",http://idea.rpi.edu/heals/kb/usda#20040
+"Rice, brown, parboiled",http://idea.rpi.edu/heals/kb/usda#20042
+"Rice, white, long-grain",http://idea.rpi.edu/heals/kb/usda#20044
+"Rice, white, medium-grain",http://idea.rpi.edu/heals/kb/usda#20050
+"Rice, white, short-grain",http://idea.rpi.edu/heals/kb/usda#20052
+"Rice, white, glutinous",http://idea.rpi.edu/heals/kb/usda#20054
+"Rice, white, steamed",http://idea.rpi.edu/heals/kb/usda#20058
+"Rice bran, crude",http://idea.rpi.edu/heals/kb/usda#20060
+"Rice flour, white, unenriched",http://idea.rpi.edu/heals/kb/usda#20061
+Rye grain,http://idea.rpi.edu/heals/kb/usda#20062
+"Rye flour, dark",http://idea.rpi.edu/heals/kb/usda#20063
+"Rye flour, medium",http://idea.rpi.edu/heals/kb/usda#20064
+"Rye flour, light",http://idea.rpi.edu/heals/kb/usda#20065
+"Semolina, enriched",http://idea.rpi.edu/heals/kb/usda#20066
+Sorghum grain,http://idea.rpi.edu/heals/kb/usda#20067
+"Tapioca, pearl, dry",http://idea.rpi.edu/heals/kb/usda#20068
+Triticale,http://idea.rpi.edu/heals/kb/usda#20069
+"Triticale flour, whole-grain",http://idea.rpi.edu/heals/kb/usda#20070
+"Wheat, hard red spring",http://idea.rpi.edu/heals/kb/usda#20071
+"Wheat, hard red winter",http://idea.rpi.edu/heals/kb/usda#20072
+"Wheat, soft red winter",http://idea.rpi.edu/heals/kb/usda#20073
+"Wheat, hard white",http://idea.rpi.edu/heals/kb/usda#20074
+"Wheat, soft white",http://idea.rpi.edu/heals/kb/usda#20075
+"Wheat, durum",http://idea.rpi.edu/heals/kb/usda#20076
+"Wheat bran, crude",http://idea.rpi.edu/heals/kb/usda#20077
+"Wheat germ, crude",http://idea.rpi.edu/heals/kb/usda#20078
+"Wheat flour, whole-grain ",http://idea.rpi.edu/heals/kb/usda#20080
+"Wheat flour, white, all-purpose",http://idea.rpi.edu/heals/kb/usda#20081
+"Wheat flour, white, bread",http://idea.rpi.edu/heals/kb/usda#20083
+"Wheat flour, white, cake",http://idea.rpi.edu/heals/kb/usda#20084
+"Wheat flour, white, tortilla mix",http://idea.rpi.edu/heals/kb/usda#20086
+"Wheat, sprouted",http://idea.rpi.edu/heals/kb/usda#20087
+"Wild rice, raw",http://idea.rpi.edu/heals/kb/usda#20088
+"Wild rice, cooked",http://idea.rpi.edu/heals/kb/usda#20089
+"Rice flour, brown",http://idea.rpi.edu/heals/kb/usda#20090
+"Pasta, gluten-free, corn",http://idea.rpi.edu/heals/kb/usda#20091
+"Pasta, fresh-refrigerated, plain",http://idea.rpi.edu/heals/kb/usda#20093
+"Pasta, fresh-refrigerated, spinach",http://idea.rpi.edu/heals/kb/usda#20095
+"Pasta, homemade, made with egg",http://idea.rpi.edu/heals/kb/usda#20097
+"Pasta, homemade, made without egg",http://idea.rpi.edu/heals/kb/usda#20098
+"Macaroni, vegetable, enriched",http://idea.rpi.edu/heals/kb/usda#20105
+"Noodles, egg, dry",http://idea.rpi.edu/heals/kb/usda#20109
+"Noodles, egg, enriched",http://idea.rpi.edu/heals/kb/usda#20110
+"Noodles, egg, spinach",http://idea.rpi.edu/heals/kb/usda#20111
+"Noodles, chinese, chow mein",http://idea.rpi.edu/heals/kb/usda#20113
+"Noodles, japanese, soba",http://idea.rpi.edu/heals/kb/usda#20114
+"Noodles, japanese, somen",http://idea.rpi.edu/heals/kb/usda#20116
+"Noodles, flat, crunchy",http://idea.rpi.edu/heals/kb/usda#20118
+"Pasta, dry, enriched",http://idea.rpi.edu/heals/kb/usda#20120
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20120
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20120
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20120
+lasagna,http://idea.rpi.edu/heals/kb/usda#20120
+penne,http://idea.rpi.edu/heals/kb/usda#20120
+rotini,http://idea.rpi.edu/heals/kb/usda#20120
+farfalle,http://idea.rpi.edu/heals/kb/usda#20120
+shells,http://idea.rpi.edu/heals/kb/usda#20120
+"Pasta, cooked, enriched",http://idea.rpi.edu/heals/kb/usda#20121
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20121
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20121
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20121
+rotini,http://idea.rpi.edu/heals/kb/usda#20121
+lasagna,http://idea.rpi.edu/heals/kb/usda#20121
+farfalle,http://idea.rpi.edu/heals/kb/usda#20121
+shells,http://idea.rpi.edu/heals/kb/usda#20121
+penne,http://idea.rpi.edu/heals/kb/usda#20121
+"Pasta, whole-wheat, dry ",http://idea.rpi.edu/heals/kb/usda#20124
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20124
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20124
+penne,http://idea.rpi.edu/heals/kb/usda#20124
+farfalle,http://idea.rpi.edu/heals/kb/usda#20124
+lasagna,http://idea.rpi.edu/heals/kb/usda#20124
+shells,http://idea.rpi.edu/heals/kb/usda#20124
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20124
+"Pasta, whole-wheat, cooked ",http://idea.rpi.edu/heals/kb/usda#20125
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20125
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20125
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20125
+penne,http://idea.rpi.edu/heals/kb/usda#20125
+farfalle,http://idea.rpi.edu/heals/kb/usda#20125
+lasagna,http://idea.rpi.edu/heals/kb/usda#20125
+rotini,http://idea.rpi.edu/heals/kb/usda#20125
+shells,http://idea.rpi.edu/heals/kb/usda#20125
+"Spaghetti, spinach, dry",http://idea.rpi.edu/heals/kb/usda#20126
+"Spaghetti, spinach, cooked",http://idea.rpi.edu/heals/kb/usda#20127
+"Wheat flours, bread, unenriched",http://idea.rpi.edu/heals/kb/usda#20129
+Barley flour or meal,http://idea.rpi.edu/heals/kb/usda#20130
+Barley malt flour,http://idea.rpi.edu/heals/kb/usda#20131
+"Oat flour, partially debranned",http://idea.rpi.edu/heals/kb/usda#20132
+"Rice noodles, dry",http://idea.rpi.edu/heals/kb/usda#20133
+"Rice noodles, cooked",http://idea.rpi.edu/heals/kb/usda#20134
+"Pasta, whole grain, 51% whole wheat",http://idea.rpi.edu/heals/kb/usda#20135
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20135
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20135
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20135
+farfalle,http://idea.rpi.edu/heals/kb/usda#20135
+rotini,http://idea.rpi.edu/heals/kb/usda#20135
+lasagna,http://idea.rpi.edu/heals/kb/usda#20135
+shells,http://idea.rpi.edu/heals/kb/usda#20135
+penne,http://idea.rpi.edu/heals/kb/usda#20135
+"Quinoa, cooked",http://idea.rpi.edu/heals/kb/usda#20137
+"Wheat, KAMUT khorasan, uncooked",http://idea.rpi.edu/heals/kb/usda#20138
+khorassan wheat,http://idea.rpi.edu/heals/kb/usda#20138
+"Wheat, KAMUT khorasan, cooked",http://idea.rpi.edu/heals/kb/usda#20139
+khorassan wheat,http://idea.rpi.edu/heals/kb/usda#20139
+"Spelt, uncooked",http://idea.rpi.edu/heals/kb/usda#20140
+"Spelt, cooked",http://idea.rpi.edu/heals/kb/usda#20141
+"Teff, uncooked",http://idea.rpi.edu/heals/kb/usda#20142
+"Teff, cooked",http://idea.rpi.edu/heals/kb/usda#20143
+"Noodles, egg, cooked",http://idea.rpi.edu/heals/kb/usda#20310
+"Corn grain, white",http://idea.rpi.edu/heals/kb/usda#20314
+dent corn,http://idea.rpi.edu/heals/kb/usda#20314
+field corn,http://idea.rpi.edu/heals/kb/usda#20314
+"Corn flour, whole-grain, blue ",http://idea.rpi.edu/heals/kb/usda#20315
+"Corn flour, whole-grain, white",http://idea.rpi.edu/heals/kb/usda#20316
+"Corn flour, yellow, masa",http://idea.rpi.edu/heals/kb/usda#20317
+"Cornmeal, whole-grain, white",http://idea.rpi.edu/heals/kb/usda#20320
+"Cornmeal, white, self-rising",http://idea.rpi.edu/heals/kb/usda#20323
+"Hominy, canned, yellow",http://idea.rpi.edu/heals/kb/usda#20330
+"Noodles, egg, unenriched",http://idea.rpi.edu/heals/kb/usda#20410
+"Pasta, dry, unenriched",http://idea.rpi.edu/heals/kb/usda#20420
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20420
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20420
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20420
+lasagna,http://idea.rpi.edu/heals/kb/usda#20420
+rotini,http://idea.rpi.edu/heals/kb/usda#20420
+shells,http://idea.rpi.edu/heals/kb/usda#20420
+farfalle,http://idea.rpi.edu/heals/kb/usda#20420
+penne,http://idea.rpi.edu/heals/kb/usda#20420
+"Pasta, cooked, unenriched",http://idea.rpi.edu/heals/kb/usda#20421
+macaroni product,http://idea.rpi.edu/heals/kb/usda#20421
+spaghetti,http://idea.rpi.edu/heals/kb/usda#20421
+elbow macaroni,http://idea.rpi.edu/heals/kb/usda#20421
+penne,http://idea.rpi.edu/heals/kb/usda#20421
+shells,http://idea.rpi.edu/heals/kb/usda#20421
+farfalle,http://idea.rpi.edu/heals/kb/usda#20421
+rotini,http://idea.rpi.edu/heals/kb/usda#20421
+lasagna,http://idea.rpi.edu/heals/kb/usda#20421
+"Cornmeal, degermed, unenriched",http://idea.rpi.edu/heals/kb/usda#20422
+"Semolina, unenriched",http://idea.rpi.edu/heals/kb/usda#20466
+"Spaghetti, protein-fortified, cooked",http://idea.rpi.edu/heals/kb/usda#20523
+"Spaghetti, protein-fortified, dry",http://idea.rpi.edu/heals/kb/usda#20622
+"Wheat flour, white , 9% protein",http://idea.rpi.edu/heals/kb/usda#20623
+"Wheat flour, white , 10% protein",http://idea.rpi.edu/heals/kb/usda#20628
+"Wheat flour, white , 11.5% protein",http://idea.rpi.edu/heals/kb/usda#20634
+"Wheat flour, white , 13% protein",http://idea.rpi.edu/heals/kb/usda#20640
+"Wheat flour, white , 15% protein",http://idea.rpi.edu/heals/kb/usda#20645
+Millet flour,http://idea.rpi.edu/heals/kb/usda#20647
+"Sorghum flour, whole-grain",http://idea.rpi.edu/heals/kb/usda#20648
+"Wheat flour, whole-grain, soft wheat",http://idea.rpi.edu/heals/kb/usda#20649
+"Sorghum flour, refined, unenriched",http://idea.rpi.edu/heals/kb/usda#20650
+"Pasta, gluten-free, brown rice flour",http://idea.rpi.edu/heals/kb/usda#20654
+"Pasta, gluten-free, corn flour and quinoa flour",http://idea.rpi.edu/heals/kb/usda#20655
+"Pasta, gluten-free, rice flour and rice bran extract",http://idea.rpi.edu/heals/kb/usda#20656
+"Pasta, gluten-free, corn and rice flour",http://idea.rpi.edu/heals/kb/usda#20657
