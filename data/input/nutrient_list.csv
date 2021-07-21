@@ -1,0 +1,53 @@
+Identifier,Label,Type,Unit,Position,Turkcomp_IDs,RDV
+http://www.w3id.org/foodkg/usda#description,Shrt Desc,Desc,,2,0,0
+http://www.w3id.org/foodkg/usda#water,Water (g),Water,g,3,103,0
+http://www.w3id.org/foodkg/usda#energy,Energ Kcal,Energy,kcal,4,16,0
+http://www.w3id.org/foodkg/usda#protein,Protein (g),Protein,g,5,77,50
+http://www.w3id.org/foodkg/usda#lipid,Lipid Tot (g),Fat,g,6,17,78
+http://www.w3id.org/foodkg/usda#ash,Ash (g),Ash,g,7,6,0
+http://www.w3id.org/foodkg/usda#carbohydrate,Carbohydrt (g),Carbohydrates,g,8,11,275
+http://www.w3id.org/foodkg/usda#fiber,Fiber TD (g),Fiber,g,9,47,28
+http://www.w3id.org/foodkg/usda#sugar,Sugar Tot (g),Carbohydrates,g,10,87,20
+http://www.w3id.org/foodkg/usda#calcium,Calcium (mg),Mineral,mg,11,10,800
+http://www.w3id.org/foodkg/usda#iron,Iron (mg),Mineral,mg,12,60,14
+http://www.w3id.org/foodkg/usda#magnesium,Magnesium (mg),Mineral,mg,13,67,375
+http://www.w3id.org/foodkg/usda#phosphorus,Phosphorus (mg),Mineral,mg,14,74,700
+http://www.w3id.org/foodkg/usda#potassium,Potassium (mg),Mineral,mg,15,75,2000
+http://www.w3id.org/foodkg/usda#sodium,Sodium (mg),Mineral,mg,16,84,2000
+http://www.w3id.org/foodkg/usda#zinc,Zinc (mg),Mineral,mg,17,105,10
+http://www.w3id.org/foodkg/usda#copper,Copper mg),Mineral,mg,18,0,0
+http://www.w3id.org/foodkg/usda#manganese,Manganese (mg),Mineral,mg,19,67,0
+http://www.w3id.org/foodkg/usda#selenium,Selenium (micro_g),Mineral,µg,20,82,55
+http://www.w3id.org/foodkg/usda#vitamin_C,Vit C (mg),Vitamin,mg,21,96,80
+http://www.w3id.org/foodkg/usda#thiamin,Thiamin (mg),Vitamin,mg,22,88,1.1
+http://www.w3id.org/foodkg/usda#riboflavin,Riboflavin (mg),Vitamin,mg,23,79,1.4
+http://www.w3id.org/foodkg/usda#niacin,Niacin (mg),Vitamin,mg,24,70,16
+http://www.w3id.org/foodkg/usda#panto_acid,Panto Acid (mg),Vitamin,mg,25,0,6
+http://www.w3id.org/foodkg/usda#vitamin_B6,Vit B6 (mg),Vitamin,mg,26,95,1.4
+http://www.w3id.org/foodkg/usda#folate,Folate Tot (micro_g),Vitamin,µg,27,52,0
+http://www.w3id.org/foodkg/usda#folic_acid,Folic Acid (micro_g),Vitamin,µg,28,52,200
+http://www.w3id.org/foodkg/usda#food_folate,Food Folate (micro_g),Vitamin,µg,29,51,0
+http://www.w3id.org/foodkg/usda#folate_DFE,Folate DFE (micro_g),Vitamin,µg,30,50,0
+http://www.w3id.org/foodkg/usda#choline,Choline Tot  (mg),Vitamin,mg,31,0,0
+http://www.w3id.org/foodkg/usda#vit_B12,Vit B12 (micro_g),Vitamin,µg,32,94,0
+http://www.w3id.org/foodkg/usda#vit_A,Vit A IU,Vitamin,IU,33,0,0
+http://www.w3id.org/foodkg/usda#vit_A_RAE,Vit A RAE,Vitamin,µg,34,93,800
+http://www.w3id.org/foodkg/usda#retinol,Retinol (micro_g),Vitamin,µg,35,78,0
+http://www.w3id.org/foodkg/usda#alpha_carot,Alpha Carot (micro_g),Vitamin,µg,36,0,0
+http://www.w3id.org/foodkg/usda#beta_carot,Beta Carot (micro_g),Vitamin,µg,37,9,0
+http://www.w3id.org/foodkg/usda#beta_crypt,Beta Crypt (micro_g),Vitamin,µg,38,0,0
+http://www.w3id.org/foodkg/usda#lycopene,Lycopene (micro_g),Vitamin,µg,39,65,0
+http://www.w3id.org/foodkg/usda#lut_zea,Lut+Zea  (micro_g),Vitamin,µg,40,64,0
+http://www.w3id.org/foodkg/usda#vitamin_E,Vit E (mg),Vitamin,mg,41,99,12
+http://www.w3id.org/foodkg/usda#vit_D,Vit D micro_g,Vitamin,µg,42,98,5
+http://www.w3id.org/foodkg/usda#vit_D_IU,Vit D IU,Vitamin,IU,43,97,0
+http://www.w3id.org/foodkg/usda#vit_K,Vit K (micro_g),Vitamin,µg,44,101,75
+http://www.w3id.org/foodkg/usda#fat_sat,FA Sat (g),Fat,g,45,46,20
+http://www.w3id.org/foodkg/usda#fat_mono,FA Mono (g),Fat,g,46,44,0
+http://www.w3id.org/foodkg/usda#fat_poly,FA Poly (g),Fat,g,47,45,0
+http://www.w3id.org/foodkg/usda#cholestrl,Cholestrl (mg),Vitamin,mg,48,12,0
+http://www.w3id.org/foodkg/usda#GmWt_1,GmWt 1,Desc,,49,0,0
+http://www.w3id.org/foodkg/usda#GmWt_Desc1,GmWt Desc1,Desc,,50,0,0
+http://www.w3id.org/foodkg/usda#GmWt_2,GmWt 2,Desc,,51,0,0
+http://www.w3id.org/foodkg/usda#GmWt_Desc2,GmWt Desc2,Desc,,52,0,0
+http://www.w3id.org/foodkg/usda#Refuse_Pct,Refuse Pct,Desc,,53,0,0
